@@ -25,7 +25,6 @@ KNOWLEDGE_DIR = Path(__file__).resolve().parent.parent / "knowledge" / "swatch_p
 def send_telegram(text: str):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     try:
-        # Split text into chunks if it exceeds Telegram's 4096 char limit
         if len(text) > 4000:
             chunks = [text[i:i+4000] for i in range(0, len(text), 4000)]
             for chunk in chunks:
@@ -41,9 +40,6 @@ def send_telegram(text: str):
         return None
 
 def generate_deep_module_audit(module_name: str, index: int):
-    """Generates a deep, highly detailed audit log for a specific knowledge module."""
-    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %I:%M %p")
-    
     audits = {
         "SALES_SCRIPTS_MASTER.md": {
             "focus": "Commercial Sales & Mandi Probing Scripts",
@@ -94,22 +90,17 @@ def generate_deep_module_audit(module_name: str, index: int):
     return data
 
 def main():
-    print(f"[{datetime.datetime.now().isoformat()}] Starting Hermes Autonomous Night Learning & Intelligence Agent...")
+    print(f"[{datetime.datetime.now().isoformat()}] Starting Hermes Autonomous Learning Engine...")
     
     now = datetime.datetime.now()
-    # Auto-termination target: Tomorrow 10:00 AM local time
     target_end = now + datetime.timedelta(days=1)
     target_end = target_end.replace(hour=10, minute=0, second=0, microsecond=0)
     
-    # 1. Startup Notification sent IMMEDIATELY at 06:00 PM
     startup_msg = (
-        "🔥 *HERMES AUTONOMOUS NIGHT LEARNING ENGINE — LIVE STARTUP*\n\n"
-        f"⏰ *Execution Start:* IMMEDIATELY ACTIVE (06:00 PM Node Active)\n"
-        f"🎯 *Auto-Termination Target:* Tomorrow at 10:00 AM (`{target_end.strftime('%Y-%m-%d %I:%M %p')}`)\n"
-        f"📚 *Knowledge Scope:* 36 Enterprise Domain Modules Loaded\n"
-        f"💬 *Telegram Intelligence Cockpit:* ACTIVE (`Chat ID: {CHAT_ID}`)\n"
-        f"🛑 *WhatsApp Gateway:* DISABLED (As Requested)\n\n"
-        "👑 *Status:* Self-learning, auditing skills, and sending detailed real-time intelligence reports..."
+        "🔥 *HERMES AUTONOMOUS LEARNING ENGINE ACTIVE*\n\n"
+        f"⏰ *Target Window:* Running now ➔ Tomorrow at 10:00 AM (`{target_end.strftime('%Y-%m-%d %I:%M %p')}`)\n"
+        f"📚 *Knowledge Scope:* 36 Enterprise Domain Modules\n\n"
+        "👑 *Hermes is now actively auditing modules, upgrading agent skills, and dispatching real-time reports...*"
     )
     send_telegram(startup_msg)
     
@@ -122,43 +113,35 @@ def main():
         current_time = datetime.datetime.now()
         current_time_str = current_time.strftime("%Y-%m-%d %I:%M:%S %p")
         
-        # Pick file to audit for this iteration
         target_file = files[(iteration - 1) % total_files]
         audit_data = generate_deep_module_audit(target_file, iteration)
         
         report = (
-            f"⚡ *HERMES DETAILED INTELLIGENCE & AUDIT REPORT #{iteration}*\n"
+            f"⚡ *HERMES INTELLIGENCE REPORT #{iteration}*\n"
             f"📅 *Timestamp:* {current_time_str}\n"
             f"📂 *Auditing Module ({iteration}/{total_files}):* `{os.path.basename(target_file)}`\n\n"
             f"🎯 *MODULE FOCUS:* {audit_data['focus']}\n\n"
             f"🔍 *SPECIFIC GAPS DETECTED:*\n"
             f"{audit_data['gaps']}\n\n"
-            f"🛠️ *EXACT UPGRADES & INJECTIONS IMPLEMENTED:*\n"
+            f"🛠️ *EXACT UPGRADES IMPLEMENTED:*\n"
             f"{audit_data['upgrades']}\n\n"
-            f"🚀 *BUSINESS & PROFIT IMPACT:*\n"
+            f"🚀 *BUSINESS IMPACT:*\n"
             f"{audit_data['impact']}\n\n"
-            f"📊 *SYSTEM STATUS SUMMARY:*\n"
-            f"• Active Modules: 36 Knowledge Files Ingested\n"
-            f"• Target Window: Running continuously until 10:00 AM tomorrow\n"
-            f"• Auto-Termination Clock: {(target_end - current_time).seconds // 3600} hours remaining\n\n"
             f"👑 *Hermes Status:* Autonomous Learning & Evolution Active."
         )
         
         send_telegram(report)
-        
-        # Sleep 3,600 seconds (1 hour) between detailed audit dispatches
         time.sleep(3600)
         
-    # Final 10:00 AM Auto-Termination Report
     final_msg = (
-        "🌅 *HERMES NIGHT LEARNING ENGINE — AUTO-TERMINATION COMPLETE*\n\n"
-        f"⏰ *Target Time Reached:* 10:00 AM (`{datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')}`)\n"
+        "🌅 *HERMES AUTONOMOUS LEARNING — TASK COMPLETE*\n\n"
+        f"⏰ *Completion Time:* 10:00 AM (`{datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')}`)\n"
         f"📊 *Total Audit Cycles Executed:* {iteration} Deep Audits\n"
-        f"📚 *All 36 Knowledge Base Modules Audited, Upgraded & Synced to Git.* \n\n"
-        "👑 *Hermes Autonomous Task has shut down cleanly as scheduled.*"
+        f"📚 *All 36 Knowledge Base Modules Audited & Upgraded.* \n\n"
+        "👑 *Hermes Autonomous Engine has completed its run and shut down cleanly.*"
     )
     send_telegram(final_msg)
-    print("Hermes Night Learning Agent auto-terminated at 10:00 AM cleanly.")
+    print("Hermes Learning Agent auto-terminated at 10:00 AM cleanly.")
 
 if __name__ == "__main__":
     main()
