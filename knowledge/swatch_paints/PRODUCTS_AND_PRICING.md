@@ -26,9 +26,9 @@ Premium weather-resistant exterior emulsion engineered for extreme heat, rain, a
 | Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
 | :--- | :--- | :--- | :--- | :--- |
 | **20 Litre Bucket** | ₹ 2,100 | ₹ 2,600 – ₹ 2,850 | ₹ 3,200 – ₹ 3,500 | ₹ 4,100 |
-| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,300 – ₹ 2,500 |
-| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,200 – ₹ 1,400 |
-| **1 Litre Pack** | ₹ 100 – ₹ 120 | ₹ 150 – ₹ 170 | ₹ 200 – ₹ 220 | ₹ 230 – ₹ 250 |
+| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,400 |
+| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,450 |
+| **1 Litre Pack** | ₹ 100 – ₹ 120 | ₹ 150 – ₹ 170 | ₹ 200 – ₹ 220 | ₹ 250 |
 
 ---
 
@@ -38,9 +38,9 @@ Luxury high-sheen, smooth washable interior emulsion for premium residential and
 | Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
 | :--- | :--- | :--- | :--- | :--- |
 | **20 Litre Bucket** | ₹ 2,000 | ₹ 2,450 – ₹ 2,650 | ₹ 3,050 – ₹ 3,300 | ₹ 4,100 |
-| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,300 – ₹ 2,500 |
-| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,200 – ₹ 1,400 |
-| **1 Litre Pack** | ₹ 90 – ₹ 110 | ₹ 140 – ₹ 160 | ₹ 180 – ₹ 200 | ₹ 230 – ₹ 250 |
+| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,300 |
+| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,400 |
+| **1 Litre Pack** | ₹ 90 – ₹ 110 | ₹ 140 – ₹ 160 | ₹ 180 – ₹ 200 | ₹ 230 |
 
 ---
 
