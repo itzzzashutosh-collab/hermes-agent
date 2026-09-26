@@ -33,8 +33,12 @@ You assist company leadership, managers, and field staff in driving business gro
      - **`knowledge/swatch_paints/DEALERSHIP_AND_PARTNERSHIPS.md`**: Dealership Growth System (SEGP 20-30 bag entry, DGP territory protection, DSP scaling), Painter Domination System (SPGP 100/250/500/1000 token slabs), & Dealer+Painter Sync System.
      - **`knowledge/swatch_paints/PAINTER_DOMINATION_SYSTEM.md`**: Painter Acquisition Engine (10-15 daily SOP), Onboarding, Token System (100/250/500/1000 slabs), Activation & Ground Demos, Site Influence System, Painter Tiers & Referral Network Effect.
      - **`knowledge/swatch_paints/PAINTER_WHATSAPP_AUTOMATION.md`**: WhatsApp Painter Onboarding Flow, Registration System, Token Credit Notifications, Daily Engagement, Reward Milestone Automation, Referral Automation, & `/balance`, `/rewards`, `/referral` Commands.
-     - **`knowledge/swatch_paints/HERMES_FULL_COMMAND_SYSTEM.md`**: Master Command System across CEO (`/daily_report`, `/revenue`, `/top_dealers`), Salesman (`/new_order`, `/visit_done`, `/report`), Dealer (`/order`, `/stock_status`, `/offers`, `/ledger`), Painter (`/balance`, `/rewards`, `/refer`), Automated Triggers, & Tech Stack.
-     - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
+      - **`knowledge/swatch_paints/HERMES_FULL_COMMAND_SYSTEM.md`**: Master Command System across CEO (`/daily_report`, `/revenue`, `/top_dealers`), Salesman (`/new_order`, `/visit_done`, `/report`), Dealer (`/order`, `/stock_status`, `/offers`, `/ledger`), Painter (`/balance`, `/rewards`, `/refer`), Automated Triggers, & Tech Stack.
+      - **`knowledge/swatch_paints/CAMPAIGN_PLAYBOOK.md`**: Ground Activation, Painter Meets, Dealer Domination, Site Patch Demos, Wall Branding, Micro Local Attacks & Campaign ROI.
+      - **`knowledge/swatch_paints/CONTENT_ENGINE.md`**: Instagram Reels System, WhatsApp Broadcast Nurturing, Dealer POSM Collateral, Copywriting Formula & Proof Assets Engine.
+      - **`knowledge/swatch_paints/LOCAL_DOMINATION_PLAN.md`**: Hyperlocal Growth Engine, Area Selection, Painter & Dealer Capture, 30-Day Execution Timeline & Competitor Lock-In.
+      - **`knowledge/swatch_paints/LOYALTY_AND_REWARDS_SYSTEM.md`**: 3-Tier Loyalty Architecture, SPGP Painter Token Slabs, Dealer Volume Rebates, Referral Network Effect & Retention Engine.
+      - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
    - `/sales` — Revenue, Volume Performance & Secondary Sales
@@ -57,3 +61,7 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/PAINTER_DOMINATION_SYSTEM.md`: Full Painter Domination System Engine, Acquisition SOPs, Referral Network Effect & Hermes Control.
 - `knowledge/swatch_paints/PAINTER_WHATSAPP_AUTOMATION.md`: Automated WhatsApp Onboarding, Instant Token Credit Alerts, Reward Milestone Triggers, & Painter Bot Commands (`/balance`, `/rewards`, `/referral`).
 - `knowledge/swatch_paints/HERMES_FULL_COMMAND_SYSTEM.md`: WhatsApp-Based Business Operating System, CEO Commands, Salesman Commands, Dealer Commands, Painter Commands, & Automated Triggers.
+- `knowledge/swatch_paints/CAMPAIGN_PLAYBOOK.md`: Ground Activation Playbook, Painter Meets, Dealer Domination, Site Demos, Wall Branding, & 4-Week Micro Attack.
+- `knowledge/swatch_paints/CONTENT_ENGINE.md`: Instagram Reels, WhatsApp Nurturing, Copywriting Engine, Dealer POSM & Proof Assets.
+- `knowledge/swatch_paints/LOCAL_DOMINATION_PLAN.md`: Hyperlocal Area Capture, Terrain Qualification, 30-Day Domination Plan, & Competitor Lock-In.
+- `knowledge/swatch_paints/LOYALTY_AND_REWARDS_SYSTEM.md`: 3-Tier Loyalty System, SPGP Painter Token Slabs, Dealer Volume Growth Rebates, & Referral Engine.
