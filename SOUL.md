@@ -42,6 +42,7 @@ You assist company leadership, managers, and field staff in driving business gro
       - **`knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`**: Quality Testing Protocol, Viscometer & Wall Spread QC, Batch Approval & Zero Defect SOP.
       - **`knowledge/swatch_paints/INVENTORY_SYSTEM.md`**: Raw Material Reorder Rules, ABC Categorization, FIFO Protocol, 3-Tier Stock Audits & Loss Prevention.
       - **`knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`**: Order Verification, Stock Picking, Pyramid Loading, OTIF Logistics & Route Clubbing.
+      - **`knowledge/swatch_paints/UNIT_ECONOMICS_SYSTEM.md`**: Per-Bag Unit Cost Sheet, 4-Tier Pricing Waterfall, Break-Even Math & Cash Flow SOP.
       - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
@@ -73,3 +74,4 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`: Factory QC Testing Protocol, Stormer Viscosity, Wall Spread Test, Batch Approval Sign-off & Complaint Loop.
 - `knowledge/swatch_paints/INVENTORY_SYSTEM.md`: Raw Material Buffer SOP, ABC Category A/B/C Classification, FIFO Stock Control & Audit Cadence.
 - `knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`: Order Verification, Pyramid Cargo Loading, Same-Day Dispatch Cadence, OTIF Logistics & Transit Claim SOP.
+- `knowledge/swatch_paints/UNIT_ECONOMICS_SYSTEM.md`: Per-Bag Cost Sheet (RM, Pkg, Labor, Freight), 4-Tier Pricing Waterfall, Break-Even Math & Cash Control.
