@@ -1,5 +1,5 @@
 ﻿---
-name: review
+name: evaluate
 description: Performance Review & Evaluation Engine for Swatch Paints. Conducts structured performance reviews, provides KPI scorecards, evaluates individual and department performance against targets, and generates actionable improvement plans.
 category: swatch-paints-operations
 author: Hermes, CEO of Swatch Paints

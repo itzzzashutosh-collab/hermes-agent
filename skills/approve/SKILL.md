@@ -1,5 +1,5 @@
 ﻿---
-name: approve
+name: authorize
 description: Approval Workflow Manager for Swatch Paints. Handles approval requests for purchases, contracts, pricing exceptions, HR decisions, and strategic commitments. Routes requests to the correct authority level and tracks approval status.
 category: swatch-paints-operations
 author: Hermes, CEO of Swatch Paints
