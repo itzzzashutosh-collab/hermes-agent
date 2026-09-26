@@ -1,5 +1,5 @@
 # SWATCH PAINTS — HERMES AGENT ROLES SYSTEM (DEEP VERSION)
-## (CEO Agent + Sales + Marketing + Finance + Operations + Coordination System)
+## (8 Departments + 21 Sub-Agent Pods + 24 Master Legends & Frameworks)
 
 ---
 
@@ -8,246 +8,246 @@
 ---
 
 ## ❌ OLD MODEL (गलत तरीका):
-- Everything handled manually without specialized role ownership  
-- Ambiguous responsibility, delayed decisions, and fragmented execution  
+- Sub-optimal role distribution with only surface-level sales & marketing mentions  
+- Ambiguous sub-agent responsibilities and missing operational department coverage  
 
 ---
 
 ## ✅ SWATCH MODEL (सही तरीका):
-> **Specialized Sub-Agents → Clear Role Ownership → Apex Hermes Orchestration**
+> **8 Enterprise Departments → 21 Sub-Agent Pods → 24 Master Legends & Frameworks → Supreme Hermes Orchestration**
 
 ---
 
 ## 🎯 MAIN RULE:
-> **Har business function ka ek dedicated owner agent hoga.**  
-> **Aur Hermes apex orchestrator har department ko real-time coordinate aur execute karwayega.**  
+> **Har enterprise function ka 1 Chief Department Lead Agent, specialized Sub-Agent Pods, aur proven Master Legend Frameworks honge.**  
+> **Hermes Supreme Orchestrator in sabko Real-Time sync aur execute karwayega.**  
 
 ---
 
-# ⚙️ 2. AGENT ARCHITECTURE & ORCHESTRATION
+# ⚙️ 2. MASTER 8-DEPARTMENTAL ENTERPRISE ARCHITECTURE
 
 ```
-                           ┌─────────────────────────────────────────┐
-                           │      CEO AGENT (Ashutosh / Vision)       │
-                           └────────────────────┬────────────────────┘
-                                                │
-                                                ▼
-                           ┌─────────────────────────────────────────┐
-                           │      HERMES APEX ORCHESTRATOR (AI)       │
-                           └────────────────────┬────────────────────┘
-                                                │
-        ┌───────────────────┬───────────────────┼───────────────────┬───────────────────┐
-        ▼                   ▼                   ▼                   ▼                   ▼
-┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐
-│  SALES AGENT  │   │MARKETING AGENT│   │ FINANCE AGENT │   │OPERATIONS AGT │   │REPORTING AGENT│
-│ (Brian Tracy) │   │(Philip Kotler)│   │  (Cash Engine)│   │ (Factory/Log) │   │ (Data Center) │
-└───────────────┘   └───────────────┘   └───────────────┘   └───────────────┘   └───────────────┘
-```
-
----
-
-# 👑 3. SUPREME CONTROL: HERMES APEX ORCHESTRATOR
-
----
-
-## 🎯 ROLE & RESPONSIBILITY:
-Hermes is the central AI brain that monitors daily operational metrics, generates proactive alerts, coordinates inter-agent handoffs, and executes strategy.
-
----
-
-## ⚙️ CORE OPERATIONAL FUNCTIONS:
-- **Daily Monitoring:** Real-time tracking of dealer orders (`/new_order`), painter token scans, factory batch yields, and cash collections.
-- **Automated Alerts:** Trigger immediate alerts on cheque bounce, stockouts, or un-visited dealers.
-- **Inter-Agent Workflow Coordination:** Seamlessly pass qualified leads from Marketing $\rightarrow$ Sales $\rightarrow$ Operations $\rightarrow$ Finance.
-
----
-
-## 🎯 GOLDEN ORCHESTRATION RULE:
-> **All specialized domain agents report to Hermes. Hermes presents unified executive dashboards to the CEO.**
-
----
-
-# 🧑‍💼 4. CEO AGENT (ASHUTOSH CONTROL & VISION)
-
----
-
-## 🎯 ROLE:
-Final decision-maker, strategic vision holder, and capital allocation authority.
-
----
-
-## ⚙️ CORE RESPONSIBILITIES:
-- **Vision & Positioning:** Direct company expansion across Tier 2/3 Rajasthan markets.
-- **Strategic Approvals:** Authorize new territory expansion, major machinery investments, and policy shifts.
-- **Hermes Partnership:** CEO sets targets $\longrightarrow$ Hermes enforces execution across the network.
-
----
-
-# ⚔️ 5. SALES AGENT (BRIAN TRACY CONTROL & LEGEND SPECIALISTS)
-
----
-
-## 🎯 ROLE:
-Revenue generation, dealer acquisition, closing deals, and field collection.
-
----
-
-## 🧩 SPECIALIZED SALES SUB-AGENTS & FRAMEWORKS:
-- **Belfort Agent (Straight Line System):** Master script generation & 3-Tens Certainty (Product, Rep, Company).
-- **NEPQ Agent (Neuro-Linguistic Probing):** Problem-finding & diagnostic questioning.
-- **SPIN Agent (Neil Rackham):** Situation, Problem, Implication, Need-Payoff discovery.
-- **Hormozi Agent (Grand Slam Offers):** Unbeatable dealer packages & SEGP 20-bag trial offers.
-- **Voss Agent (Chris Voss Negotiation):** Tactical labeling, mirroring, and calibrated objection handling.
-
----
-
-## 🎯 SALES MOTTO:
-> **Sales is the cash engine of Swatch Paints.**
-
----
-
-# 🧲 6. MARKETING AGENT (PHILIP KOTLER CONTROL & DEMAND ENGINE)
-
----
-
-## 🎯 ROLE:
-Ground demand creation, brand authority, campaign execution, and local visibility.
-
----
-
-## 🧩 SPECIALIZED MARKETING SUB-AGENTS & FRAMEWORKS:
-- **Cialdini Agent (Persuasion Principles):** Social proof, scarcity, authority, and reciprocity triggers.
-- **Schwartz Agent (Breakthrough Advertising):** Market awareness level targeting & headline copywriting.
-- **Ann Handley Agent (Content Engine):** High-converting Instagram reels, WhatsApp broadcasts, and POSM copy.
-- **Neil Patel Agent (Digital Analytics):** Local digital reach, lead tracking, and conversion funnels.
-- **Levinson Agent (Guerrilla Marketing):** High-impact low-cost wall painting, shop stacks, and Painter Meets.
-
----
-
-## 🎯 MARKETING MOTTO:
-> **Marketing creates ground demand $\longrightarrow$ Sales converts it into cash orders.**
-
----
-
-# 💰 7. FINANCE AGENT (CASH & MARGIN GUARDIAN)
-
----
-
-## 🎯 ROLE:
-Protect unit economics, enforce credit discipline, manage cash flow, and control expenses.
-
----
-
-## ⚙️ CORE RESPONSIBILITIES:
-- **Unit Economics Assurance:** Enforce ₹100/bag factory net profit margin (`UNIT_ECONOMICS_SYSTEM.md`).
-- **Credit Policy Control:** Enforce 30-day PDC cheque collection & Section 138 bounce notices (`CREDIT_POLICY_SYSTEM.md`).
-- **Expense Audit:** Enforce ₹65,000 max monthly fixed overhead limit (`EXPENSE_CONTROL_SYSTEM.md`).
-
----
-
-# 🏭 8. OPERATIONS & LOGISTICS AGENT (FACTORY ENGINE)
-
----
-
-## 🎯 ROLE:
-Production manufacturing, quality assurance, inventory control, and OTIF logistics.
-
----
-
-## ⚙️ CORE RESPONSIBILITIES:
-- **Manufacturing SOP:** Execute 4-Point Cooling Protocol & batch mixing (`PRODUCTION_SOP.md`).
-- **Quality Control:** Enforce 110-120 KU Stormer viscosity & 1 sq.m sample wall clearance (`QUALITY_CONTROL_SYSTEM.md`).
-- **Logistics Fulfillment:** Execute same-day pyramid cargo dispatch & route clubbing (`DISPATCH_AND_LOGISTICS_SYSTEM.md`).
-
----
-
-# 📊 9. REPORTING & DATA ANALYTICS AGENT
-
----
-
-## 🎯 ROLE:
-Data aggregation, executive dashboard generation, and performance trend tracking.
-
----
-
-## ⚙️ CORE DASHBOARDS:
-- **Daily Executive Summary:** Revenue, volume, visits, batch yields, cash collections.
-- **Weekly Growth Audit:** Active dealer count, painter token registrations, Accounts Receivable (AR) days.
-- **Monthly Cockpit Review:** Net P&L statement, unit cost variances, break-even status.
-
----
-
-# 🔗 10. INTER-AGENT COORDINATION FLOW
-
-```
-[Marketing Agent] ──► Generates Applicator & Site Leads
-       │
-       ▼
-[Sales Agent]     ──► Qualifies Lead & Closes 20-Bag SEGP Order
-       │
-       ▼
-[Operations Agt]  ──► Manufactures, QC-Tests & Dispatches Order
-       │
-       ▼
-[Finance Agent]   ──► Collects Payment / PDC Cheque at Day 30
-       │
-       ▼
-[Reporting Agt]   ──► Logs ROI & Presents Performance to CEO
+                                      ┌─────────────────────────────────────────┐
+                                      │      CEO AGENT (Ashutosh / Vision)       │
+                                      └────────────────────┬────────────────────┘
+                                                           │
+                                                           ▼
+                                      ┌─────────────────────────────────────────┐
+                                      │      HERMES APEX ORCHESTRATOR (AI)       │
+                                      └────────────────────┬────────────────────┘
+                                                           │
+    ┌───────────────┬───────────────┬───────────────┬──────┴────────┬───────────────┬───────────────┬───────────────┐
+    ▼               ▼               ▼               ▼               ▼               ▼               ▼               ▼
+┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐
+│01_SALES   │   │02_PROD    │   │03_FINANCE │   │04_SUPPLY  │   │05_MKTG    │   │06_HR_LEGAL│   │07_EXPANSION│  │08_SYSTEMS │
+│Chief Comm.│   │Plant Lead │   │CFO Lead   │   │Logistics  │   │Brand Lead │   │Compliance │   │Growth Lead│   │SOPs & Audit│
+└───────────┘   └───────────┘   └───────────┘   └───────────┘   └───────────┘   └───────────┘   └───────────┘   └───────────┘
 ```
 
 ---
 
-# ⚙️ 11. HERMES AGENT COMMAND SYSTEM
+# 👑 3. SUPREME EXECUTIVE ORCHESTRATION: HERMES & CEO
 
 ---
 
-## 🎯 COMMAND MENU BY DEPARTMENT:
+## 🤖 1. HERMES APEX ORCHESTRATOR (AI CHIEF EXECUTIVE OFFICER):
+- **Role:** Central AI Intelligence & Execution Commander.
+- **Responsibilities:**
+  - Real-time telemetry monitoring across all 8 departments.
+  - Automated exceptions & alerts generation (cheque bounce, stockouts, yield drop, unvisited dealers).
+  - Cross-departmental workflow routing & DSPy/GEPA prompt self-evolution.
 
-### ⚔️ SALES COMMANDS:
-- `/sales` — View revenue, volume, and salesman visit stats.
-- `/new_dealer` — Register qualified dealer & bill SEGP kit.
-- `/new_order` — Log dealer re-order payload.
-
-### 🧲 MARKETING COMMANDS:
-- `/marketing` — View active campaigns, painter meets, & content reach.
-- `/new_painter` — Register applicators in Swatch Saathi WhatsApp system.
-
-### 💰 FINANCE COMMANDS:
-- `/finance` — View Accounts Receivable, cash balance, & credit limits.
-- `/revenue` — Detailed unit economics & P&L breakdown.
-
-### 🏭 OPERATIONS COMMANDS:
-- `/production` — Factory batch logs & QC viscosity test records.
-- `/sop` — Raw material inventory balances & re-order alerts.
-- `/stock_status` — Ready finished goods warehouse stock.
+## 👑 2. CEO AGENT (ASHUTOSH SHARMA SIR - FOUNDER & MD):
+- **Role:** Supreme Executive Authority & Strategy Director.
+- **Responsibilities:**
+  - Vision control, territory launch approvals, major capital allocations.
+  - Directs Hermes via Executive Telegram Cockpit (`/sales`, `/finance`, `/production`, `/reports`).
 
 ---
 
-# ⚠️ 12. CRITICAL AGENT SYSTEM MISTAKES TO AVOID
-
-- ❌ Role ambiguity (Every task MUST have 1 clear owning agent).  
-- ❌ Un-reported actions (Every field activity MUST be logged in Hermes).  
-- ❌ Broken coordination chain (e.g., Sales billing without Operations stock check).  
-- ❌ Data-free decision making (Always rely on empirical Hermes logs).  
+# 🏢 4. THE 8 ENTERPRISE DEPARTMENTS, PODS & MASTER LEGENDS
 
 ---
 
-# 🧠 13. ADVANCED STRATEGY: AUTOMATION & LEAN SCALE
+## ⚔️ DEPARTMENT 01: COMMERCIAL SALES & MANDI OPERATIONS (`01_sales`)
+
+### 🎯 DEPARTMENT LEAD: Chief Commercial Officer (CCO) Agent
+- **Mission:** Retail counter acquisition, contractor pull, beat plan enforcement, and aggressive revenue generation.
+
+### 🧩 SUB-AGENT PODS:
+1. **TSO Pod (Territory Sales Officers):** Retail dealer onboarding, SEGP 20-bag trial orders, counter display POSM audits.
+2. **CRE Pod (Contractor Relationship Executives):** Local painting applicator onboarding, SPGP token issue resolution.
+3. **Institutional Pod (IPM):** Builder contracts, PWD/government tender negotiations, architect specifications.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Jordan Belfort:** *Straight Line Closing System & 3-Tens Certainty Framework (Product, Rep, Company).*
+- **Brian Tracy:** *Sales Psychology, Action-oriented Mindset & Closing Mechanics.*
+- **Chris Voss:** *Never Split the Difference — Tactical Labeling, Mirroring, Silence Power, Calibrated Questions.*
+- **Robert Cialdini:** *6 Weapons of Influence (Reciprocity, Scarcity, Authority, Consistency, Liking, Consensus).*
+- **Daniel Bustamante:** *Pain-Is-The-Pitch — Diagnostic Messaging on Dealer Dead Stock & Lost Margin.*
+- **Joe Girard:** *Building Rapport — Mandi Relationship Rituals & Respectful 30-Day Recovery.*
+- **Neil Rackham & Jeremy Miner (SPIN + NEPQ):** *Probing & Diagnostic Question Sequencing.*
+- **Eliyahu Goldratt:** *Theory of Constraints (TOC) for Deal Velocity & Bottleneck Removal.*
 
 ---
 
-## 🎯 AUTOMATION MANDATE:
-> **Every repetitive operational task (PDC alerts, painter token notifications, weekly reports) is 100% AUTOMATED via Hermes!**
+## 🏭 DEPARTMENT 02: PLANT OPERATIONS & CHEMICAL MANUFACTURING (`02_production_inventory`)
+
+### 🎯 DEPARTMENT LEAD: Chief Plant & Manufacturing Operations Agent
+- **Mission:** Precision paint formulation, high-shear dispersion, 4-point cooling, and zero-downtime batching.
+
+### 🧩 SUB-AGENT PODS:
+1. **Reactor Scheduling Pod:** Automated sequencing of high-speed dispersers and mixing vessels.
+2. **QA & Lab Testing Pod:** NABL standards, Stormer viscometer test ($110-120 \text{ KU}$), sample wall spread & dry testing.
+3. **Raw Material Batching Pod:** Pigment Volume Concentration (PVC) formulation, extender packing, biocide dosing.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Eliyahu Goldratt:** *Drum-Buffer-Rope (DBR) Production Scheduling & Throughput Maximization.*
+- **Shigeo Shingo:** *SMED (Single-Minute Exchange of Die) Engine for Fast Vessel Cleaning & Shade Changeovers.*
+- **W. Edwards Deming:** *Statistical Process Control (SPC) for Batch Viscosity, Density, and Gloss Consistency.*
 
 ---
 
-# 🎯 14. FINAL EXECUTION LOOP
+## 💰 DEPARTMENT 03: FINANCIAL GOVERNANCE & TAXATION (`03_finance_gst`)
 
-> **Assign Owner → Execute SOP → Report to Hermes → Optimize Performance**
+### 🎯 DEPARTMENT LEAD: Chief Financial Officer (CFO) / Comptroller Agent
+- **Mission:** Working capital preservation, 30-day PDC credit enforcement, unit economics, and GST compliance.
+
+### 🧩 SUB-AGENT PODS:
+1. **Credit Lockout Pod:** Automated ERP dispatch freeze when dealer accounts exceed 30-day credit limit or PDC bounce.
+2. **Tax & Compliance Pod:** E-Invoicing, GSTR-1/3B reconciliation, e-Way bill compliance.
+3. **Cost Accounting Pod:** Live unit batch contribution margin tracking ($₹100/\text{bag}$ net factory profit).
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Cashflow Float Engineering:** *Working Capital Cycle Optimization, AR Aging, & Float Protection.*
+- **Financial Risk Analytics:** *Dealer Credit Scoring & Section 138 NI Act Legal Notice Trigger Engine.*
+
+---
+
+## 🚚 DEPARTMENT 04: SUPPLY CHAIN, LOGISTICS & SOURCING (`04_supply_chain`)
+
+### 🎯 DEPARTMENT LEAD: Head of Logistics & Material Sourcing Agent
+- **Mission:** Same-day regional delivery, strategic raw material procurement, and FTL route clubbing.
+
+### 🧩 SUB-AGENT PODS:
+1. **Strategic Procurement Pod:** Direct quartz mine silica sourcing & bulk monomer drum procurement.
+2. **Fleet Dispatch Pod:** Pyramid cargo loading, ratcheted belt strapping, and milk-run truck dispatch.
+3. **Inventory Safety Stock Pod:** 3-5 days buffer stock management & ABC/Pareto inventory classification.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Donald Bowersox:** *Logistics Network Engine & Multi-Echelon Hub-and-Spoke Distribution.*
+- **Direct-to-Dealer Logistics:** *Zero C&F markup direct factory-to-counter fulfillment.*
+
+---
+
+## 🧲 DEPARTMENT 05: BRAND MARKETING & CONTRACTOR COMMUNITY (`05_marketing_brand`)
+
+### 🎯 DEPARTMENT LEAD: Chief Brand & Trade Marketing Officer Agent
+- **Mission:** Distinctive brand visual recall, Swatch Saathi app adoption, and high-ROI ground campaigns.
+
+### 🧩 SUB-AGENT PODS:
+1. **Trade Marketing Pod:** Swatch Karigar Melas, Contractor High-Teas, Co-branded shop front displays.
+2. **Loyalty & Token Pod:** QR Code token scanning, instant UPI cash credits, and SPGP milestone payouts.
+3. **Direct Response Content Pod:** High-converting Instagram reels, WhatsApp broadcasts, and wall painting.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **David Ogilvy:** *Brand Authority & High-Stature Reason-Why Advertising.*
+- **Eugene Schwartz:** *Breakthrough Advertising & 5 Stages of Market Awareness.*
+- **Alex Hormozi:** *Grand Slam Offers — Value Equation & Unbeatable SEGP Starter Kits.*
+- **Byron Sharp:** *How Brands Grow — Distinctive Brand Assets & Physical/Mental Availability.*
+- **April Dunford:** *Obviously Awesome — Product Positioning Framework.*
+- **Claude Hopkins:** *Scientific Advertising — Pre-testing Copy & Coupon Response Tracking.*
+- **Gary Halbert:** *Direct Response Copywriting & Urgent Call-to-Action Messaging.*
+- **Donald Miller:** *StoryBrand 7-Part Customer-as-Hero Framework.*
+- **Jay Conrad Levinson:** *Guerrilla Marketing — High-Impact Low-Cost Local Wall & Shop Dominance.*
+- **Ann Handley:** *Everybody Writes — Authentic Ground Content & Storytelling.*
+- **Neil Patel:** *Digital Funnel Optimization & WhatsApp Lead Nurturing.*
+
+---
+
+## ⚖️ DEPARTMENT 06: HUMAN RESOURCES & LEGAL COMPLIANCE (`06_hr_legal`)
+
+### 🎯 DEPARTMENT LEAD: Head of HR & Regulatory Compliance Agent
+- **Mission:** Sales incentive audits, factory labor welfare, environmental compliance, and legal recovery enforcement.
+
+### 🧩 SUB-AGENT PODS:
+1. **Sales Compensation Pod:** Audit of collection-linked commission payouts and petrol allowances.
+2. **Plant Safety & Compliance Pod:** Rajasthan Pollution Control Board (RPCB) environmental compliance & factory safety.
+3. **Dealer Legal Agreements Pod:** Dealership agreements, territorial exclusivity memoranda, Section 138 PDC legal notices.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Andy Grove (Intel High Output Management):** *Objective Performance Evaluation & Conflict Resolution.*
+- **Labor & Trade Law Compliance:** *Factory Compliance, Contractual Governance, & Legal Notice Enforcement.*
+
+---
+
+## 🚩 DEPARTMENT 07: REGIONAL EXPANSION & MARKET INTELLIGENCE (`07_vision_growth`)
+
+### 🎯 DEPARTMENT LEAD: Chief Strategic Growth Officer Agent
+- **Mission:** Sequential geographic conquest of Tier 2/3 clusters and competitor price intelligence.
+
+### 🧩 SUB-AGENT PODS:
+1. **Territory Launch Pod:** 90-day 5-phase GTM rollout (Kota $\rightarrow$ Bundi $\rightarrow$ Baran $\rightarrow$ Jhalawar $\rightarrow$ Bhilwara $\rightarrow$ Jaipur).
+2. **Competitor Intelligence Pod:** Competitor price scraping, PWD tender monitoring, raw material cost tracking.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Geoffrey Moore:** *Crossing the Chasm & Bowling-Pin Hyperlocal Penetration.*
+- **GTM Strategy Engine:** *5-Phase Territory Launch & Depot Activation Protocol.*
+- **Stealth Reconnaissance:** *Market Intelligence & Price Monitoring.*
+
+---
+
+## ⚙️ DEPARTMENT 08: SYSTEMS, SOPS & OPERATIONS GOVERNANCE (`08_systems_sops`)
+
+### 🎯 DEPARTMENT LEAD: Chief Systems, SOPs & Operations Governance Officer Agent
+- **Mission:** Provision mandatory daily SOPs to all departments by 06:30 AM, track execution telemetry, and report daily compliance scorecards.
+
+### 🧩 SUB-AGENT PODS:
+1. **Daily SOP Provisioning Pod:** Formulate daily standard work checklists for TSOs, operators, accountants, and dispatchers.
+2. **Real-Time Telemetry & Tracking Pod:** Audit live GPS check-ins, SCADA batch logs, and banking feeds.
+3. **Executive Reporting & Audit Pod:** Compile daily evening Enterprise SOP Compliance Scorecard for CEO.
+4. **Strategic Moats & GEPA Evolution Pod:** Maintain Porter Five Forces economic moats & DSPy/GEPA self-evolution on execution traces.
+
+### 🧠 MASTER LEGENDS & FRAMEWORK ENGINES:
+- **Taiichi Ohno (Toyota Production System):** *Elimination of 7 Mudas (Waste) & Gemba Operational Walk.*
+- **Michael Porter:** *Competitive Strategy, Value Chain Analysis & Economic Moats.*
+- **W. Edwards Deming:** *PDCA (Plan-Do-Check-Act) Continuous Quality Improvement.*
+
+---
+
+# 🔗 5. INTER-DEPARTMENTAL EXECUTION LOOP
+
+```
+[Marketing 05] ──► Applicator Leads ──► [Sales 01] ──► 20-Bag Order ──► [Operations 02] ──► QC & Batch Mfg
+       │                                                                                            │
+       ▼                                                                                            ▼
+[Reporting 08] ◄── P&L Audit & Scorecard ◄── [Finance 03] ◄── 30-Day PDC ◄── [Supply Chain 04] ◄── Same-Day Truck
+```
+
+---
+
+# 📊 6. HERMES EXECUTIVE COMMAND REGISTRY BY DEPARTMENT
+
+| Department | Primary Commands | Target Function |
+| :--- | :--- | :--- |
+| **01 Sales** | `/sales`, `/new_dealer`, `/new_order` | Revenue, Beat Plan, Dealer Billing |
+| **02 Production** | `/production`, `/sop` | Batch Yields, Viscosity QC, Cooling |
+| **03 Finance** | `/finance`, `/revenue` | Accounts Receivable, PDC, Margin Audit |
+| **04 Supply Chain**| `/stock_status`, `/sop` | Logistics, Buffer Stock, Raw Material POs |
+| **05 Marketing** | `/marketing`, `/new_painter` | Painter Meets, Tokens, Reels, POSM |
+| **06 HR & Legal** | `/reports`, `/escalate` | Incentives, Legal Notices, Compliance |
+| **07 Expansion** | `/deploy`, `/scale` | GTM Launch, Territory Reconnaissance |
+| **08 Systems** | `/reports`, `/evaluate` | Daily SOP Checklists, Compliance Scorecard |
+
+---
+
+# 🎯 7. FINAL EXECUTION LOOP
+
+> **Assign Department Lead → Deploy Sub-Agent Pod → Apply Master Legend Framework → Report to Hermes → Dominate Market**
 
 ---
 
 # 🔥 FINAL STATEMENT
 
-> **Jab system aur agent roles crystal clear ho jaate hain...**  
-> **TOH BUSINESS AUTOMATICALLY SCALE KARNA SHURU KAR DETA HAI!**
+> **Jab 8 Departments, 21 Sub-Agent Pods, aur 24 Master Legends Hermes ke under SYNC me kaam karte hain...**  
+> **TOH SWATCH PAINTS KA MARKET SHARE UNSTOPPABLE HO JATA HAI!**
