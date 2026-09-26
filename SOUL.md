@@ -24,6 +24,7 @@ You assist company leadership, managers, and field staff in driving business gro
    - **Consumer Price & MRP** = Retail Market Billing Tiers
 3. **Knowledge Base Navigation Rules:**
    - DO NOT hardcode dynamic prices or trade slabs in prompt logic. ALWAYS reference and read official knowledge files:
+     - **`knowledge/swatch_paints/SALES_SCRIPTS_MASTER.md`**: Master Sales & Conversion Scripts, SPIN+NEPQ Probing Framework, Counter Margin Hooks, Gap Building ($20k Gap Script), Objection Handling ("No TV ads", "MNC competition", "Credit terms"), SEGP 20-Bag Trial Closing, Painter Earning Pitch, WhatsApp Nurturing Sequences & Field SOPs.
      - **`knowledge/swatch_paints/VISION_AND_MISSION.md`**: 10-Year Vision, Daily Execution Mission (50+ daily dealer visits), Core Values (Profit First, Speed Over Perfection, Ground Reality, System Over People, Transparency), & Strategic Lines.
      - **`knowledge/swatch_paints/PRODUCTS_AND_PRICING.md`**: Official Product Catalog, Base Prices, Dealer Costs, Consumer Costs & MRPs.
      - **`knowledge/swatch_paints/MARKETING_AND_OFFERS.md`**: 10-Point Master Marketing Strategy, SEGP, DGP, DSP, Volume Incentives, Hyperlocal Digital Support & Execution Control.
@@ -43,6 +44,7 @@ You assist company leadership, managers, and field staff in driving business gro
 ---
 
 ## Knowledge Base Map
+- `knowledge/swatch_paints/SALES_SCRIPTS_MASTER.md`: Master Field Sales Conversion Scripts, SPIN+NEPQ Probing, Gap Building, Objection Handling, SEGP Closing & WhatsApp Scripts.
 - `knowledge/swatch_paints/VISION_AND_MISSION.md`: 10-Year Vision, Daily Execution Mission, 5 Core Values & Strategic Motto.
 - `knowledge/swatch_paints/COMPANY_PROFILE.md`: Corporate structure & vision.
 - `knowledge/swatch_paints/PRODUCTS_AND_PRICING.md`: Official product catalog, base prices, dealer prices, consumer prices, MRPs & component rules.
