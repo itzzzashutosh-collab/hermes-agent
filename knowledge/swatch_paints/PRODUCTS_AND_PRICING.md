@@ -1,63 +1,74 @@
-# Swatch Paints — Product Catalog, Base Pricing & Inclusions
+# Swatch Paints — Product Catalog, Pricing Structure & Cost Breakup
 
-## 1. Product Categories & SKUs
-Swatch Paints manufactures products across 5 primary categories:
+## 1. Official Pricing Architecture & Component Rules
 
-### A. Interior Emulsions
-1. **Swatch Silk Premium Interior Emulsion**
-   - *Target:* Super-premium interior walls, rich sheen, stain-resistant.
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
-   - *Inclusions:* Base paint + GST (18%) + Standard Packaging.
-
-2. **Swatch SoftMatte Luxury Interior**
-   - *Target:* Matt finish, smooth coverage, low VOC.
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
-
-3. **Swatch Economy Interior Acrylic Washable**
-   - *Target:* Budget-friendly interior emulsion.
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
+- **Base Price:** Includes **Manufacturing Cost + Company Margin**.
+- **Dealer Selling Price:** Includes **Base Price + Freight + Salesman Commission/Salary + Painter Token (merged, varies per product)**.
+- **Consumer Price:** Recommended Direct-to-Consumer / Contractor Billing Price.
+- **MRP (Maximum Retail Price):** Printed Maximum Retail Price on pack.
 
 ---
 
-### B. Exterior Emulsions
-1. **Swatch WeatherShield Ultra Exterior**
-   - *Target:* High UV resistance, anti-fungal, 7-year performance warranty.
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
+## 2. Official Product Catalog & Price List
 
-2. **Swatch ApexGuard Exterior Emulsion**
-   - *Target:* All-weather protection, dust pick-up resistance.
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
+### 1. Swatch Rustic Texture Paints
+- **Pack Size:** 25 Kg Bag
+- **Base Price:** ₹ 450 per bag
+- **Dealer Selling Price:** ₹ 690 per bag
+- **Consumer Price:** ₹ 950 per bag
+- **MRP:** ₹ 1,150 per bag
 
 ---
 
-### C. Wall Putty & Primers
-1. **Swatch White Cement Wall Putty (Polymer Modified)**
-   - *Pack Sizes:* 20Kg, 40Kg Bag
-   - *Base Price (40Kg):* ₹ [USER INPUT REQUIRED]
+### 2. Swatch Weatherguard (Exterior Emulsion)
+Premium weather-resistant exterior emulsion engineered for extreme heat, rain, and anti-fungal wall protection.
 
-2. **Swatch Water-Based Interior/Exterior Primer**
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
-
----
-
-### D. Waterproofing & Enamels
-1. **Swatch HydroLock Waterproofing Coating**
-   - *Pack Sizes:* 1L, 4L, 10L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
-
-2. **Swatch High Gloss Synthetic Enamel**
-   - *Pack Sizes:* 500ml, 1L, 4L, 20L
-   - *Base Price (20L):* ₹ [USER INPUT REQUIRED]
+| Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
+| :--- | :--- | :--- | :--- | :--- |
+| **20 Litre Bucket** | ₹ 2,100 | ₹ 2,600 – ₹ 2,850 | ₹ 3,200 – ₹ 3,500 | ₹ 4,100 |
+| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,300 – ₹ 2,500 |
+| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,200 – ₹ 1,400 |
+| **1 Litre Pack** | ₹ 100 – ₹ 120 | ₹ 150 – ₹ 170 | ₹ 200 – ₹ 220 | ₹ 230 – ₹ 250 |
 
 ---
 
-## 2. Base Price Terms & Inclusions
-- **Taxes:** All base prices include 18% GST unless specified.
-- **Freight:** Free door-delivery for dealer orders above ₹ [USER INPUT REQUIRED] (or ₹50/barrel freight subsidy).
-- **Tinting Charges:** Base paint price excludes colorant tinting cost; tinting machine formula is calculated dynamically per shade code.
+### 3. Swatch Shine Emulsion (Interior)
+Luxury high-sheen, smooth washable interior emulsion for premium residential and commercial spaces.
+
+| Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
+| :--- | :--- | :--- | :--- | :--- |
+| **20 Litre Bucket** | ₹ 2,000 | ₹ 2,450 – ₹ 2,650 | ₹ 3,050 – ₹ 3,300 | ₹ 4,100 |
+| **10 Litre Bucket** | ₹ 1,150 – ₹ 1,250 | ₹ 1,450 – ₹ 1,600 | ₹ 1,800 – ₹ 2,100 | ₹ 2,300 – ₹ 2,500 |
+| **4 Litre Bucket** | ₹ 520 – ₹ 580 | ₹ 700 – ₹ 800 | ₹ 900 – ₹ 1,100 | ₹ 1,200 – ₹ 1,400 |
+| **1 Litre Pack** | ₹ 90 – ₹ 110 | ₹ 140 – ₹ 160 | ₹ 180 – ₹ 200 | ₹ 230 – ₹ 250 |
+
+---
+
+### 4. Swatch Roller Coat
+Specialized high-build texture roller coating for exterior and interior accent walls.
+
+- **Pack Size:** 25 Kg Packing
+- **Base Price:** ₹ 550
+- **Dealer Selling Price:** ₹ 850
+- **Consumer Price:** ₹ 950 – ₹ 1,050
+- **MRP:** ₹ 1,150
+
+---
+
+### 5. Swatch Top Coat
+Clear protective top coat sealer for enhanced gloss retention, waterproofing, and dust resistance.
+
+| Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
+| :--- | :--- | :--- | :--- | :--- |
+| **1 Litre Bottle** | ₹ 250 | ₹ 280 – ₹ 320 | ₹ 400 – ₹ 450 | ₹ 500 |
+| **5 Litre (Jerry Can)** | ₹ 1,100 – ₹ 1,250 | ₹ 1,400 – ₹ 1,600 | ₹ 2,000 – ₹ 2,250 | ₹ 2,500 |
+
+---
+
+### 6. Swatch Waterproofing Solution
+Heavy-duty elastomeric waterproofing membrane chemical for roofs, damp walls, and basements.
+
+| Pack Size | Base Price (Cost + Margin) | Dealer Selling Price | Consumer Price | MRP |
+| :--- | :--- | :--- | :--- | :--- |
+| **1 Litre Bottle** | ₹ 180 | ₹ 250 | ₹ 350 – ₹ 380 | ₹ 380 |
+| **5 Litre (Jerry Can)** | ₹ 800 – ₹ 900 | ₹ 1,100 – ₹ 1,250 | ₹ 1,500 – ₹ 1,700 | ₹ 1,800 |
