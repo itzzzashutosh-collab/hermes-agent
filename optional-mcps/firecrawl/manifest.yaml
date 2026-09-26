@@ -1,0 +1,23 @@
+manifest_version: 1
+
+name: firecrawl
+connector_slug: firecrawl
+description: >-
+  Web crawling and search MCP server by Firecrawl.
+  Secondary/backup web scraper alongside native Scrapling.
+source: https://github.com/firecrawl/firecrawl-mcp-server
+
+transport:
+  type: http
+  url: https://api.firecrawl.dev/mcp
+
+suggest:
+  keywords:
+    - firecrawl
+    - crawl
+    - scrape
+    - websearch
+
+post_install: |
+  Set FIRECRAWL_API_KEY in your .env if using cloud Firecrawl, or set URL to your
+  self-hosted instance. Note: Hermes uses free native Scrapling by default.

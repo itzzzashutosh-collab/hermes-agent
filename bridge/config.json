@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "provider": "local_log",
+  "recipient_phone": "+91XXXXXXXXXX",
+  "providers": {
+    "local_log": {
+      "log_dir": "d:/Sharma Industries Erp Software/hermes-agent/bridge/hourly_reports"
+    },
+    "meta_whatsapp_cloud": {
+      "api_token": "",
+      "phone_number_id": "",
+      "recipient_phone": ""
+    },
+    "twilio": {
+      "account_sid": "",
+      "auth_token": "",
+      "from_whatsapp_number": "whatsapp:+14155238886",
+      "to_whatsapp_number": "whatsapp:+91XXXXXXXXXX"
+    },
+    "green_api": {
+      "instance_id": "",
+      "api_token_instance": "",
+      "recipient_chat_id": "91XXXXXXXXXX@c.us"
+    },
+    "ultramsg": {
+      "instance_id": "",
+      "token": "",
+      "recipient_phone": "+91XXXXXXXXXX"
+    }
+  }
+}

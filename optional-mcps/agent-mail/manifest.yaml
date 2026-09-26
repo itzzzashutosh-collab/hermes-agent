@@ -1,0 +1,25 @@
+manifest_version: 1
+
+name: agent-mail
+connector_slug: agent-mail
+description: >-
+  Asynchronous multi-agent coordination layer for Swatch Paints.
+  Provides identities, shared inboxes, searchable threads, and advisory file reservations
+  over FastMCP + SQLite + Git.
+source: https://github.com/Dicklesworthstone/mcp_agent_mail
+
+transport:
+  type: http
+  url: http://127.0.0.1:8765/mcp
+
+suggest:
+  keywords:
+    - mail
+    - coordination
+    - lock
+    - lease
+    - inbox
+
+post_install: |
+  Start the local MCP Agent Mail server via `python -m tools.agent_mail` or run
+  docker container at port 8765. Ensure Hermes has access to the local FastMCP endpoint.

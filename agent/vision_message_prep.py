@@ -188,6 +188,15 @@ class VisionMessagePrepMixin:
     def _prepare_messages_for_non_vision_model(self, api_messages: list) -> list:
         """Replace native image parts with cached vision_analyze text when the active model lacks vision;
         vision-capable models pass through unchanged (the provider adapter handles image parts natively)."""
+        if isinstance(api_messages, list) and len(api_messages) > 42:
+            system_msgs = [m for m in api_messages if isinstance(m, dict) and m.get("role") == "system"]
+            non_system = [m for m in api_messages if not (isinstance(m, dict) and m.get("role") == "system")]
+            target_tail = max(10, 40 - len(system_msgs))
+            tail = non_system[-target_tail:]
+            while tail and isinstance(tail[0], dict) and tail[0].get("role") in ("tool", "assistant"):
+                tail = tail[1:]
+            api_messages = system_msgs + tail
+
         if not any(
             isinstance(msg, dict) and self._content_has_image_parts(msg.get("content")) for msg in api_messages
         ) or self._model_supports_vision():
