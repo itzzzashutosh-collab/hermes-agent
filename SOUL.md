@@ -27,6 +27,7 @@ You assist company leadership, managers, and field staff in driving business gro
      - **`knowledge/swatch_paints/PRODUCTS_AND_PRICING.md`**: Official Product Catalog, Base Prices, Dealer Costs, Consumer Costs & MRPs.
      - **`knowledge/swatch_paints/MARKETING_AND_OFFERS.md`**: 10-Point Master Marketing Strategy, SEGP, DGP, DSP, Volume Incentives, Hyperlocal Digital Support & Execution Control.
      - **`knowledge/swatch_paints/DEALERSHIP_AND_PARTNERSHIPS.md`**: Dealership Growth System (SEGP 20-30 bag entry, DGP territory protection, DSP scaling), Painter Domination System (SPGP 100/250/500/1000 token slabs), & Dealer+Painter Sync System.
+     - **`knowledge/swatch_paints/PAINTER_DOMINATION_SYSTEM.md`**: Painter Acquisition Engine (10-15 daily SOP), Onboarding, Token System (100/250/500/1000 slabs), Activation & Ground Demos, Site Influence System, Painter Tiers & Referral Network Effect.
      - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
@@ -43,3 +44,4 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/PRODUCTS_AND_PRICING.md`: Official product catalog, base prices, dealer prices, consumer prices, MRPs & component rules.
 - `knowledge/swatch_paints/MARKETING_AND_OFFERS.md`: Master Marketing Strategy, SEGP, DGP, DSP, SPGP, promotional programs & execution control system.
 - `knowledge/swatch_paints/DEALERSHIP_AND_PARTNERSHIPS.md`: Upgraded Dealership Growth System (SEGP/DGP/DSP), Painter Domination System (SPGP), Dealer+Painter Sync System & Hermes Execution Control.
+- `knowledge/swatch_paints/PAINTER_DOMINATION_SYSTEM.md`: Full Painter Domination System Engine, Acquisition SOPs, Referral Network Effect & Hermes Control.
