@@ -1,17 +1,39 @@
-# Swatch Paints — Dealership Policy & Painter Loyalty Programs
+# Swatch Paints — Dealership Policy & Painter Growth System
 
-## 1. Dealership Onboarding Framework
-- **Security Deposit / Credit Limit:** ₹ [USER INPUT REQUIRED] initial security deposit for credit terms (14-30 days).
-- **Minimum First Order:** ₹ [USER INPUT REQUIRED] initial stock order for authorized dealership setup.
-- **Tinting Machine Facility:**
-  - Automatic Machine installation on ₹ [USER INPUT REQUIRED] annual commitment or 50% machine cost subsidy.
-  - Gyro shaker & computer setup provided by Sharma Industries.
+## 1. Dealer Growth Framework
+
+### A. Swatch Trial Growth Program (STGP) — Onboarding
+- **Objective:** Zero-hesitation new dealer onboarding.
+- **Starter Pack:** 20 Bags Starter Program (Rustic Texture / Core SKUs).
+- **Payment & Risk Control:** Flexible onboarding model with shelf-risk exchange support.
+
+### B. Swatch Dealership Growth Program (DGP) — Core Partners
+- **Requirement:** Minimum monthly movement commitment + Territory discipline agreement.
+- **Benefits:**
+  - Exclusive area-level distribution protection
+  - Higher slab-based margins
+  - Priority stock dispatch
+  - Direct factory support & co-branding
+
+### C. Volume Performance Incentive Tiers
+- **Tier 1 (₹ 5 Lakh uplift):** 3% additional cash earning
+- **Tier 2 (₹ 10 Lakh uplift):** 5% additional cash earning
+- **Tier 3 (High volume partners):** Premium rewards & travel incentives
 
 ---
 
-## 2. "Swatch Saathi" Painter Partner Loyalty Program
-- **QR Code Token Scheme:** Every 20L / 10L bucket contains a hidden QR token under the lid.
-- **Direct UPI Transfer:** Painter scans QR code via Swatch Saathi App → instant ₹50 to ₹300 credited directly to Bank account / UPI.
-- **Annual Painter Rewards & Insurance:**
-  - Top 50 painters get accidental insurance coverage (₹ 2 Lakhs).
-  - Annual "Swatch Saathi Conference" with awards for top applicator partners.
+## 2. "Swatch Saathi" Painter Growth Program (SPGP)
+
+### A. Per-Bag Token System
+Painters accumulate digital/physical tokens per bag/bucket purchased.
+
+### B. SPGP Token Reward Slabs
+- **100 Tokens:** ₹ 2,500 Cash Value / Benefit
+- **250 Tokens:** ₹ 7,000 Cash Value / Benefit
+- **500 Tokens:** ₹ 15,000 Cash Value / Benefit
+- **1,000 Tokens:** ₹ 35,000 Cash Value / Benefit
+
+### C. Ground Activation & Painter Meets
+- Monthly application training & live wall demos
+- Instant UPI transfer / Token redemption
+- Annual painter safety & performance recognition
