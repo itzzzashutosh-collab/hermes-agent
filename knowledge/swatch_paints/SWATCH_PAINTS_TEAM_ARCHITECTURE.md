@@ -1,4 +1,7 @@
-# Swatch Paints (Sharma Industries) - Enterprise Multi-Agent Team Architecture
+# 🧠 SWATCH PAINTS — ENTERPRISE MULTI-AGENT TEAM ARCHITECTURE
+## (Sharma Industries — Departmental AI Command Structure & Governance)
+
+---
 
 ## 1. Executive Authority & Governance Hierarchy
 
@@ -46,20 +49,20 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
 ---
 
 ### Department 01: Commercial Sales & Mandi Operations (`01_sales`)
-- **Department Lead Role:** Chief Commercial Officer Agent.
+- **Department Lead Role:** Chief Commercial Officer (CCO) Agent.
 - **Mission:** Retail counter acquisition, contractor pull, beat plan enforcement, and revenue generation.
 - **Sub-Agent Pods:**
   - *TSO Pod (Territory Sales Officers):* Governs retail dealer visits, opening stock orders, counter display audits.
   - *CRE Pod (Contractor Relationship Executives):* Activates local painting thekedars, resolves token scan issues.
   - *Institutional Pod (IPM):* Negotiates large builder contracts, hospital tenders, and architect specifications.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `straight-line-closer`: Jordan Belfort 3 Tens certainty framework.
-  - `influence-psychology`: Robert Cialdini 6 weapons of influence for gaddi negotiations.
+  - `influence-psychology`: Robert Cialdini 6 weapons of influence for counter negotiations.
   - `pain-is-the-pitch`: Daniel Bustamante diagnostic messaging on dealer dead inventory.
-  - `building-rapport`: Joe Girard mandi relationship rituals.
+  - `building-rapport`: Joe Girard relationship rituals.
   - `sales-strategist`: Collection-linked incentives and 6-day PJP beat plan governance.
-  - `b2b-sales-constraint-diagnosis`: Theory of Constraints for deal velocity.
-  - `probing`: Socratic diagnostic question sequencing.
+  - `b2b-sales-constraint-diagnosis`: Goldratt Theory of Constraints for deal velocity.
+  - `probing`: NEPQ & SPIN Socratic diagnostic question sequencing.
 
 ---
 
@@ -68,9 +71,9 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
 - **Mission:** Precision paint manufacturing, resin synthesis, batch quality assurance, and zero-downtime reactor scheduling at the Kota facility.
 - **Sub-Agent Pods:**
   - *Reactor Scheduling Pod:* Manages automated sequencing of high-speed dispersers and twin-shaft reactors.
-  - *QA & Lab Testing Pod:* Governs NABL test compliance, scrub resistance tests, opacity meters, viscosity checks.
+  - *QA & Lab Testing Pod:* Governs NABL test compliance, scrub resistance tests, opacity meters, viscosity checks ($110-120\text{ KU}$).
   - *Raw Material Batching Pod:* Formulates Pigment Volume Concentration (PVC), extender packing, biocide dosing.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `02_production_inventory/SKILL.md`: Eliyahu Goldratt Drum-Buffer-Rope production scheduling.
   - `shigeo-shingo-smed-setup-reduction-engine`: Single-Minute Exchange of Die for fast reactor color changeovers.
   - `w-edwards-deming-spc-quality-control-engine`: Statistical process control on batch density, gloss, and grind gauge.
@@ -78,13 +81,13 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
 ---
 
 ### Department 03: Financial Governance & Taxation (`03_finance_gst`)
-- **Department Lead Role:** Chief Financial Officer / Comptroller Agent.
-- **Mission:** Working capital preservation, 21-day credit ceiling enforcement, GST e-Way bill compliance, and gross margin optimization.
+- **Department Lead Role:** Chief Financial Officer (CFO) / Comptroller Agent.
+- **Mission:** Working capital preservation, 30-day credit ceiling enforcement, GST e-Way bill compliance, and gross margin optimization.
 - **Sub-Agent Pods:**
   - *Credit Lockout Pod:* Automated ERP dispatch freeze when dealer balances exceed authorized credit limits.
   - *Tax & Compliance Pod:* E-Invoicing, GSTR-1/3B reconciliation, input tax credit (ITC) audits.
-  - *Cost Accounting Pod:* Live unit batch contribution margin tracking via ERP APIs.
-- **Core Skills & Engines:**
+  - *Cost Accounting Pod:* Live unit batch contribution margin tracking via ERP APIs ($₹100/\text{bag}$ net profit target).
+- **Core Skills & Frameworks:**
   - `03_finance_gst/SKILL.md`: Cashflow float engineering and margin protection.
   - `finance-expert`: Financial ratio analysis, working capital cycle optimization, and credit scoring.
   - `cash_flow_float_calc.py`: Automated float and accounts receivable aging calculation.
@@ -98,20 +101,20 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
   - *Strategic Procurement Pod:* Hedging petroleum-derived monomers and imported rutile TiO2; sourcing mineral extenders from Makrana/Udaipur.
   - *Fleet Dispatch Pod:* Kota mother factory to regional depot milk-run scheduling.
   - *Inventory Safety Stock Pod:* Buffer management preventing stock-outs across 20L, 10L, 4L, and 1L SKUs.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `donald-bowersox-logistics-network-engine`: Hub-and-spoke multi-echelon distribution.
   - `04_supply_chain/SKILL.md`: Direct factory-to-dealer logistics with zero C&F markups.
 
 ---
 
 ### Department 05: Brand Marketing & Contractor Community (`05_marketing_brand`)
-- **Department Lead Role:** Chief Brand & Trade Marketing Officer Agent.
+- **Department Lead Role:** Chief Brand & Trade Marketing Officer Agent (Kotler Control).
 - **Mission:** Distinctive brand asset recognition, painter loyalty app adoption, and trade marketing ROI.
 - **Sub-Agent Pods:**
   - *Trade Marketing Pod:* Manages "Swatch Karigar Melas", contractor high-teas, and showroom 3D boards.
   - *Loyalty & Token Pod:* Governs the mobile QR code token scanner and instant UPI cashback engine.
   - *Direct Response Pod:* High-converting sales flyers, WhatsApp broadcasts, and roadside wall paintings.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `marketing-council`: Simulated advisory board (Ogilvy, Schwartz, Hormozi, Sharp, Dunford, Hopkins, Halbert).
   - `storybrand-messaging`: Donald Miller 7-part brand storytelling framework.
   - `whatsapp-marketing`: High-conversion localized regional messaging.
@@ -125,7 +128,7 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
   - *Sales Compensation Pod:* Mathematical audit of collection-linked commission payouts.
   - *Plant Safety & Compliance Pod:* Rajasthan Pollution Control Board (RPCB) environmental compliance, chemical handling SOPs.
   - *Dealer Legal Agreements Pod:* Trade dealership agreements, territorial exclusivity memoranda, PDC security.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `persona-hr-coordinator`: Objective performance evaluations and conflict resolution.
   - `06_hr_legal/SKILL.md`: Labor law, factory compliance, and commission governance.
 
@@ -137,7 +140,7 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
 - **Sub-Agent Pods:**
   - *Territory Launch Pod:* Executes the 90-day 5-phase GTM launch blueprint (Kota -> Bundi -> Baran -> Jhalawar -> Bhilwara -> Jaipur).
   - *Competitor Scraping Pod:* Automated scraping of competitor paint portals, raw material indices, and PWD tenders.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `gtm-strategy`: 5-phase regional expansion and depot activation.
   - `scrapling`: Stealth browser scraping and anti-bot bypass for competitor price monitoring.
   - `geoffrey-moore-chasm-scaling-engine.md`: Pragmatist bowling-pin market penetration.
@@ -155,11 +158,10 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
   - *Real-Time Telemetry & Tracking Pod:* Audits live compliance, catches operational deviations, and enforces quality and credit gates.
   - *Executive Reporting & Audit Pod:* Generates daily evening compliance scorecards, calculates the Enterprise SOP Compliance Index (ESCI), and flags Red Exceptions.
   - *Strategic Moats & GEPA Evolution Pod:* Maintains Porter Five Forces economic moats and runs DSPy/GEPA self-evolution on execution traces.
-- **Core Skills & Engines:**
+- **Core Skills & Frameworks:**
   - `systems-and-sops`: Master daily SOP provisioning, execution tracking, and compliance reporting engine (Taiichi Ohno x Deming x Andy Grove).
   - `porter-strategy`: Structural industry analysis and competitive economic moats.
   - `hormozi-evaluator`: Ruthless unit economics, margin arbitrage, and Grand Slam offer stress-testing.
-  - `company-brain`: Enterprise knowledge graphs and institutional memory.
   - `evolution/`: DSPy + GEPA self-evolution engine.
 
 ---
@@ -195,17 +197,11 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
 
 ### Pillar 4: DSPy + GEPA Self-Evolution Engine (`evolution/`)
 - Reflective evolutionary search operating on real-world execution traces.
-- When a sales rep reports a difficult objection in the Bhilwara mandi, or when an ERP batch cost simulation encounters an edge case:
-  1. The execution trace is logged.
-  2. GEPA proposes targeted prompt/skill mutations.
-  3. Candidate variants are tested against constraint gates.
-  4. The optimal version is automatically committed to `skills/`.
+- Log traces, propose prompt mutations, test against constraint gates, and auto-commit to `skills/`.
 
 ---
 
 ## 4. Multi-Channel Communication Architecture
-
-To maintain complete security, executive control, and operational efficiency, communication channels are strictly separated:
 
 | Channel | Platform | Target Audience | Primary Functionality | Security / Routing |
 | :--- | :--- | :--- | :--- | :--- |
