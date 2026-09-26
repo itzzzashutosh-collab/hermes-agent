@@ -43,6 +43,7 @@ You assist company leadership, managers, and field staff in driving business gro
       - **`knowledge/swatch_paints/INVENTORY_SYSTEM.md`**: Raw Material Reorder Rules, ABC Categorization, FIFO Protocol, 3-Tier Stock Audits & Loss Prevention.
       - **`knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`**: Order Verification, Stock Picking, Pyramid Loading, OTIF Logistics & Route Clubbing.
       - **`knowledge/swatch_paints/UNIT_ECONOMICS_SYSTEM.md`**: Per-Bag Unit Cost Sheet, 4-Tier Pricing Waterfall, Break-Even Math & Cash Flow SOP.
+      - **`knowledge/swatch_paints/CREDIT_POLICY_SYSTEM.md`**: 30-Day Credit Architecture, PDC Cheque Collection, Recovery Cadence & Section 138 Protocol.
       - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
@@ -75,3 +76,4 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/INVENTORY_SYSTEM.md`: Raw Material Buffer SOP, ABC Category A/B/C Classification, FIFO Stock Control & Audit Cadence.
 - `knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`: Order Verification, Pyramid Cargo Loading, Same-Day Dispatch Cadence, OTIF Logistics & Transit Claim SOP.
 - `knowledge/swatch_paints/UNIT_ECONOMICS_SYSTEM.md`: Per-Bag Cost Sheet (RM, Pkg, Labor, Freight), 4-Tier Pricing Waterfall, Break-Even Math & Cash Control.
+- `knowledge/swatch_paints/CREDIT_POLICY_SYSTEM.md`: 30-Day Credit Architecture, Dealer Limit Slabs, PDC Cheque Collection, Recovery Cadence & Section 138 Legal Protocol.
