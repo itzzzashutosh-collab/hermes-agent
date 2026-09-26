@@ -39,6 +39,7 @@ You assist company leadership, managers, and field staff in driving business gro
       - **`knowledge/swatch_paints/LOCAL_DOMINATION_PLAN.md`**: Hyperlocal Growth Engine, Area Selection, Painter & Dealer Capture, 30-Day Execution Timeline & Competitor Lock-In.
       - **`knowledge/swatch_paints/LOYALTY_AND_REWARDS_SYSTEM.md`**: 3-Tier Loyalty Architecture, SPGP Painter Token Slabs, Dealer Volume Rebates, Referral Network Effect & Retention Engine.
       - **`knowledge/swatch_paints/PRODUCTION_SOP.md`**: Manufacturing SOP, Raw Material Audit, 4-Point Cooling Protocol, Viscosity QC & Packing Control.
+      - **`knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`**: Quality Testing Protocol, Viscometer & Wall Spread QC, Batch Approval & Zero Defect SOP.
       - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
@@ -67,3 +68,4 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/LOCAL_DOMINATION_PLAN.md`: Hyperlocal Area Capture, Terrain Qualification, 30-Day Domination Plan, & Competitor Lock-In.
 - `knowledge/swatch_paints/LOYALTY_AND_REWARDS_SYSTEM.md`: 3-Tier Loyalty System, SPGP Painter Token Slabs, Dealer Volume Growth Rebates, & Referral Engine.
 - `knowledge/swatch_paints/PRODUCTION_SOP.md`: Factory Production SOP, Raw Material Checks, 4-Point Cooling System, Viscosity QC & Packaging.
+- `knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`: Factory QC Testing Protocol, Stormer Viscosity, Wall Spread Test, Batch Approval Sign-off & Complaint Loop.
