@@ -7,20 +7,20 @@
 
 ---
 
-## ❌ OLD MARKETING (गलत तरीका):
+## ❌ TRADITIONAL MARKETING (WRONG APPROACH):
 - Generic posters & hoardings  
 - Expensive digital ads without ground sales support  
 - Passive brand building  
 
 ---
 
-## ✅ SWATCH MARKETING (सही तरीका):
+## ✅ SWATCH MARKETING (CORRECT APPROACH):
 > **Visibility + Ground Activity + Counter Earning = Real Demand**
 
 ---
 
 ## 🎯 MAIN RULE:
-> **Jo dikhta hai + jo kamaata hai = Wahi bikta hai.**  
+> **What is visible + what generates earnings = What sells.**  
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ## 🎯 OBJECTIVE:
-Painter ko company ka direct brand promoter aur repeat buyer banana.
+Transform painters into direct brand advocates and repeat buyers for Swatch Paints.
 
 ---
 
@@ -61,7 +61,7 @@ Painter ko company ka direct brand promoter aur repeat buyer banana.
 ### STEP 3: EVENT FLOW & TIMELINE:
 
 ```
-[00-05 Mins] Intro Hook: "Earning system build karne aaye hain"
+[00-05 Mins] Intro Hook: "We are here to build your earning system"
        ↓
 [05-15 Mins] Problem Audit: Legacy MNC zero-token & low-margin truth
        ↓
@@ -74,8 +74,8 @@ Painter ko company ka direct brand promoter aur repeat buyer banana.
 [50-60 Mins] Closing Commitment: Next site booking & trial orders
 ```
 
-#### 🧠 1. INTRO (5 Mins):
-> **Presenter:** *“Hum paint bechne nahi aaye — hum painter ki monthly earning badhane aaye hain.”*
+#### 🧠 1. INTRO HOOK (5 Mins):
+> **Presenter:** *“We are not here to sell paint — we are here to increase your monthly earnings.”*
 
 #### 🎯 2. PROBLEM AUDIT (10 Mins):
 - Expose how legacy MNC brands charge premium prices while giving zero token benefits and low contractor margins.
@@ -90,7 +90,7 @@ Painter ko company ka direct brand promoter aur repeat buyer banana.
 - Show how 50 bags of Swatch Rustic Texture generate ₹15,000 extra income for the painter compared to legacy alternatives.
 
 #### 🔥 6. CLOSING COMMITMENT (5 Mins):
-> **Presenter:** *“Kaun kaun bhai apne agle site par Swatch Rustic Texture 20-bag kit test kar rahe hain?”*
+> **Presenter:** *“Which of you brothers are testing a Swatch Rustic Texture 20-bag kit on your next site?”*
 
 ---
 
@@ -104,7 +104,7 @@ Painter ko company ka direct brand promoter aur repeat buyer banana.
 ---
 
 ## 🎯 OBJECTIVE:
-Dealer counter ko Swatch-dominated zone banana aur customer footfall capture karna.
+Transform dealer counters into Swatch-dominated zones and capture retail customer footfall.
 
 ---
 
@@ -120,7 +120,7 @@ Dealer counter ko Swatch-dominated zone banana aur customer footfall capture kar
 - Wall chart showing product coverage, mixing ratio, and dealer margin breakdown.
 
 ### 🧩 3. DEALER COUNTER SCRIPT:
-> **Dealer to Walk-in Customer:** *“Sir ye Swatch Rustic Texture naya heavy-duty finish hai — painter log specifically maang rahe hain, coverage double hai aur rate pocket-friendly hai.”*
+> **Dealer to Walk-in Customer:** *“Sir, this Swatch Rustic Texture is a new heavy-duty finish — local painters are specifically requesting it because coverage is double and pricing is very pocket-friendly.”*
 
 ---
 
@@ -134,7 +134,7 @@ Dealer counter ko Swatch-dominated zone banana aur customer footfall capture kar
 ---
 
 ## 🎯 OBJECTIVE:
-Ongoing construction site par contractor aur house owner ko live finish dikha kar deal close karna.
+Close deals directly on ongoing construction sites by demonstrating live finishes to contractors and homeowners.
 
 ---
 
@@ -146,12 +146,12 @@ Ongoing construction site par contractor aur house owner ko live finish dikha ka
 3. Applies a 4x4 ft live patch test on the actual site wall.
 
 ### ON-SITE CLOSING SCRIPT:
-> **Sales Rep:** *“Sir 5 minute ye patch wall dekhiye. Durability aur finish market se 2 level up hai, aur aapka contractor margin ₹40/bag extra hai.”*
+> **Sales Rep:** *“Sir, take 5 minutes to look at this patch wall. Durability and finish are two levels superior to the market, and your contractor margin is ₹40/bag extra.”*
 
 ---
 
 ## 🎯 RESULT:
-👉 Instant site booking; dealer gets direct order without cold calls.
+👉 Instant site booking; dealer gets direct orders without making cold calls.
 
 ---
 
@@ -160,19 +160,19 @@ Ongoing construction site par contractor aur house owner ko live finish dikha ka
 ---
 
 ## 🎯 OBJECTIVE:
-Target market me 100% brand recall and visual dominance install karna.
+Establish 100% brand recall and visual dominance across target markets.
 
 ---
 
 ## ⚙️ EXECUTION PLAN:
 - Paint high-traffic highway walls, shop boundary walls, and painter assembly points.
 - Use actual Swatch Weatherguard / Exterior Emulsion for wall painting (Live durability proof).
-- Tagline: **“SWATCH PAINTS — PAINTER KI PEHLI PASAND | HIGH MARGIN, UNMATCHED DURABILITY.”**
+- Tagline: **“SWATCH PAINTS — PAINTER'S FIRST CHOICE | HIGH MARGIN, UNMATCHED DURABILITY.”**
 
 ---
 
 ## 🎯 RESULT:
-👉 Area me har jagah Swatch dikhta hai — local trust standard establish ho jata hai.
+👉 Swatch is visible everywhere across the cluster — local trust standard established.
 
 ---
 
@@ -181,7 +181,7 @@ Target market me 100% brand recall and visual dominance install karna.
 ---
 
 ## 🎯 OBJECTIVE:
-Marketing claims ko empirical proof se validate karke competitor resistance zero karna.
+Validate marketing claims with empirical proof to eliminate competitor resistance.
 
 ---
 
@@ -202,7 +202,7 @@ Marketing claims ko empirical proof se validate karke competitor resistance zero
 ---
 
 ## 🎯 OBJECTIVE:
-Ek single city/cluster me 30 din me complete market share capture karna.
+Capture complete market share in a target city/cluster within 30 days.
 
 ---
 
@@ -246,10 +246,10 @@ Ek single city/cluster me 30 din me complete market share capture karna.
 
 # ⚠️ 11. CRITICAL MISTAKES TO AVOID
 
-- ❌ Sirf hoardings/posters lagana bina ground painter connect ke  
-- ❌ Painter meet ke baad follow-up miss karna  
-- ❌ Dealer active kit (POSM + QR) set-up kiye bina next town bhagna  
-- ❌ Proof/demo boards ke bina site approach karna  
+- ❌ Installing hoardings/posters without ground painter activation  
+- ❌ Missing follow-ups after painter meets  
+- ❌ Moving to the next town before setting up dealer POSM & QR kits  
+- ❌ Approaching site decision makers without physical demo boards  
 
 ---
 
@@ -258,14 +258,14 @@ Ek single city/cluster me 30 din me complete market share capture karna.
 ---
 
 ## 🎯 DOMINATION RULE:
-> **1 Area → Full Domination → Cash-flow Positive → Move to Next Area**
+> **1 Area → Full Domination → Cash-Flow Positive → Move to Next Area**
 
 ---
 
 ## 🎯 DOMINATION SIGNALS (SUCCESS METRICS):
-- ✔ Painters shop par aakar specific Swatch SKUs maangte hain.
-- ✔ Dealer regular repeat 50-bag orders Hermes system me place karta hai.
-- ✔ Local customer ko Swatch texture brand ke baare me pata hai.
+- ✔ Painters visit dealer shops specifically asking for Swatch SKUs.
+- ✔ Dealer places regular repeat 50-bag orders via Hermes system.
+- ✔ Local retail customers recognize Swatch as the leading texture brand.
 
 ---
 
@@ -277,5 +277,5 @@ Ek single city/cluster me 30 din me complete market share capture karna.
 
 # 🔥 FINAL STATEMENT
 
-> **Marketing ka matlab generic awareness nahi.**  
-> **Marketing ka matlab GROUND DEMAND CONTROL hai.**
+> **Marketing is not about generic brand awareness.**  
+> **Marketing means GROUND DEMAND CONTROL.**

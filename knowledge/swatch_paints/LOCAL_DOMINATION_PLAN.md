@@ -7,19 +7,19 @@
 
 ---
 
-## ❌ OLD MODEL (गलत तरीका):
-- Thoda-thoda sab jagah presence (Weak scattered distribution)  
-- Shallow presence in 10 cities without controlling any single market  
+## ❌ TRADITIONAL MODEL (WRONG APPROACH):
+- Weak, scattered presence across multiple regions  
+- Shallow distribution across 10 cities without dominating any single market  
 
 ---
 
-## ✅ SWATCH MODEL (सही तरीका):
+## ✅ SWATCH MODEL (CORRECT APPROACH):
 > **1 Area → Full Hyperlocal Domination → Cash-Flow Positive → Next Area**
 
 ---
 
 ## 🎯 MAIN RULE:
-> **Jis area me ghuse — wahan No.1 position secure karni hai.**  
+> **Whichever area we enter — we MUST secure the No. 1 market position.**  
 
 ---
 
@@ -34,10 +34,10 @@
 ---
 
 ## 🎯 IDEAL AREA CRITERIA (TARGETING CHECKLIST):
-- **Geography:** 5–10 km concentrated cluster/radius.  
+- **Geography:** Concentrated 5–10 km radius / cluster.  
 - **Painter Density:** Minimum 50+ active texture applicators & painting contractors.  
 - **Dealer Cluster:** 10–20 hardware & paint retail shops.  
-- **Construction Activity:** High ongoing residential colony building, villa renovation, or commercial shop work.  
+- **Construction Activity:** High ongoing residential colony building, villa renovation, or commercial shop construction.  
 
 ---
 
@@ -49,8 +49,8 @@
 ---
 
 ## ❌ AVOID IN INITIAL PHASE:
-- Low-construction stagnant zones.  
-- Scattered rural areas with no contractor concentration.  
+- Low-construction stagnant zones  
+- Scattered rural areas with no contractor concentration  
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 ## 🎯 GOAL:
-Painter & applicator ko Swatch ka main demand driver banana.
+Establish painters and applicators as the primary demand drivers for Swatch Paints.
 
 ---
 
@@ -75,12 +75,12 @@ Painter & applicator ko Swatch ka main demand driver banana.
 
 ### WEEK 2: PAINTER MEET & ONBOARDING
 - Host localized 1-hour Painter Meet for the 30 mapped applicators.
-- Register 100% attendees in Swatch Saathi WhatsApp System (`/balance`, `/rewards`).
+- Register 100% of attendees in the Swatch Saathi WhatsApp System (`/balance`, `/rewards`).
 
 ---
 
 ## 🎯 RESULT:
-> **Painter counter par jaakar bolta hai: “Mujhe Swatch Rustic Texture hi chahiye!”**
+> **The painter walks up to the counter and demands: “I specifically need Swatch Rustic Texture!”**
 
 ---
 
@@ -89,19 +89,19 @@ Painter & applicator ko Swatch ka main demand driver banana.
 ---
 
 ## 🎯 GOAL:
-Area ke top 1-2 growth-hungry dealers ko exclusive distribution corner banana.
+Select the top 1-2 growth-hungry dealers in the area to serve as exclusive distribution corners.
 
 ---
 
 ## ⚙️ DEALER LOCK STRATEGY:
 - **Exclusive Radius:** Guarantee 3–5 km radius territory protection (No competing Swatch dealer).
-- **Counter Margin:** Offer 20% - 30% direct counter profit (vs MNC 3% - 5%).
+- **Counter Margin:** Offer 20% - 30% direct counter profit (vs legacy MNC 3% - 5%).
 - **Zero Machine Investment:** Supply pre-mixed Rustic Texture & Roller Coat (Zero colorant machine cost).
 
 ---
 
 ## 🎯 GOLDEN RULE:
-> **1 Area = Limited Exclusive Dealers $\longrightarrow$ Zero Price War $\longrightarrow$ High Dealer Loyalty**
+> **1 Area = Limited Exclusive Dealers $\longrightarrow$ Zero Price Wars $\longrightarrow$ High Dealer Loyalty**
 
 ---
 
@@ -110,15 +110,15 @@ Area ke top 1-2 growth-hungry dealers ko exclusive distribution corner banana.
 ---
 
 ## 🎯 GOAL:
-Area me Swatch ko default top brand perception dena.
+Establish Swatch as the default premium brand perception across the target area.
 
 ---
 
 ## ⚙️ EXECUTION BREAKDOWN:
 
 ### 🧩 1. SHOP LEVEL DOMINATION:
-- Front shop banner & co-branded entrance signage.
-- 10-bucket front pyramid display stack at entrance.
+- Co-branded front shop banner & entrance signage.
+- 10-bucket front pyramid display stack at the shop entrance.
 - Eye-level acrylic sample rack containing real touch-and-feel panels.
 
 ### 🧩 2. AREA LEVEL DOMINATION:
@@ -128,7 +128,7 @@ Area me Swatch ko default top brand perception dena.
 ---
 
 ## 🎯 RESULT:
-👉 Customer and contractor see Swatch branding everywhere they turn.
+👉 Customers and contractors see Swatch branding everywhere they turn.
 
 ---
 
@@ -155,12 +155,12 @@ Area me Swatch ko default top brand perception dena.
 ---
 
 ## 🎯 GOAL:
-Empirical evidence se competitor resistance zero karna.
+Eliminate competitor resistance using empirical ground evidence.
 
 ---
 
 ## ⚙️ PROOF ASSETS SOP:
-- Maintain a local binder and digital WhatsApp folder of 15 completed local sites in that exact colony.
+- Maintain a local physical binder and digital WhatsApp folder of 15 completed local sites in that exact colony.
 - Video clips of well-known local contractors endorsing Swatch coverage & token payouts.
 
 ---
@@ -175,7 +175,7 @@ Empirical evidence se competitor resistance zero karna.
 ---
 
 ## 🎯 GOAL:
-Competitor brands ko territory se displace karke entry block karna.
+Displace competitor brands and block their entry into the territory.
 
 ---
 
@@ -183,7 +183,7 @@ Competitor brands ko territory se displace karke entry block karna.
 
 ### 1. PAINTER LOYALTY LOCK:
 - High token value + tier milestone bonuses (100 -> ₹2.5k up to 1000 -> ₹35k).
-- Fast WhatsApp payout response.
+- Fast WhatsApp payout response within 24 hours.
 
 ### 2. DEALER PROFIT LOCK:
 - High counter margin + exclusive territory protection.
@@ -199,7 +199,7 @@ Competitor brands ko territory se displace karke entry block karna.
 
 ---
 
-# ⚙BOOT 10. 30-DAY HYPERLOCAL EXECUTION PLAN
+# ⚙️ 10. 30-DAY HYPERLOCAL EXECUTION PLAN
 
 ---
 
@@ -214,10 +214,10 @@ Competitor brands ko territory se displace karke entry block karna.
 
 # ⚠️ 11. CRITICAL MISTAKES TO AVOID
 
-- ❌ Concentrated area master karne se pehle multi-city expansion me bhagna.  
-- ❌ Without painter ground mapping dealer shop bill karwana.  
-- ❌ Single dealer area me 3 competing shops open karke price war karwana.  
-- ❌ Visual wall branding & POSM skip karna.  
+- ❌ Expanding into multi-city campaigns before dominating the target cluster  
+- ❌ Billing a dealer shop without mapping local painter connections  
+- ❌ Opening 3 competing dealer shops in a single small area and causing price wars  
+- ❌ Skipping visual wall branding & counter POSM installation  
 
 ---
 
@@ -267,5 +267,5 @@ $$\text{1 Colony} \longrightarrow \text{1 Ward} \longrightarrow \text{1 City Clu
 
 # 🔥 FINAL STATEMENT
 
-> **Market jeetne ke liye poora India nahi chahiye.**  
-> **Sirf ek area par FULL DOMINATION chahiye!**
+> **Winning the market does not require conquering all of India at once.**  
+> **It only requires FULL DOMINATION over one focused cluster at a time!**

@@ -7,9 +7,9 @@
 
 ---
 
-## ❌ OLD MODEL:
-- Jo mile usko dealer bana lo  
-- Quantity > quality  
+## ❌ TRADITIONAL MODEL:
+- Sign up any dealer who agrees  
+- Quantity > Quality  
 
 ---
 
@@ -19,8 +19,8 @@
 ---
 
 ## 🎯 GOLDEN RULE:
-> **Har dealer valuable nahi hota.**  
-> **Sirf wahi dealer valuable hai jo bech sakta hai.**  
+> **Not every dealer is valuable.**  
+> **Only a dealer who can actively move stock is valuable.**  
 
 ---
 
@@ -37,32 +37,32 @@
 ## 🎯 IDEAL DEALER PROFILE (IDP)
 
 ### 🧩 TYPE 1: HIGH ROTATION DEALER
-- Daily heavy footfall  
-- Fast moving products  
-- Already selling textures / paints  
+- Heavy daily footfall  
+- Fast-moving product inventory  
+- Already selling wall putty, textures, or emulsions  
 
-### 🧩 TYPE 2: PAINTER CONNECTED DEALER
-- 20+ painters regular visiting shop  
-- Contractor network strong  
+### 🧩 TYPE 2: PAINTER-CONNECTED DEALER
+- 20+ regular applicators/painters visiting the shop weekly  
+- Strong local contractor network  
 
-### 🧩 TYPE 3: GROWTH HUNGRY DEALER
-- New but aggressive shop owner  
-- Open to new high-margin lines  
+### 🧩 TYPE 3: GROWTH-HUNGRY DEALER
+- New or aggressive shop owner  
+- Eager to adopt high-margin product lines  
 
 ---
 
-## ❌ AVOID:
-- Dead stock shops  
-- Only credit-based dealers  
-- No painter network  
+## ❌ DEALER TYPES TO AVOID:
+- Dead stock shops with zero footfall  
+- Dealers who operate purely on heavy credit  
+- Dealers with no applicator/painter connections  
 
 ---
 
 ## 🎯 FIELD FILTER CHECKLIST:
-- [ ] Shop me rush hai?
-- [ ] Painter aate hai?
-- [ ] Owner active hai?
-- [ ] Product movement visible hai?
+- [ ] Is there active customer rush at the counter?
+- [ ] Do local painters visit this shop regularly?
+- [ ] Is the shop owner actively managing the counter?
+- [ ] Is product movement clearly visible?
 
 ---
 
@@ -71,130 +71,130 @@
 ---
 
 ## 🎯 GOAL:
-Conversation open karna — pitch nahi  
+Open a conversation — do NOT deliver a canned sales pitch.  
 
 ---
 
 ### ENTRY SCRIPT:
-> **Sales Rep:** *“Sir ek simple sawal puchu?”*  
-> *(Pause)*  
-> **Sales Rep:** *“Aap per bag kitna kama rahe ho?”*  
+> **Sales Rep:** *“Sir, may I ask you one simple question?”*  
+> *(Pause 3 seconds)*  
+> **Sales Rep:** *“How much net profit are you currently earning per bag?”*  
 
 ---
 
 ## 🧠 ENTRY RULES:
-- ✔ Direct bolo  
-- ✔ Confident raho  
-- ✔ Short rakho  
-- ❌ Long intro mat do  
-- ❌ Company history mat बताओ  
+- ✔ Be direct  
+- ✔ Be confident  
+- ✔ Keep it short  
+- ❌ Do NOT deliver a long introduction  
+- ❌ Do NOT bore them with company history  
 
 ---
 
-# 🔵 5. STEP 3: DIAGNOSIS (REALITY निकालना)
+# 🔵 5. STEP 3: DIAGNOSIS (UNCOVERING REALITY)
 
 ---
 
 ## 🎯 GOAL:
-Dealer ka current system samajhna  
+Understand the dealer's current operational reality and margin dissatisfaction.  
 
 ---
 
 ### DIAGNOSTIC QUESTIONS (SPIN / NEPQ):
-- *“Kaunsa brand chal raha hai abhi?”*  
-- *“Monthly kitna texture / paint sale hai?”*  
-- *“Per bag kitna margin mil raha hai?”*  
-- *“Machine investment kitna lagaya hai?”*  
+- *“Which brand is currently moving the highest volume on your counter?”*  
+- *“What is your monthly texture/emulsion sales volume?”*  
+- *“What net margin percentage do you earn per bag?”*  
+- *“How much capital did you invest in your tinting machine?”*  
 
 ---
 
 ## 🎯 OUTPUT:
-👉 Current earning reality exposure  
+👉 Exposure of their current low-margin earning reality.  
 
 ---
 
-# 🟣 6. STEP 4: QUALIFICATION (TIME WASTE रोकना)
+# 🟣 6. STEP 4: QUALIFICATION (ELIMINATING WASTED TIME)
 
 ---
 
 ## 🎯 GOAL:
-Decide karna — worth hai ya nahi  
+Decide whether this dealer is worth acquiring.  
 
 ---
 
 ## 🔥 QUALIFICATION PARAMETERS:
 
 ### 1. VOLUME POTENTIAL
-- Monthly 50+ bag capability  
+- Capable of moving 50+ bags monthly  
 
 ### 2. DECISION MAKER
-- Direct owner se baat ho rahi hai  
+- Directly engaging with the active shop owner  
 
 ### 3. PROFIT MINDSET
-- Higher margin me genuine interest hai  
+- Genuinely interested in 2x-3x higher counter margins  
 
 ---
 
-## ❌ DISQUALIFY IMMEDIATELY:
-- Sirf price chukane aaya hai / bad-faith bargaining  
-- Decision delay karta rehta hai  
-- No commitment mindset  
+## ❌ DISQUALIFY IMMEDIATELY IF:
+- Bargaining in bad faith or asking for free stock  
+- Chronically delaying decisions without cause  
+- Showing zero commitment mindset  
 
 ---
 
-# 🔴 7. STEP 5: CONVERSION (DEAL CLOSE)
+# 🔴 7. STEP 5: CONVERSION (CLOSING THE DEAL)
 
 ---
 
 ## 🎯 GOAL:
-Trial order lena (SEGP 20-bag kit)  
+Secure the initial SEGP 20-bag trial order.  
 
 ---
 
 ### CLOSING SCRIPT:
-> **Sales Rep:** *“Sir trial ke liye 20 bag start karte hain. Low risk hai, earning clear hai.”*  
+> **Sales Rep:** *“Sir, let's start with a 20-bag trial order. The financial risk is minimal, and your net profit is crystal clear.”*  
 
 ---
 
-### 🎯 ADVANCED CLOSE:
-> **Sales Rep:** *“Sir 20 ya 30 bag me se kya better rahega trial ke liye?”*  
+### 🎯 ADVANCED CHOICE CLOSE:
+> **Sales Rep:** *“Sir, for your trial order, would 20 bags or 30 bags be better for your counter?”*  
 
 ---
 
 ## ⚠️ RULE:
-- ✔ Small entry (SEGP starter pack)  
-- ✔ Fast close  
-- ❌ Big order initial push mat karo  
+- ✔ Focus on a small entry pack (SEGP 20-bag trial)  
+- ✔ Close fast  
+- ❌ Do NOT push massive bulk orders on Day 1  
 
 ---
 
-# ⚫ 8. STEP 6: ACTIVATION (MOST IMPORTANT)
+# ⚫ 8. STEP 6: ACTIVATION (MOST CRITICAL PHASE)
 
 ---
 
 ## 🎯 GOAL:
-Dealer ko “active seller” banana  
+Transform the newly billed dealer into an “active seller”.  
 
 ---
 
-## 🔥 ACTIVATION SYSTEM TIMELINE:
+## 🔥 ACTIVATION TIMELINE:
 
 ### DAY 1:
-- Stock deliver  
-- Product sample & placement explain  
+- Deliver trial stock  
+- Install counter sample displays & POSM  
 
 ### DAY 2–3:
-- Painter connect  
-- Demand create  
+- Connect local painters to the shop  
+- Generate initial site demand  
 
 ### DAY 4–7:
 - Field follow-up  
-- First sale push  
+- Push the first retail sale  
 
 ---
 
 ## 🎯 RESULT:
-👉 First sale = Dealer confidence unlocked  
+👉 First sale executed = Dealer confidence unlocked!  
 
 ---
 
@@ -203,12 +203,12 @@ Dealer ko “active seller” banana
 ---
 
 ## 🎯 GOAL:
-Dealer ko majboor karna stock re-order karne ke liye  
+Create site demand so the dealer is compelled to re-order stock.  
 
 ---
 
 ## ENGINE LOGIC:
-> **Painter Demand → Dealer Forced → Stock Re-order**
+> **Painter Demand → Dealer Forced → Stock Re-Order**
 
 ---
 
@@ -217,18 +217,18 @@ Dealer ko majboor karna stock re-order karne ke liye
 ---
 
 ## 🎯 GOAL:
-Dealer volume grow karna  
+Scale the dealer's order volume over time.  
 
 ---
 
-## METHODS:
-- More SKUs introduce (Weatherguard, Shine Emulsion, Roller Coat)  
-- Order size increase (DGP Level 2 / DSP Level 3)  
-- Radius/territory expansion  
+## SCALING METHODS:
+- Introduce additional SKUs (Weatherguard, Shine Emulsion, Roller Coat)  
+- Increase order sizes (DGP Level 2 / DSP Level 3)  
+- Expand territorial coverage  
 
 ---
 
-## 🎯 SCALE RULE:
+## 🎯 SCALING RULE:
 > **Trial (20 bags) → Repeat (50 bags) → Bulk (100+ bags) → Expansion**
 
 ---
@@ -249,10 +249,10 @@ Dealer volume grow karna
 
 # ⚠️ 12. CRITICAL MISTAKES TO AVOID
 
-- ❌ Wrong dealer selection  
-- ❌ Only sales focus (no activation after billing)  
-- ❌ No painter connection  
-- ❌ Follow-up missing after Day 3  
+- ❌ Selecting the wrong low-volume dealer  
+- ❌ Focusing only on selling without activating stock after billing  
+- ❌ Failing to connect local painters to the dealer's counter  
+- ❌ Missing follow-ups after Day 3  
 
 ---
 
@@ -260,15 +260,15 @@ Dealer volume grow karna
 
 ---
 
-## 🎯 DREAM DEALER LIST
-- Top 20 high-volume dealers per target city/area  
-- Focus 80% field effort only on them  
+## 🎯 DREAM DEALER LIST:
+- Identify the top 20 high-volume dealers per target city/area  
+- Focus 80% of field sales effort exclusively on them  
 
 ---
 
-## 🎯 AREA CONTROL & TERRITORY PROTECTION
-- Maximum 1 exclusive Swatch dealer per 3-5 km radius  
-- Avoids price war between neighboring shopkeepers  
+## 🎯 AREA CONTROL & TERRITORY PROTECTION:
+- Maintain a maximum of 1 exclusive Swatch dealer per 3-5 km radius  
+- Eliminates price wars between neighboring shopkeepers  
 
 ---
 
@@ -277,25 +277,25 @@ Dealer volume grow karna
 ---
 
 ## DAILY LOGGING:
-- New dealer visits logged via `/visit_done`  
-- New orders billed via `/new_order`  
+- Log dealer visits via `/visit_done`  
+- Log new orders via `/new_order`  
 
 ## WEEKLY TRACKING:
-- Active dealers count & stock rotation via `/active_dealers`  
+- Track active dealer count & stock rotation via `/active_dealers`  
 
 ## MONTHLY STRATEGY:
-- Top performing vs weak dealers report via `/salesman_report`  
-- Territory expansion planning via `/top_dealers`  
+- Generate top vs weak dealers report via `/salesman_report`  
+- Plan territory expansion via `/top_dealers`  
 
 ---
 
 # 🎯 15. FINAL EXECUTION LOOP
 
-> **Find → Enter → Diagnose → Qualify → Close → Activate → Scale**
+> **Target → Enter → Diagnose → Qualify → Convert → Activate → Scale**
 
 ---
 
 # 🔥 FINAL STATEMENT
 
-> **Dealer banana aasaan hai.**  
-> **Active dealer banana real game hai.**
+> **Signing up a dealer is easy.**  
+> **Creating an ACTIVE, fast-rotating dealer is the real victory.**

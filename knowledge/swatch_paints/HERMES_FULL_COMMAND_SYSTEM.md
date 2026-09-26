@@ -1,24 +1,24 @@
 # SWATCH PAINTS — HERMES FULL COMMAND SYSTEM
-*(WhatsApp-Based Business Operating System)*
+## (WhatsApp-Based Business Operating System)
 
 ---
 
 # 🎯 CORE OBJECTIVE
 
-- **Entire company ko WhatsApp se control karna**  
-- **Real-time reporting**  
-- **Zero confusion execution**  
-- **Fast decision making**  
+- **Control the entire enterprise via structured WhatsApp commands**  
+- **Real-time business telemetry and reporting**  
+- **Zero-confusion operational execution**  
+- **Accelerated executive decision-making**  
 
 ---
 
-# 🧠 SYSTEM STRUCTURE
+# 🧠 SYSTEM ARCHITECTURE
 
 ```
-CEO (Ashutosh Control)
+CEO (Ashutosh Sharma Control)
        ↓
-Hermes (Central Brain)
-  ↙    ↓    ↘
+Hermes (Central AI Brain)
+   ↙    ↓    ↘
 Salesman  Dealer  Painter
 ```
 
@@ -27,40 +27,40 @@ Salesman  Dealer  Painter
 # ⚙️ 1️⃣ CEO COMMANDS (ASHUTOSH CONTROL)
 
 ### 📊 BUSINESS CONTROL:
-- `/daily_report` → Kal ka full report
-- `/weekly_report` → Weekly performance
-- `/monthly_report` → Full business stats
+- `/daily_report` $\rightarrow$ Yesterday's complete executive report
+- `/weekly_report` $\rightarrow$ Weekly revenue & volume performance
+- `/monthly_report` $\rightarrow$ Comprehensive monthly business P&L statistics
 
 ### 💰 FINANCE CONTROL:
-- `/revenue` → Total sales
-- `/pending_payments` → Outstanding receivables
-- `/profit` → Estimated profit & margins
+- `/revenue` $\rightarrow$ Gross sales & unit margin breakdown
+- `/pending_payments` $\rightarrow$ Outstanding accounts receivable ledger
+- `/profit` $\rightarrow$ Estimated net profit & contribution margin status
 
 ### 📍 SALES CONTROL:
-- `/top_dealers` → Best performing dealers
-- `/low_performance` → Weak areas & underperforming zones
-- `/salesman_report` → Field team performance tracking
+- `/top_dealers` $\rightarrow$ Top-performing dealer leaderboard
+- `/low_performance` $\rightarrow$ Underperforming territories & weak zones
+- `/salesman_report` $\rightarrow$ Field team visit compliance & beat plan tracking
 
 ---
 
 # ⚔️ 2️⃣ SALESMAN COMMANDS
 
-### 🧾 ORDER SYSTEM:
+### 🧾 ORDER BILLING SYSTEM:
 ```
 /new_order
 Dealer Name: [Name]
-Product: [Product]
-Quantity: [Qty]
+Product: [Product SKU]
+Quantity: [Bag/Bucket Count]
 ```
 
-### 📍 VISIT TRACKING:
+### 📍 VISIT TRACKING LOG:
 ```
 /visit_done
 Dealer Name: [Name]
 City: [City]
 ```
 
-### 📊 DAILY REPORT:
+### 📊 DAILY FIELD REPORT:
 ```
 /report
 Total visits: [Count]
@@ -72,108 +72,108 @@ Issues: [Notes]
 
 # 🏪 3️⃣ DEALER COMMANDS
 
-### 🧾 ORDER SYSTEM:
+### 🧾 DIRECT ORDERING SYSTEM:
 ```
 /order
 Product: [Product Name]
-Quantity: [Qty]
+Quantity: [Quantity]
 ```
 
-### 📦 STOCK CHECK:
-- `/stock_status` → Check factory & depot stock availability
+### 📦 STOCK INQUIRY:
+- `/stock_status` $\rightarrow$ Check factory & depot stock availability
 
-### 🎁 SCHEME CHECK:
-- `/offers` → View active trade schemes, volume rebates, & festive offers
+### 🎁 TRADE SCHEME INQUIRY:
+- `/offers` $\rightarrow$ View active trade schemes, volume rebates, & festive offers
 
-### 💰 ACCOUNT STATUS:
-- `/ledger` → Account ledger statement
-- `/pending` → Pending invoice details & due dates
+### 💰 FINANCIAL ACCOUNT STATUS:
+- `/ledger` $\rightarrow$ Direct account ledger statement
+- `/pending` $\rightarrow$ Pending invoice details & due dates
 
 ---
 
 # 🎨 4️⃣ PAINTER COMMANDS
 
-### 💰 TOKEN SYSTEM:
-- `/balance` → Check token balance & current slab
-- `/rewards` → View available reward milestones & cash benefits
+### 💰 TOKEN & WALLET SYSTEM:
+- `/balance` $\rightarrow$ Check current token balance & wallet status
+- `/rewards` $\rightarrow$ View available reward milestone slabs & cash benefits
 
-### 🔗 REFERRAL:
-- `/refer` → Generate personal referral link & invite painters
+### 🔗 REFERRAL SYSTEM:
+- `/refer` $\rightarrow$ Generate personal referral link & invite new applicators
 
-### 📞 SUPPORT:
-- `/help` → Instant support & helpline assistance
+### 📞 SUPPORT HELPLINE:
+- `/help` $\rightarrow$ Direct connection to customer support & helpline
 
 ---
 
-# 🔁 5️⃣ AUTOMATED TRIGGERS
+# 🔁 5️⃣ AUTOMATED SYSTEM TRIGGERS
 
 ### 🟢 ORDER TRIGGER:
-> **Order placed → Stock update → Sales update → CEO notify**
+> **Order placed $\longrightarrow$ Warehouse stock updated $\longrightarrow$ Sales ledger updated $\longrightarrow$ CEO notified**
 
 ### 🟡 TOKEN TRIGGER:
-> **Painter earns → Auto credit → Instant notification**
+> **Painter scans QR $\longrightarrow$ Wallet auto-credited $\longrightarrow$ Instant WhatsApp confirmation sent**
 
-### 🔴 ALERT SYSTEM:
-- **Low stock** → Dealer alert
-- **Pending payment** → Automatic due date reminder
-
----
-
-# 📊 6️⃣ REPORTING SYSTEM
-
-- **DAILY:** Total orders, active dealers, active painters.
-- **WEEKLY:** Growth areas, top performers.
-- **MONTHLY:** Revenue, territory expansion, strategic inputs.
+### 🔴 AUTOMATED ALERT SYSTEM:
+- **Low Factory Stock** $\rightarrow$ Triggers re-order notification to plant manager
+- **Overdue Account Payment** $\rightarrow$ Automated payment reminder sent to dealer on Day 25 & Day 28
 
 ---
 
-# 🧠 7️⃣ SMART AUTOMATION
+# 📊 6️⃣ EXECUTIVE REPORTING SYSTEM
 
-### 💬 AUTO REPLIES:
-- **Unknown message** → Guide user with available commands
-- **Command error** → Show correct format example
-
-### 🎯 BEHAVIOR TRACKING:
-- **Inactive painter** → Re-engagement message
-- **Low dealer activity** → Sales push alert
+- **DAILY:** Total orders billed, active dealer counts, active painter scans.
+- **WEEKLY:** Territory growth analysis, top-performing sales reps.
+- **MONTHLY:** Gross revenue, P&L, territory expansion metrics, strategic inputs.
 
 ---
 
-# ⚙️ 8️⃣ TECH SETUP (NO PAID APIs)
+# 🧠 7️⃣ SMART AUTOMATION ENGINE
 
-### 🛠️ STACK:
-- WhatsApp Web *(Baileys / Node.js bridge)*
-- Node.js backend
-- SQLite / Supabase DB
-- Cron jobs for automated alerts
+### 💬 AUTO-REPLIES:
+- **Unrecognized Message** $\rightarrow$ Auto-guide user with available command options
+- **Command Syntax Error** $\rightarrow$ Return correct payload formatting example
+
+### 🎯 BEHAVIORAL ENGAGEMENT TRACKING:
+- **Inactive Painter (14 Days)** $\rightarrow$ Auto-send re-engagement token offer
+- **Low Dealer Activity (30 Days)** $\rightarrow$ Trigger field sales push alert
+
+---
+
+# ⚙️ 8️⃣ TECH STACK ARCHITECTURE
+
+### 🛠️ STACK COMPONENTS:
+- **Messaging Bridge:** WhatsApp Web *(Baileys / Node.js bridge)*
+- **Application Engine:** Node.js / Python FastAPI backend
+- **Database:** SQLite / PostgreSQL / Supabase DB
+- **Automated Cron Jobs:** Scheduled heartbeat alerts & daily morning SOP provisioning
 
 ---
 
 # 💣 SYSTEM ADVANTAGE
 
-- **Traditional Business:** Calls, manual tracking, delays.
-- **Hermes System:** Instant updates, full visibility, fast decisions.
+- **Traditional Business:** Phone calls, manual register tracking, operational delays.
+- **Hermes System:** Instant real-time updates, full operational transparency, accelerated execution.
 
 ---
 
-# ⚠️ RULES
+# ⚠️ OPERATIONAL RULES
 
-- ❌ No manual chaos  
-- ❌ No delay in updates  
-- ✔ All communication via structured commands  
-- ✔ Daily reporting mandatory  
+- ❌ Zero manual chaos  
+- ❌ Zero delay in telemetry updates  
+- ✔ All communication routed via structured slash commands  
+- ✔ Daily reporting compliance is mandatory  
 
 ---
 
 # 🎯 FINAL RESULT
 
-- **CEO knows everything**
-- **Salesman works disciplined**
-- **Dealer orders easily**
-- **Painter stays engaged**
+- **The CEO maintains total operational visibility**
+- **Sales reps execute with disciplined field routines**
+- **Dealers place orders effortlessly via WhatsApp**
+- **Painters stay continuously engaged and loyal**
 
 ---
 
 # 🔥 FINAL POSITIONING
 
-> **Hermes is the complete WhatsApp-based Operating System for Swatch Paints.**
+> **Hermes is the complete WhatsApp-based Business Operating System for Swatch Paints.**

@@ -1,5 +1,5 @@
 # SWATCH PAINTS — SALES SCRIPTS MASTER (DEEP VERSION)
-*(Psychology + Structure + Closing Engine — Hermes Field Execution)*
+## (Psychology + Structure + Closing Engine — Hermes Field Execution)
 
 ---
 
@@ -7,21 +7,21 @@
 
 ---
 
-## ❌ OLD SALES (गलत तरीका)
-- Product pitch  
-- Price discussion  
-- Discount focus  
+## ❌ TRADITIONAL SALES (WRONG APPROACH):
+- Product feature pitching  
+- Immediate price discussion  
+- Focus on offering discounts  
 
 ---
 
-## ✅ SWATCH SALES (सही तरीका)
-> **Diagnose → Build Gap → Show Earning → Close Fast**
+## ✅ SWATCH SALES (CORRECT APPROACH):
+> **Diagnose → Build Gap → Demonstrate Earning → Close Fast**
 
 ---
 
 ## 🎯 MAIN RULE:
-> **Customer ko convince nahi karna.**  
-> **Usko khud decision lene pe majboor karna hai.**  
+> **Do not try to convince the customer.**  
+> **Force them to arrive at the buying decision themselves through structured questioning.**  
 
 ---
 
@@ -31,182 +31,182 @@
 
 ## 🟡 STEP 1: ENTRY (FIRST 10 SECONDS)
 
-### ❌ गलती:
-- *“Sir paint le lo”*
-- *“Best product hai”*
+### ❌ COMMON MISTAKES:
+- *“Sir, please buy our paint.”*
+- *“We have the best quality product.”*
 
-### ✅ SCRIPT:
-> **Sales Rep:** *“Sir ek simple sawal puchu?”*  
-> *(Pause 3 seconds)*  
-> **Sales Rep:** *“Aap per bag kitna kama rahe ho currently?”*  
+### ✅ ENTRY SCRIPT:
+> **Sales Rep:** *“Sir, may I ask you one simple question?”*  
+> *(Pause 3 seconds for response)*  
+> **Sales Rep:** *“How much net profit are you currently earning per bag?”*  
 
-👉 **Objective:** Curiosity create karna + Conversation open karna.
+👉 **Objective:** Create curiosity + open a meaningful commercial conversation.
 
 ---
 
 ## 🟢 STEP 2: RAPPORT BUILDING (HUMAN CONNECT)
 
 ### 🎯 GOAL:
-Trust create karna bina fake friendliness ke.
+Build authentic trust without forced or fake friendliness.
 
-### METHODS:
-- Shop observe karo  
-- Unke kaam ki respect karo  
-- Unke business ko samjho  
+### FIELD METHODOLOGY:
+- Observe shop footfall and inventory setup.  
+- Respect their established business experience.  
+- Understand their primary sales driver.  
 
-### SCRIPT EXAMPLES:
-- *“Sir kaafi time se shop chal rahi lag rahi hai.”*  
-- *“Yahan ka main chalne wala product kaunsa hai?”*  
+### VERBATIM SCRIPT EXAMPLES:
+- *“Sir, it looks like your shop has been established in this market for a long time.”*  
+- *“Which product is your highest-moving SKU right now?”*  
 
 👉 **RULE:**  
-❌ Fake tareef nahi | ✔ Genuine observation.
+❌ No fake compliments | ✔ Genuine business observation.
 
 ---
 
-## 🔵 STEP 3: PROBING (SPIN + NEPQ)
+## 🔵 STEP 3: PROBING (SPIN + NEPQ FRAMEWORK)
 
 ### 🎯 GOAL:
-Hidden pain nikalna.
+Uncover hidden financial dissatisfaction and margin pain.
 
 ### 🔍 SITUATION QUESTIONS:
-- *“Abhi kaunsa brand chal raha hai?”*
-- *“Monthly kitna movement hota hai?”*
+- *“Which brand is moving the highest volume on your counter right now?”*
+- *“What is your average monthly texture/emulsion volume?”*
 
 ### 🔥 PROBLEM QUESTIONS:
-- *“Margin me satisfaction hai?”*
-- *“Kabhi laga ki profit kam hai?”*
+- *“Are you completely satisfied with your net margins on legacy brands?”*
+- *“Have you ever felt that your counter profit is too low relative to your footfall?”*
 
 ### 💣 IMPLICATION QUESTIONS:
-- *“Agar margin low hai to yearly kitna loss hota hoga?”*
-- *“Machine investment recover hua?”*
+- *“If your margin is only 3-5%, how much total net profit are you losing every year?”*
+- *“Has your colorant tinting machine investment fully recovered its cost yet?”*
 
-### 🎯 NEED-PAYOFF:
-- *“Agar margin double ho jaye to difference padega?”*
+### 🎯 NEED-PAYOFF QUESTIONS:
+- *“If your per-bag margin doubled without adding machine cost, what impact would that make on your business?”*
 
-👉 **RULE:** **Jitna zyada wo bolega, utna easy close hoga.**
+👉 **RULE:** **The more the prospect speaks about their pain, the easier the close will be.**
 
 ---
 
-## 🟣 STEP 4: GAP BUILDING (KEENAN STYLE)
+## 🟣 STEP 4: GAP BUILDING (KEENAN GAP SELLING STYLE)
 
 ### 🎯 GOAL:
-Current vs Ideal ka gap dikhana.
+Demonstrate the massive financial gap between Current Reality and Ideal State.
 
-### SCRIPT:
-> **Sales Rep:** *“Sir abhi aap ₹X kama rahe ho. Agar wahi quantity me ₹2X kama sako, to difference kitna hoga?”*
+### VERBATIM SCRIPT:
+> **Sales Rep:** *“Sir, right now you are earning ₹X per bag. If you can earn ₹2X on the exact same volume, what is the net difference to your business?”*
 
-### ADVANCED:
-> **Sales Rep:** *“Sir aapne last 6 mahine me kitna miss kiya hoga?”*
+### ADVANCED GAP SCRIPT:
+> **Sales Rep:** *“Sir, how much profit did you miss out on over the last 6 months by selling low-margin brands?”*
 
-👉 **RESULT:** Pain + Urgency.
-
----
-
-## 🔴 STEP 5: SOLUTION INTRO (NO PITCH)
-
-### ❌ गलती:
-- Product explain karna.
-
-### ✅ SCRIPT:
-> **Sales Rep:** *“Sir ek model hai jisme dealer ka margin high hai, aur painter bhi usko push karta hai.”*
-
-👉 **Curiosity > explanation.**
+👉 **RESULT:** Heightened pain + immediate urgency.
 
 ---
 
-## ⚫ STEP 6: CERTAINTY BUILD (BELFORT — 3 TENS)
+## 🔴 STEP 5: SOLUTION INTRODUCTION (NO PRODUCT PITCH)
 
-### 🎯 3 CIZEIN 10/10 KARNI HAIN:
-1. Product  
-2. Brand  
-3. Profit  
+### ❌ COMMON MISTAKE:
+- Explaining technical product features or chemistry immediately.
 
-### SCRIPT:
-> **Sales Rep:** *“Product Bundi quartz base hai. Brand local hai to fast support hai, aur profit aap khud calculate kar sakte ho.”*
+### ✅ VERBATIM SCRIPT:
+> **Sales Rep:** *“Sir, we have a high-margin business model where the dealer gets double profit and local painters actively push the product for you.”*
+
+👉 **Curiosity > Over-explanation.**
+
+---
+
+## ⚫ STEP 6: CERTAINTY BUILDING (JORDAN BELFORT — 3 TENS)
+
+### 🎯 ESTABLISH 10/10 CERTAINTY ACROSS 3 PILLARS:
+1. **The Product:** High quality & durability.  
+2. **The Brand:** Direct local factory support.  
+3. **The Financials:** Double net profit margin.  
+
+### VERBATIM SCRIPT:
+> **Sales Rep:** *“Sir, the product uses premium Bundi quartz aggregate. The factory is local in Rajasthan so delivery is same-day, and the profit margin is twice what legacy MNCs offer.”*
 
 ---
 
 ## 🟤 STEP 7: MICRO CLOSE
 
 ### 🎯 GOAL:
-Small YES lena.
+Secure a low-risk commitment (Micro-YES).
 
-### SCRIPT:
-> **Sales Rep:** *“Sir agar trial low risk ho to try karoge?”*
+### VERBATIM SCRIPT:
+> **Sales Rep:** *“Sir, if the trial is completely low risk, would you be open to testing it on your counter?”*
 
 ---
 
-## 🟢 STEP 8: FINAL CLOSE
+## 🟢 STEP 8: FINAL TRIAL CLOSE
 
-### SCRIPT:
-> **Sales Rep:** *“Sir 20 bag se start karte hain. Risk kam hai, earning clear hai.”*
+### VERBATIM SCRIPT:
+> **Sales Rep:** *“Sir, let's start with a small 20-bag SEGP trial. Risk is minimal, earning is crystal clear.”*
 
-### ALTERNATIVE CLOSE:
-> **Sales Rep:** *“Sir 20 ya 30 bag me se kya better rahega?”*
+### ALTERNATIVE CHOICE CLOSE:
+> **Sales Rep:** *“Sir, for your trial order, would 20 bags or 30 bags be better for your counter?”*
 
-👉 **Choice close.**
+👉 **Choice close (assumes the sale).**
 
 ---
 
 ## 🔁 STEP 9: FOLLOW-UP SYSTEM
 
-### DAY 1:
-> *“Sir kal jo baat hui usme kya strong laga?”*
+### DAY 1 AFTER VISIT:
+> *“Sir, what was the most compelling part of the profit equation we discussed yesterday?”*
 
-### DAY 2:
-> *“Sir agar ye kaam karta hai to aapke liye game changer hoga.”*
+### DAY 2 AFTER VISIT:
+> *“Sir, if this trial doubles your margin as planned, it will be a game changer for your counter.”*
 
-### DAY 3:
-> *“Sir start kar dete hain, delay ka loss ho raha hai.”*
+### DAY 3 AFTER VISIT:
+> *“Sir, let's initiate the SEGP trial today; postponing it only delays your extra profit.”*
 
 ---
 
 # 📱 3. WHATSAPP SALES SYSTEM
 
-### 🎯 FIRST MESSAGE:
-> *“Sir earning model bhej raha hoon. Aap dekh ke batao fit lagta hai kya.”*
+### 🎯 FIRST INBOUND/OUTBOUND MESSAGE:
+> *“Sir, sending over our Swatch Paints counter earning calculator. Take a look and let me know if it fits your counter goals.”*
 
-### 🎯 FOLLOW-UP:
-> *“Sir dekha aapne? Kya lag raha hai?”*
+### 🎯 FOLLOW-UP MESSAGE:
+> *“Sir, did you review the profit calculator? What are your thoughts?”*
 
-### 🎯 CLOSE:
-> *“Sir trial start kar dete hain. Main order place kar deta hoon.”*
+### 🎯 CLOSING MESSAGE:
+> *“Sir, let's initiate the 20-bag trial. I will process the order payload right now.”*
 
 ---
 
-# 💣 4. OBJECTION HANDLING (INTEGRATED)
+# 💣 4. INTEGRATED OBJECTION HANDLING
 
 ### RULE:
 > **Agree → Question → Redirect**
 
-### EXAMPLE:
-- **Customer:** *“Price high hai”*
-- **Response:** *“Samajh raha hoon sir. Lekin aap price dekh rahe ho ya earning?”*
+### VERBATIM EXAMPLE:
+- **Prospect:** *“Price high hai” (The price is high)*
+- **Response:** *“I understand sir. But are you looking at the upfront price or the net earning?”*
 
 ---
 
-# ⚠️ 5. CRITICAL MISTAKES
+# ⚠️ 5. CRITICAL SALES MISTAKES TO AVOID
 
-- ❌ Product pitching  
-- ❌ Price discussion early  
-- ❌ Zyada bolna  
-- ❌ Jaldi close karna  
+- ❌ Premature product pitching  
+- ❌ Discussing price before establishing value & gap  
+- ❌ Talking too much instead of listening  
+- ❌ Pushing for a massive bulk order on Day 1  
 
 ---
 
-# 🧠 6. ADVANCED CONTROL
+# 🧠 6. ADVANCED FIELD CONTROL
 
-### 🎯 SILENCE POWER:
-- Question pucho  
-- Chup raho  
-- Usko bolne do  
+### 🎯 THE POWER OF SILENCE:
+- Ask a diagnostic question.  
+- **Remain silent.**  
+- Let the customer process and answer.  
 
 ### 🎯 FRAME CONTROL:
-> **Tum bechne nahi aaye, tum select karne aaye ho.**
+> **You are not there to beg for an order. You are selecting the exclusive dealer for that territory.**
 
 ---
 
-# 🎯 7. FINAL SCRIPT FLOW (MEMORIZE THIS)
+# 🎯 7. MASTER SCRIPT FLOW (MEMORIZE THIS)
 
 > **Entry → Rapport → Probe → Gap → Curiosity → Certainty → Close**
 
@@ -214,5 +214,5 @@ Small YES lena.
 
 # 🔥 FINAL STATEMENT
 
-> **Sales script yaad mat karo.**  
-> **Flow samjho.**
+> **Do not just memorize sales scripts.**  
+> **Understand the underlying PSYCHOLOGY & FLOW.**

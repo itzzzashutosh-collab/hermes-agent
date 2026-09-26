@@ -1,22 +1,22 @@
 # SWATCH PAINTS — PAINTER DOMINATION SYSTEM (FULL ENGINE)
-
+## (Demand Creation + Market Control Engine)
 
 ---
 
 # 🎯 CORE OBJECTIVE
 
-- **Painter ko brand ka promoter banana**  
-- **Market demand ko control karna**  
-- **Dealer ko indirect push dena**  
-- **Swatch ko “default choice” banana**  
+- **Transform applicators/painters into direct brand advocates**  
+- **Control ground-level market demand**  
+- **Apply indirect demand pull on retail dealers**  
+- **Establish Swatch Paints as the default commercial choice**  
 
 ---
 
 # 🧠 CORE PHILOSOPHY
 
-> **Painter decide karta hai**  
-> **Dealer supply karta hai**  
-> **Customer follow karta hai**  
+> **The Painter decides.**  
+> **The Dealer supplies.**  
+> **The Customer follows.**  
 
 ---
 
@@ -27,179 +27,179 @@
 ## 🟡 1️⃣ PAINTER ACQUISITION ENGINE
 
 ### 🎯 Objective:
-Maximum painters ko system me lana.
+Bring maximum painting applicators and contractors into the Swatch ecosystem.
 
-### SOURCES:
-- Local sites (construction / repainting)
-- Hardware shops
-- Contractor networks
+### ACQUISITION SOURCES:
+- Ongoing construction and repainting sites
+- Local hardware and paint retail counters
+- Painter contractor networks
 - Existing dealer references  
 
 ### FIELD SOP:
-- Daily **10–15 painters** se contact
-- Naam + mobile + area collect
-- WhatsApp onboarding
+- Contact **10–15 painters** daily on field visits
+- Collect Name, Mobile Number, Active Area, and preferred product lines
+- Complete instant WhatsApp onboarding
 
 ---
 
 ## 🟢 2️⃣ PAINTER ONBOARDING SYSTEM
 
 ### 🎯 Objective:
-Painter ko system me activate karna.
+Activate painters in the digital tracking network.
 
-### PROCESS:
-1. **Introduction** *(earning focus)*
-2. **Product explanation** *(simple)*
-3. **Token system samjhana**
-4. **WhatsApp connect karna**
+### ONBOARDING PROCESS:
+1. **Introduction:** Focus on higher net income and direct cash rewards.
+2. **Product Demonstration:** Simple coverage and application speed test.
+3. **Token System Explanation:** Explain QR coupon scanning and instant UPI payout.
+4. **WhatsApp Integration:** Connect to Swatch Saathi bot.
 
-### CORE MESSAGE:
-> **“Jahan zyada earning milegi, wahi kaam hoga.”**
+### CORE VALUE PROPOSITION:
+> **“Where the applicator earns higher income, that is where the work happens.”**
 
 ---
 
 ## 🔵 3️⃣ EARNING ENGINE (TOKEN SYSTEM)
 
 ### 🎯 Objective:
-Painters ko earning-driven loyalty dena.
+Establish earning-driven contractor loyalty.
 
 ### STRUCTURE:
-- Per bag → token credit  
-- Transparent accumulation  
-- Tier-based rewards  
+- Per bag/bucket $\rightarrow$ QR coupon token credit (₹50 baseline value)  
+- Transparent real-time balance tracking via WhatsApp (`/balance`)  
+- Milestone tier rewards  
 
-### SLABS:
+### MILESTONE PAYOUT SLABS:
 
-| Tokens Accumulated | Cash / Value Benefit |
+| Tokens Accumulated | Direct Cash / Value Benefit |
 | :--- | :--- |
-| **100 Tokens** | ₹ 2,500 |
-| **250 Tokens** | ₹ 7,000 |
-| **500 Tokens** | ₹ 15,000 |
-| **1,000 Tokens** | ₹ 35,000 |
+| **100 Tokens** | ₹ 2,500 Cash + Swatch Merch |
+| **250 Tokens** | ₹ 7,000 Cash + Professional Trowel Kit |
+| **500 Tokens** | ₹ 15,000 Cash + Smartphone Upgrade |
+| **1,000 Tokens** | ₹ 35,000 Cash + VIP Family Trip |
 
 ### CORE LOGIC:
-> **Higher earning = higher push**
+> **Higher earnings $\longrightarrow$ Aggressive applicator push**
 
 ---
 
 ## 🟣 4️⃣ ACTIVATION ENGINE (GROUND CONTROL)
 
 ### 🎯 Objective:
-Painter ko active rakhna.
+Maintain continuous engagement with active applicators.
 
-### ACTIVITIES:
-- Monthly painter meets  
-- Live wall demos  
-- Application training  
-- Earnings discussion  
+### FIELD ACTIVITIES:
+- Monthly Swatch Karigar Meets  
+- Live wall texture application demonstrations  
+- Applicator speed & finish training  
+- Transparent monthly earnings review  
 
 ### RESULT:
-- Product adoption fast  
-- Trust strong  
-- Community build  
+- Rapid product adoption on site  
+- Strong applicator trust  
+- Thriving local contractor community  
 
 ---
 
 ## 🔴 5️⃣ SITE INFLUENCE SYSTEM
 
 ### 🎯 Objective:
-Site pe decision control karna.
+Control product selection on active construction sites.
 
 ### EXECUTION:
-- Painter recommends Swatch  
-- Customer influenced on spot  
-- Contractor aligned  
+- Painter specifically recommends Swatch Rustic Texture & Weatherguard  
+- Homeowner is influenced on-site through live patch test  
+- Main building contractor aligns with the recommendation  
 
-### TOOLKIT:
-- Sample boards  
-- Finish demos  
-- Before/after visuals  
+### FIELD TOOLKIT:
+- Portable texture sample boards  
+- Live finish patch kits  
+- High-res Before/After project portfolios  
 
 ---
 
-## ⚫ 6️⃣ PAINTER STATUS SYSTEM
+## ⚫ 6️⃣ PAINTER TIER STATUS SYSTEM
 
 ### 🎯 Objective:
-Loyalty ko long-term banana.
+Build long-term retention through gamified progression.
 
-### TIERS:
-1. **Beginner Painter**  
-2. **Growth Painter**  
-3. **Pro Applicator**  
+### PROGRESSION TIERS:
+1. **Beginner Applicator**  
+2. **Growth Contractor**  
+3. **Pro Texture Specialist**  
 4. **Elite Swatch Partner**  
 
-### BENEFITS:
-- Recognition  
-- Priority support  
-- Higher earning potential  
+### TIER BENEFITS:
+- Public trade recognition  
+- Priority factory support & custom shade matching  
+- Maximum earning potential & exclusive milestone rewards  
 
 ---
 
 ## 🔁 7️⃣ REFERRAL & NETWORK EFFECT
 
 ### 🎯 Objective:
-Painter se painter network grow karna.
+Drive viral organic growth through contractor networks.
 
-### SYSTEM:
-> **Painter → New painter onboard → Bonus tokens**
+### ENGINE LOGIC:
+> **Active Painter $\longrightarrow$ Invites New Applicator $\longrightarrow$ Earns 20 Bonus Tokens (₹1,000 value)**
 
 ---
 
 ## 🧲 8️⃣ DEALER SYNC SYSTEM
 
 ### 🎯 Objective:
-Painter demand → dealer push.
+Convert ground painter demand into forced dealer stock orders.
 
-### FLOW:
-1. Painter demand create karta hai  
-2. Dealer ko order milta hai  
-3. Dealer repeat stock rakhta hai  
+### EXECUTION FLOW:
+1. Applicator creates site demand for Swatch SKUs  
+2. Dealer receives walk-in applicator demand  
+3. Dealer places replenishment stock orders via Hermes  
 
 ---
 
 ## ⚙️ 9️⃣ HERMES CONTROL SYSTEM
 
-### DAILY:
-- Painter onboarding count  
-- Active painters tracking  
-- Token credits  
+### DAILY LOGGING:
+- Applicator onboarding count via `/new_painter`
+- Active scanning applicator tracking
+- Daily token payouts log
 
-### WEEKLY:
-- Top painters list  
-- Area performance  
+### WEEKLY ANALYSIS:
+- Top performing applicators leaderboard
+- Territory performance review
 
-### MONTHLY:
-- Reward distribution  
-- Meet planning  
-- Expansion targets  
+### MONTHLY STRATEGY:
+- Reward distribution events
+- Karigar Meet scheduling
+- Territory expansion targets
 
 ---
 
 # 💣 10. MARKET DOMINATION LOGIC
 
-- **Traditional Market:** Dealer push → slow growth  
-- **Swatch Model:** **Painter push → dealer majboor → market capture**
+- **Traditional MNC Model:** Dealer push $\longrightarrow$ Slow rotation & low dealer interest  
+- **Swatch Domination Model:** **Painter push $\longrightarrow$ Dealer compelled $\longrightarrow$ Hyperlocal market capture**
 
 ---
 
 # ⚠️ CRITICAL RULES
 
-- ❌ Painter ko ignore mat karo  
-- ❌ Sirf dealer pe depend mat raho  
-- ✔ Painter earning clear rakho  
-- ✔ System transparent rakho  
+- ❌ Never ignore the applicator/painter  
+- ❌ Never rely solely on dealer goodwill  
+- ✔ Maintain complete transparency in token earnings  
+- ✔ Ensure payouts occur within 24 hours  
 
 ---
 
 # 🎯 FINAL OUTCOME
 
-> **Painter bole:** *“Sir Swatch hi lagayenge”*  
-> **Dealer bole:** *“Swatch ka stock rakho”*  
-> **Market bole:** *“Swatch chal raha hai”*  
+> **The Painter says:** *“Sir, we will apply Swatch Rustic Texture on this project.”*  
+> **The Dealer says:** *“Keep Swatch ready stock on the counter.”*  
+> **The Market says:** *“Swatch Paints is dominating the region.”*  
 
 ---
 
 # 🔥 FINAL POSITIONING
 
-> **Swatch Paints is not a brand.**  
-> **It is a painter-controlled demand system.**
+> **Swatch Paints is not just a paint brand.**  
+> **It is a painter-controlled demand creation engine.**

@@ -7,19 +7,19 @@
 
 ---
 
-## ❌ OLD MODEL (गलत तरीका):
-- Discount do $\rightarrow$ sale lo $\rightarrow$ discount band hoto hi customer gaya  
-- One-off transaction mindset without retention  
+## ❌ TRADITIONAL MODEL (WRONG APPROACH):
+- Offer one-time discount $\rightarrow$ win single sale $\rightarrow$ customer leaves as soon as discount ends  
+- Transactional mindset without long-term retention  
 
 ---
 
-## ✅ SWATCH MODEL (सही तरीका):
-> **Earn → Track Progress → Repeat Orders → Lifetime Growth → Market Lock-in**
+## ✅ SWATCH MODEL (CORRECT APPROACH):
+> **Earn → Track Progress → Repeat Orders → Lifetime Growth → Market Lock-In**
 
 ---
 
 ## 🎯 MAIN RULE:
-> **Log product se nahi — earning & visible progress se loyal hote hain.**  
+> **Stakeholders do not become loyal to a brand name alone — they become loyal to earnings and visible progress.**  
 
 ---
 
@@ -40,13 +40,13 @@
 ---
 
 ## 🎯 OBJECTIVE:
-Painter ko company ka permanent active promoter aur brand advocate banana.
+Transform painters and applicators into permanent active brand advocates for Swatch Paints.
 
 ---
 
 ## ⚙️ TOKEN MECHANISM (SPGP PROGRAM):
 - Every bag/bucket of Swatch Rustic Texture, Weatherguard & Emulsion carries a QR Coupon Token worth **₹50 baseline value**.
-- Applicator scans token via **Swatch Saathi WhatsApp System**.
+- Applicators scan tokens via the **Swatch Saathi WhatsApp System**.
 
 ---
 
@@ -69,10 +69,10 @@ Painter ko company ka permanent active promoter aur brand advocate banana.
 ## ⚙️ PAINTER ONBOARDING & REDEMPTION SOP:
 
 ### STEP 1: ONBOARDING
-- Register Painter Name, Mobile Number, and UPI ID in Swatch Saathi WhatsApp System.
+- Register Painter Name, Mobile Number, and UPI ID in the Swatch Saathi WhatsApp System.
 
 ### STEP 2: REAL-TIME TRACKING
-- System maintains live token balance. Painter types `/balance` on WhatsApp anytime to view current points & progress to next tier.
+- System maintains live token balance. Painter types `/balance` on WhatsApp anytime to view current points & progress to the next tier.
 
 ### STEP 3: ENGAGEMENT CADENCE
 - Every Monday morning, auto-push weekly token leaderboard via WhatsApp.
@@ -84,7 +84,7 @@ Painter ko company ka permanent active promoter aur brand advocate banana.
 ---
 
 ## 🎯 RESULT:
-> **Painter Market Reality:** *“Swatch ke saath kaam karke monthly saaf ₹15,000 extra bachat hoti hai.”*
+> **Painter Market Reality:** *“Working with Swatch Paints earns me an extra ₹15,000 net savings every month.”*
 
 ---
 
@@ -93,7 +93,7 @@ Painter ko company ka permanent active promoter aur brand advocate banana.
 ---
 
 ## 🎯 OBJECTIVE:
-Dealer ko short-term counter boy se **long-term growth partner** banana.
+Transform dealers from short-term transaction counters into **long-term growth partners**.
 
 ---
 
@@ -105,8 +105,8 @@ Dealer ko short-term counter boy se **long-term growth partner** banana.
 - **Tier 3 Uplift:** Quarterly sales of ₹25 Lakhs+ $\longrightarrow$ **7% Annual Volume Rebate** + International Dealer Convention Trip.
 
 ### 🧩 2. PRIORITY OPERATIONAL BENEFITS:
-- Priority factory dispatch during peak festival season.
-- Dedicated Area Sales Manager support for site demos.
+- Priority factory dispatch during peak festival seasons.
+- Dedicated Area Sales Manager support for site patch demos.
 - Exclusive territorial protection (No competing Swatch shop within 3-5 km).
 
 ---
@@ -123,7 +123,7 @@ Dealer ko short-term counter boy se **long-term growth partner** banana.
 ---
 
 ## 🎯 OBJECTIVE:
-Homeowners aur building owners ko brand promoter aur repeat buyers banana.
+Transform homeowners and building owners into brand promoters and repeat buyers.
 
 ---
 
@@ -187,10 +187,10 @@ Zero-ad-spend viral customer & applicator acquisition.
 
 # ⚠️ 9. CRITICAL MISTAKES TO AVOID
 
-- ❌ Payout me delay karna (Payout must happen within 24 hours).  
-- ❌ Complex rules & hidden terms (Keep 1 token = ₹50 baseline clear and simple).  
-- ❌ Painter progress update na bhejna (Must send weekly balance status).  
-- ❌ Loyalty engine ko sirf sales team par chhodna without WhatsApp tracking.  
+- ❌ Delaying payouts (Payouts MUST happen within 24 hours).  
+- ❌ Creating complex rules & hidden terms (Keep 1 token = ₹50 baseline clear and simple).  
+- ❌ Failing to send weekly progress updates to registered applicators.  
+- ❌ Relying solely on sales reps for tracking without automated WhatsApp logging.  
 
 ---
 
@@ -214,5 +214,5 @@ Zero-ad-spend viral customer & applicator acquisition.
 
 # 🔥 FINAL STATEMENT
 
-> **Generic loyalty discount system mat chalao.**  
-> **Applicator aur Dealer ke liye EARNING ADDICTION ENGINE banao!**
+> **Do not run a generic loyalty discount scheme.**  
+> **Build an EARNING ADDICTION ENGINE for applicators and dealers!**

@@ -1,12 +1,12 @@
 # SWATCH PAINTS — DEALERSHIP & PAINTER GROWTH SYSTEM (UPGRADED)
-*(Hermes Execution File — Growth Engine Version)*
+## (Hermes Execution File — Growth Engine Version)
 
 ---
 
 # 🎯 CORE PHILOSOPHY
 
-> **Dealer earns → Dealer pushes**  
-> **Painter earns → Market pulls**
+> **Dealer earns → Dealer pushes product**  
+> **Painter earns → Market pulls demand**  
 
 ---
 
@@ -17,14 +17,14 @@
 ## 🟡 A. SWATCH ENTRY GROWTH PROGRAM (SEGP)
 
 ### 🎯 Objective:
-Fast onboarding with controlled risk + instant earning visibility.
+Fast onboarding with controlled risk + immediate earning visibility.
 
 ### STRUCTURE:
-- **Entry Model:** 20–30 Bags Initial Activation
-- **Focus SKU:** Swatch Rustic + Fast-moving SKUs  
+- **Entry Model:** 20–30 Bags Initial Activation Pack
+- **Focus SKUs:** Swatch Rustic Texture + Fast-moving Emulsions  
 - **Activation Period:** 15–30 Days  
 
-### VALUE:
+### VALUE DELIVERED:
 - Low entry barrier (mental, not pricing)  
 - Quick rotation testing  
 - Immediate profit realization  
@@ -37,14 +37,14 @@ Fast onboarding with controlled risk + instant earning visibility.
 Convert dealers into **long-term revenue partners**.
 
 ### ELIGIBILITY:
-- Monthly movement commitment (minimum threshold)  
+- Monthly volume commitment (minimum threshold)  
 - Territory discipline agreement  
 - Active counter participation  
 
 ### CORE BENEFITS:
-- 📍 **Territory Protection Model**  
-- 💰 **High Slab-Based Margin Advantage**  
-- ⚡ **Priority Dispatch & Stock Allocation**  
+- 📍 **Territory Protection Model** (No competing Swatch shop in 3-5 km radius)  
+- 💰 **High Slab-Based Margin Advantage** (20%-30% net profit)  
+- ⚡ **Priority Factory Dispatch & Stock Allocation**  
 - 🎯 **Dedicated Growth Roadmap (Area-wise)**  
 - 🧲 **Demand Support via Painter Activation System**  
 
@@ -53,32 +53,32 @@ Convert dealers into **long-term revenue partners**.
 ## 🔵 C. DEALER SCALE PROGRAM (DSP — PERFORMANCE MULTIPLIER)
 
 ### 🎯 Objective:
-Top dealers ko aggressively scale karna.
+Aggressively scale top-performing dealers.
 
 ### STRUCTURE:
 
-| Level | Monthly Growth | Advantage |
+| Level | Monthly Growth Target | Performance Advantage |
 | :--- | :--- | :--- |
 | **Level 1** | Base Growth | Standard earning boost |
-| **Level 2** | Accelerated Growth | Additional margin % |
-| **Level 3** | High Volume | Premium rewards + expansion priority |
+| **Level 2** | Accelerated Growth | Additional margin % rebate |
+| **Level 3** | High Volume Leader | Premium rewards + territory expansion priority |
 
-👉 **Key Rule:** Incentives only on actual movement, not stocking!
+👉 **Key Rule:** Incentives awarded ONLY on actual market movement, not inventory loading!
 
 ---
 
 ## 🟣 D. COUNTER DOMINATION SYSTEM
 
 ### 🎯 Objective:
-Swatch ko counter ka primary profit driver banana.
+Position Swatch Paints as the counter's primary profit driver.
 
 ### EXECUTION:
-- High earning per bag vs alternatives  
-- Fast-moving SKUs focus  
-- Visible stock placement strategy  
+- High net earning per bag vs legacy MNC alternatives  
+- Focus on fast-moving, high-margin SKUs  
+- Visible entrance product stack & acrylic sample display  
 
 ### RESULT:
-> **Dealer naturally pushes Swatch over competitors.**
+> **Dealers naturally push Swatch over low-margin legacy competitors.**
 
 ---
 
@@ -89,92 +89,92 @@ Swatch ko counter ka primary profit driver banana.
 ## 🟡 A. SWATCH PAINTER GROWTH PROGRAM (SPGP)
 
 ### 🎯 Objective:
-Painters ko earning-driven brand advocates banana.
+Transform applicators/painters into earning-driven brand advocates.
 
 ### STRUCTURE:
-- Per Bag Token Credit System  
-- Transparent earning tracking  
-- Tier-based growth rewards  
+- Per Bag QR Token Credit System  
+- Transparent real-time earning tracking via WhatsApp  
+- Tier-based milestone growth rewards  
 
 ### TOKEN VALUE MODEL:
 
-| Tokens Accumulated | Cash / Value Benefit |
+| Tokens Accumulated | Direct Cash / Value Benefit |
 | :--- | :--- |
-| **100 Tokens** | ₹ 2,500 |
-| **250 Tokens** | ₹ 7,000 |
-| **500 Tokens** | ₹ 15,000 |
-| **1,000 Tokens** | ₹ 35,000 |
+| **100 Tokens** | ₹ 2,500 Cash + Swatch Merch |
+| **250 Tokens** | ₹ 7,000 Cash + Professional Trowel Kit |
+| **500 Tokens** | ₹ 15,000 Cash + Smartphone Upgrade |
+| **1,000 Tokens** | ₹ 35,000 Cash + VIP Family Trip |
 
 👉 **Core Logic:**
-> **Painter jahan zyada kamayega, wahi product push karega.**
+> **Where the painter earns higher income, that is where they will push the product.**
 
 ---
 
 ## 🟢 B. PAINTER ACTIVATION SYSTEM
 
 ### 🎯 Objective:
-Ground demand generate karna.
+Generate active ground-level site demand.
 
 ### EXECUTION:
-- Monthly Painter Meets  
-- Live Application Demos  
-- Earnings Explanation Sessions  
+- Monthly Swatch Karigar Meets  
+- Live Wall Application Demonstrations  
+- Transparent Earnings & Token Explanation Sessions  
 
 ### RESULT:
-- Product adoption fast  
-- Loyalty strong  
-- Word-of-mouth growth  
+- Rapid product adoption  
+- Unbeatable brand loyalty  
+- Organic word-of-mouth growth  
 
 ---
 
 ## 🔵 C. SITE INFLUENCE SYSTEM (CONTRACTOR + BUILDER)
 
 ### 🎯 Objective:
-Site-level decision control.
+Control decision-making on active construction sites.
 
 ### TOOLS:
-- Sample boards  
-- Finish demonstrations  
-- Application support  
+- High-touch sample boards  
+- Live patch finish demonstrations  
+- On-site application technical support  
 
 ---
 
 ## 🟣 D. PAINTER STATUS & RECOGNITION SYSTEM
 
 ### 🎯 Objective:
-Long-term loyalty build karna.
+Build long-term retention and trade prestige.
 
 ### EXECUTION:
-- Tier-based recognition  
-- Annual performance acknowledgment  
-- Skill-based positioning  
+- Tier-based trade recognition (Beginner $\rightarrow$ Growth $\rightarrow$ Pro $\rightarrow$ Elite Partner)  
+- Annual performance acknowledgment & trophies  
+- Professional skill positioning  
 
 ---
 
 # 🔁 3. DEALER + PAINTER SYNC SYSTEM
 
 ### 🎯 Core Concept:
-> **Dealer sells | Painter decides | Customer follows**
+> **The Dealer sells | The Painter decides | The Customer follows**
 
 ### 🔥 EXECUTION FLOW:
-1. Painter demand create karta hai  
-2. Dealer stock push karta hai  
-3. Customer accept karta hai  
+1. Applicator creates site demand  
+2. Dealer receives counter demand and sells  
+3. Customer accepts the recommended finish  
 
 ---
 
 # ⚙️ 4. HERMES EXECUTION CONTROL
 
-- **DAILY:** Dealer movement tracking, painter token tracking, field activity logs.  
+- **DAILY:** Dealer order movement tracking, painter token tracking, field visit logs.  
 - **WEEKLY:** Area-wise growth analysis, dealer performance ranking.  
-- **MONTHLY:** Expansion planning, top performer scaling, program optimization.  
+- **MONTHLY:** Expansion planning, top performer scaling, offer optimization.  
 
 ---
 
 # 💣 5. SYSTEM ADVANTAGE
 
-- **Traditional Market:** Dealer dependent, low margin, slow movement.  
-- **Swatch System:** High margin, painter-driven demand, fast rotation.  
+- **Traditional MNC Model:** Dealer-dependent, low margin (3-5%), slow rotation.  
+- **Swatch Domination System:** High margin (20-30%), painter-driven demand, fast rotation.  
 
 ---
 
@@ -186,14 +186,14 @@ Long-term loyalty build karna.
 
 # ⚠️ FINAL RULES
 
-- ❌ No random discounting  
-- ❌ No dependency on schemes only  
-- ✔ Structured earning system  
-- ✔ Continuous demand engine  
+- ❌ No random ad-hoc discounting  
+- ❌ No dependency on passive trade schemes alone  
+- ✔ Enforce a structured earning system  
+- ✔ Maintain a continuous demand creation engine  
 
 ---
 
 # 🔥 FINAL POSITIONING
 
-> **Swatch Paints is not a supply brand.**  
-> **It is a growth system for dealers and painters.**
+> **Swatch Paints is not a passive supply brand.**  
+> **It is a growth and earning system for dealers and painters.**

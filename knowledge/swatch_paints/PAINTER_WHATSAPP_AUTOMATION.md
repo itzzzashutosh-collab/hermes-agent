@@ -1,21 +1,21 @@
 # SWATCH PAINTS — PAINTER WHATSAPP AUTOMATION SYSTEM
-*(Hermes Skill File — Automated Demand Control & Loyalty Engine)*
+## (Automated Demand Control & Loyalty Engine)
 
 ---
 
 # 🎯 CORE OBJECTIVE
 
-- **Painter onboarding automate karna**  
-- **Token earning track karna**  
-- **Demand create karna**  
-- **Dealer ko indirect push dena**  
+- **Automate applicator/painter onboarding**  
+- **Track real-time token earnings**  
+- **Create ground-level product demand**  
+- **Drive indirect demand pull on retail dealers**  
 
 ---
 
 # 🧠 CORE LOGIC
 
-> **Manual system = slow growth**  
-> **Automated system = scalable domination**  
+> **Manual System = Slow Growth**  
+> **Automated System = Scalable Market Domination**  
 
 ---
 
@@ -26,134 +26,134 @@
 ## 🟡 1️⃣ PAINTER ONBOARDING FLOW (WHATSAPP)
 
 ### ENTRY POINTS:
-- QR Code *(dealer shop / site)*
-- Salesman contact
-- Painter referral  
+- Counter QR Code *(dealer shop / construction site)*
+- Field Salesman contact
+- Applicator referral link  
 
-### FLOW:
-> **Painter → WhatsApp message send kare → Hermes auto reply → Details collect → System me add**
+### ONBOARDING FLOW:
+> **Painter → Sends WhatsApp Message → Hermes Auto-Reply → Collects Details → Registers in Database**
 
-### AUTO WELCOME MESSAGE:
-> *"Namaste 🙏"*  
-> *"Swatch Paints Painter Growth System me welcome hai."*  
-> *"Apna naam, shehar aur kaam type kare:"*
+### AUTOMATED WELCOME MESSAGE:
+> *"Greetings 🙏"*  
+> *"Welcome to the Swatch Paints Painter Growth System."*  
+> *"Please type your Name, City, and Work Type:"*
 
 ---
 
 ## 🟢 2️⃣ PAINTER REGISTRATION SYSTEM
 
-### DATA COLLECT:
-- Name  
-- Mobile  
-- Area  
-- Experience  
+### DATA COLLECTION:
+- Full Name  
+- Mobile Number  
+- Operating Area  
+- Years of Experience  
 
 ### SYSTEM OUTPUT:
-- Painter ID generate
-- System me add
-- Token tracking start
+- Unique Painter ID generated
+- Account added to active database
+- Real-time token tracking initialized
 
 ---
 
 ## 🔵 3️⃣ TOKEN TRACKING SYSTEM
 
 ### INPUT SOURCES:
-- Dealer order  
-- Salesman entry  
-- Manual upload / QR scan  
+- Dealer stock orders
+- Salesman verification entry
+- Direct QR coupon scan  
 
-### AUTOMATED OUTPUT:
-> **Painter ko notification message:**  
-> *“Aapko 10 tokens credit hue! Total tokens: XYZ.”*
+### AUTOMATED NOTIFICATION OUTPUT:
+> **Notification sent to Painter:**  
+> *“10 tokens credited to your wallet! Total tokens: XYZ.”*
 
 ---
 
-## 🟣 4️⃣ DAILY ENGAGEMENT SYSTEM
+## 4️⃣ DAILY ENGAGEMENT SYSTEM
 
-### AUTO MESSAGES:
-- Daily earning update
-- Weekly summary
-- Motivation & application tip messages
+### AUTOMATED MESSAGES:
+- Daily token balance update
+- Weekly performance summary
+- Application tips and product training videos
 
 ---
 
 ## 🔴 5️⃣ REWARD SYSTEM AUTOMATION
 
 ### TRIGGER:
-> **Painter reaches slab → Hermes notify**
+> **Applicator reaches milestone tier $\longrightarrow$ Hermes triggers instant alert**
 
-### AUTOMATED MESSAGE:
-> *"Congrats 🎉"*  
-> *"Aapne 100 tokens complete kiye!"*  
-> *"Aapka ₹2,500 benefit ready hai."*
+### AUTOMATED CONGRATULATORY MESSAGE:
+> *"Congratulations 🎉"*  
+> *"You have completed 100 tokens!"*  
+> *"Your ₹2,500 direct cash reward is ready for payout."*
 
 ---
 
 ## ⚫ 6️⃣ REFERRAL AUTOMATION
 
-### SYSTEM:
-> **Painter refer kare → New painter join → Bonus tokens credit**
+### ENGINE LOGIC:
+> **Painter shares referral link $\longrightarrow$ New painter joins $\longrightarrow$ 20 Bonus Tokens credited**
 
 ---
 
 ## 🧲 7️⃣ DEMAND PUSH SYSTEM
 
-### AUTO PROMPTS:
-- *“Swatch ka kaam mil raha hai kya?”*
-- *“Next project me Swatch Emulsion & Textures use karna.”*
+### AUTOMATED PROMPTS:
+- *“Are you getting Swatch Texture projects this week?”*
+- *“Use Swatch Emulsion & Textures on your next site for double token rewards!”*
 
 ---
 
-## ⚙️ 8️⃣ HERMES PAINTER COMMANDS
+## ⚙️ 8️⃣ HERMES PAINTER BOT COMMANDS
 
-### PAINTER SLACK/TELEGRAM/WHATSAPP COMMANDS:
-- `/balance` → Token check & current status  
-- `/rewards` → Available rewards & milestone progress  
-- `/referral` → Personal referral link & bonus tracker  
-- `/help` → Direct support & helpline  
+### WHATSAPP BOT COMMANDS:
+- `/balance` $\rightarrow$ Check current token balance & wallet status  
+- `/rewards` $\rightarrow$ View available milestone reward tiers & progress  
+- `/referral` $\rightarrow$ Get personal referral link & bonus tracker  
+- `/help` $\rightarrow$ Connect directly to support helpline  
 
 ---
 
-## 🧠 9️⃣ DEALER SYNC
+## 🧠 9️⃣ DEALER SYNC ENGINE
 
 ### FLOW:
-> **Painter demand → Dealer ko order → Dealer stock increase**
+> **Painter Demand → Dealer Receives Order → Dealer Increases Stock**
 
 ---
 
 ## 📊 10️⃣ ADMIN CONTROL (HERMES DASHBOARD)
 
-- **DAILY:** New painters onboarded, active painters tracking, tokens issued.  
-- **WEEKLY:** Top painters list, area growth tracking.  
-- **MONTHLY:** Reward distribution, painter meet planning, expansion targets.  
+- **DAILY METRICS:** New applicators onboarded, active tracking counts, tokens issued.  
+- **WEEKLY AUDIT:** Top applicator leaderboards, area-wise volume growth.  
+- **MONTHLY STRATEGY:** Automated reward distribution, Painter Meet scheduling, territory expansion targets.  
 
 ---
 
 # 💣 SYSTEM ADVANTAGE
 
-- **Without Automation:** Tracking mess, painters lose interest.  
-- **With Hermes Automation:** Transparent system, continuous engagement, high loyalty.  
+- **Without Automation:** Tracking chaos, delayed rewards, applicators lose interest.  
+- **With Hermes Automation:** 100% transparent system, continuous engagement, unbeatable loyalty.  
 
 ---
 
-# ⚠️ RULES
+# ⚠️ OPERATIONAL RULES
 
-- ❌ No delay in rewards  
-- ❌ No confusing system  
-- ✔ Instant updates  
-- ✔ Clear earning  
+- ❌ Zero delay in reward payouts (MUST occur within 24 hours)  
+- ❌ Zero complex or confusing rules  
+- ✔ Instant real-time updates  
+- ✔ Crystal clear financial benefits  
 
 ---
 
 # 🎯 FINAL RESULT
 
-> **Painter daily check kare:** *“Mere tokens kitne hue?”*  
-> **Painter bole:** *“Swatch ka kaam do”*  
-> **Market bole:** *“Swatch demand me hai”*  
+> **Applicator checks daily:** *“How many tokens do I have now?”*  
+> **Applicator tells homeowner:** *“Specify Swatch Paints for this project.”*  
+> **The Market says:** *“Swatch Paints is in high demand.”*  
 
 ---
 
 # 🔥 FINAL POSITIONING
 
-> **Swatch Paints is not a brand.**  
-> **It is a painter-controlled demand system.**
+> **Swatch Paints is not just a paint brand.**  
+> **It is an automated, painter-controlled demand system.**
