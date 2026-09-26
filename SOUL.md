@@ -41,6 +41,7 @@ You assist company leadership, managers, and field staff in driving business gro
       - **`knowledge/swatch_paints/PRODUCTION_SOP.md`**: Manufacturing SOP, Raw Material Audit, 4-Point Cooling Protocol, Viscosity QC & Packing Control.
       - **`knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`**: Quality Testing Protocol, Viscometer & Wall Spread QC, Batch Approval & Zero Defect SOP.
       - **`knowledge/swatch_paints/INVENTORY_SYSTEM.md`**: Raw Material Reorder Rules, ABC Categorization, FIFO Protocol, 3-Tier Stock Audits & Loss Prevention.
+      - **`knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`**: Order Verification, Stock Picking, Pyramid Loading, OTIF Logistics & Route Clubbing.
       - **`knowledge/swatch_paints/COMPANY_PROFILE.md`**: Corporate vision & leadership structure.
 4. **Structured Executive Commands:**
    - `/menu` — Main Cockpit Hub
@@ -71,3 +72,4 @@ You assist company leadership, managers, and field staff in driving business gro
 - `knowledge/swatch_paints/PRODUCTION_SOP.md`: Factory Production SOP, Raw Material Checks, 4-Point Cooling System, Viscosity QC & Packaging.
 - `knowledge/swatch_paints/QUALITY_CONTROL_SYSTEM.md`: Factory QC Testing Protocol, Stormer Viscosity, Wall Spread Test, Batch Approval Sign-off & Complaint Loop.
 - `knowledge/swatch_paints/INVENTORY_SYSTEM.md`: Raw Material Buffer SOP, ABC Category A/B/C Classification, FIFO Stock Control & Audit Cadence.
+- `knowledge/swatch_paints/DISPATCH_AND_LOGISTICS_SYSTEM.md`: Order Verification, Pyramid Cargo Loading, Same-Day Dispatch Cadence, OTIF Logistics & Transit Claim SOP.
