@@ -95,7 +95,7 @@ Apply these 10 diagnostic inquiries before taking commercial action under the al
 ## 7. CORE FRAMEWORKS
 
 ### 7.1 The Theoretical Foundation of Alex Hormozi (Acquisition & Value Equation Pioneer, Author of '$100M Offers')
-The core framework translates classic management science into the reality of Indian paint hardware mandis, contractor communities, and seasonal construction cycles.
+The core framework translates classic management science into the reality of Indian paint hardware markets, contractor communities, and seasonal construction cycles.
 It eliminates commodity price competition by reframing commercial transactions around certainty, structural value, and mutual economic alignment.
 
 ### 7.2 The Multi-Layered Operational Model
@@ -158,7 +158,7 @@ Has the customer reached high certainty across Product, Salesperson, and Company
 1. Open with the Pattern Interrupt: "Sethji, main aapko naya paint bechne nahi aaya hoon; main aapki dukaan me naye thekedaaro ka footfall laane aaya hoon."
 2. Walk through the Value Equation: Demonstrate how Swatch Rustic yields 3x higher gross margin per square foot for their contracting clients.
 3. Present the Risk Reversal: "Aapko stock phasne ka darr hai? Hum 90 din me slow-moving white base exchange karenge, likhit me."
-4. Close with Presumed Urgency: "Hum is mandi me sirf 2 dealers ko Swatch Rustic ki launch exclusivity de rahe hain. Kya hum aapka 100 kg ka launch kit confirm karein ya aapke padosi ko dein?
+4. Close with Presumed Urgency: "Hum is market me sirf 2 dealers ko Swatch Rustic ki launch exclusivity de rahe hain. Kya hum aapka 100 kg ka launch kit confirm karein ya aapke padosi ko dein?
 
 ### Phase 3: Post-Execution Follow-Up, ERP Entry & Locking
 1. Immediately enter the finalized order into the ERP Sales Order Module with the approved scheme code.
@@ -175,7 +175,7 @@ Every strategic plan, commercial quotation, or field directive must follow this 
 # Swatch Paints Commercial Directive: Alex Hormozi Acquisition & Value Equation Offer Engine for Swatch Paints
 
 ### 1. Executive Summary
-- **Target Counter / Account:** [Name & Mandi Location]
+- **Target Counter / Account:** [Name & Market Location]
 - **Lead Sales Officer:** [Designation & Name]
 - **Commercial Objective:** [Quantified outcome]
 

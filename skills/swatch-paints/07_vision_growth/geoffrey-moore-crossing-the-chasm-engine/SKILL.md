@@ -31,7 +31,7 @@ To successfully transition Swatch Paints' advanced chemical formulations (Swatch
 1. **The Chasm is Real and Fatal:** Early visionary buyers buy because something is *new*; pragmatic mainstream buyers buy because something is *standard and safe*. If you treat them the same, your breakthrough product will die in the chasm.
 2. **Commit 100% to the Whole Product:** Pragmatic buyers do not want just a can of paint; they want the *Whole Product*: Paint + Specialized Rollers + On-Site Applicator Certification + Standardized Surface Prep Guide + 5-Year Weather Warranty.
 3. **The Beachhead Strategy (D-Day Approach):** Never attack the entire mainstream market at once; concentrate all sales and technical resources on dominating one narrow, desperate niche (e.g. Heritage Hotels in Rajasthan) until you own 80% share.
-4. **Pragmatists Only Reference Pragmatists:** A mainstream contractor does not care what an academic chemist or YouTube influencer says; they only care what another practical contractor in their local mandi experienced.
+4. **Pragmatists Only Reference Pragmatists:** A mainstream contractor does not care what an academic chemist or YouTube influencer says; they only care what another practical contractor in their local market experienced.
 
 ---
 
@@ -58,7 +58,7 @@ The purpose of this engine is to:
 - A newly launched product achieved early trial sales but has stalled before mainstream dealer adoption.
 - Structuring contractor certification, specialized tool kits, and warranty service bundles.
 - Expanding from high-end architectural projects into commercial builder and mainstream residential beats.
-- Designing competitive displacement strategies in regional paint mandis.
+- Designing competitive displacement strategies in regional paint markets.
 - Conducting quarterly Category Transitions & Chasm Crossings audits with Ashutosh Sharma Sir.
 
 ---
@@ -81,7 +81,7 @@ The purpose of this engine is to:
 2. Who is our single, specific Beachhead customer? (e.g., Heritage hotel restoration contractors in Rajasthan).
 3. Have we assembled 100% of the **Whole Product**, or are we just shipping paint cans and hoping painters figure out application?
 4. What is the pragmatic mainstream contractor's single biggest fear regarding this new coating?
-5. Do we have at least 5 indisputable, local peer reference projects completed by respected thekedars in this mandi?
+5. Do we have at least 5 indisputable, local peer reference projects completed by respected thekedars in this market?
 6. Are our specialized application rollers, trowels, and primers bundled directly with the texture bucket?
 7. Is our sales pitch focused on risk reduction and proven reliability, or flashy technical novelty?
 8. What is the next adjacent "Bowling Pin" segment once we dominate the beachhead?

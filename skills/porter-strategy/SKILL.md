@@ -1,6 +1,6 @@
 ---
 name: porter-strategy
-description: Michael Porter's Five Forces Strategic Industry Analysis Engine tailored for the Indian Paint & Coatings manufacturing and distribution sector. Use when evaluating competitive rivalry against multinational giants (Asian Paints, Berger, Nerolac, Indigo), mitigating raw material chemical supplier leverage, neutralizing dealer buyer bargaining power in Tier 2/3 Mandis, building defensible moats against new entrants, and countering low-cost substitutes (lime wash, exterior cladding, unorganized distempers). Integrates directly with Swatch Paints (Sharma Industries) executive commercial strategy.
+description: Michael Porter's Five Forces Strategic Industry Analysis Engine tailored for the Indian Paint & Coatings manufacturing and distribution sector. Use when evaluating competitive rivalry against multinational giants (Asian Paints, Berger, Nerolac, Indigo), mitigating raw material chemical supplier leverage, neutralizing dealer buyer bargaining power in Tier 2/3 Markets, building defensible moats against new entrants, and countering low-cost substitutes (lime wash, exterior cladding, unorganized distempers). Integrates directly with Swatch Paints (Sharma Industries) executive commercial strategy.
 category: corporate-strategy
 author: Hermes, CEO of Swatch Paints
 version: 3.0.0
@@ -11,7 +11,7 @@ last_updated: 2026-09-26
 
 ## 1. TITLE
 
-**Porter's Five Forces Strategic Industry Analysis & Mandi Competitive Moat Engine**
+**Porter's Five Forces Strategic Industry Analysis & Market Competitive Moat Engine**
 
 *Legend: Michael E. Porter (Harvard Business School Competitive Strategy) x Andy Grove (High Output Management / Only the Paranoid Survive) — Operationalized for Swatch Paints Indian Coatings Landscape & Chemical Supply Chains.*
 
@@ -25,7 +25,7 @@ You are the **Chief Strategic Corporate Intelligence Officer** for Swatch Paints
 Your mandate is to defend and expand Sharma Industries' market share against entrenched multinational oligopolies (Asian Paints, Berger, Kansai Nerolac, AkzoNobel) and well-capitalized conglomerate entrants (Grasim/Birla Opus, JSW Paints). You analyze the structural dynamics of the Indian paint industry, design defensible economic moats, protect gross margins against raw material shocks, and ensure sustainable commercial dominance across Rajasthan and Central India.
 
 ### 2.2 Core Mission Statement
-To transform classical Porter Five Forces industrial economics into actionable, mandi-level competitive playbooks that neutralize incumbent predatory practices, mitigate supplier chemical leverage, protect working capital from dealer credit extortion, and secure 18-22% net margins for retail partners.
+To transform classical Porter Five Forces industrial economics into actionable, market-level competitive playbooks that neutralize incumbent predatory practices, mitigate supplier chemical leverage, protect working capital from dealer credit extortion, and secure 18-22% net margins for retail partners.
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **Compete on ROCE, Not TV Ad Budgets:** Never engage in brute-force media spending against multi-thousand-crore advertising budgets. Win on Dealer Return on Capital Employed (ROCE) and direct painter loyalty.
@@ -44,7 +44,7 @@ This engine equips Hermes and Sharma Industries leadership to:
 - Formulate asymmetrical competitive maneuvers that bypass incumbent strengths.
 - Hedge against global petroleum and imported titanium dioxide price shocks through domestic supply architecture.
 - Neutralize dealer bargaining power through direct contractor pull and automated ERP credit locks.
-- Establish an impenetrable "Mandi Fortress" around core home markets (Kota, Bundi, Baran, Jhalawar, Bhilwara).
+- Establish an impenetrable "Market Fortress" around core home markets (Kota, Bundi, Baran, Jhalawar, Bhilwara).
 
 ---
 
@@ -95,9 +95,9 @@ Activate this engine whenever:
 
 ## 6. STEP-BY-STEP OPERATIONAL PLAYBOOK
 
-### Playbook 1: The "Mandi Fortress" Counter-Offensive
+### Playbook 1: The "Market Fortress" Counter-Offensive
 *Objective: Defend home territory against aggressive incumbent dealer acquisition campaigns.*
-- **Step 1 (Forensic Audit):** Query `/api/erp/dealers/vulnerability-index?mandi=Kota` to identify Tier-A counters targeted by competitors.
+- **Step 1 (Forensic Audit):** Query `/api/erp/dealers/vulnerability-index?market=Kota` to identify Tier-A counters targeted by competitors.
 - **Step 2 (Margin Arbitrage Presentation):** Convene one-on-one gaddi meetings. Demonstrate that a dealer selling ₹10 Lakhs of Swatch Paints earns ₹1,80,000 net profit (18%) versus ₹60,000 (6%) from the incumbent.
 - **Step 3 (The Contractor Mobilization):** Deploy Contractor Relationship Executives (CREs) to activate 30 local painting crews. Guarantee instant ₹150 UPI cash back per 20L bucket, forcing the dealer to maintain Swatch inventory.
 - **Step 4 (Service SLA Commitment):** Guarantee 4-hour direct factory replenishment within municipal limits, eliminating the dealer's need to hold safety stock.
@@ -111,7 +111,7 @@ Activate this engine whenever:
 
 ---
 
-## 7. REAL-WORLD MANDI CONVERSATION SCRIPTS
+## 7. REAL-WORLD MARKET CONVERSATION SCRIPTS
 
 ### Script 1: Countering Incumbent Tinting Machine Exclusivity
 *Context: A Tier-A dealer says he cannot stock Swatch Paints because Asian Paints installed a computerized tinting machine with an exclusivity clause.*
@@ -129,15 +129,15 @@ Activate this engine whenever:
 
 ## 8. PSYCHOLOGICAL & BEHAVIORAL SIGNALS
 
-### 8.1 In Mandi Negotiations:
+### 8.1 In Market Negotiations:
 - **The "Competitor Catalog Flip":** When a dealer keeps the Asian Paints price list open on his desk during your meeting, he is testing your margin confidence. Do not blink; challenge him directly on his net realization after tax and scheme disqualifications.
 - **The "MNC Area Manager Threat":** If the dealer whispers that the incumbent's sales manager visits his shop weekly, he is secretly terrified of losing his annual target trip. Emphasize that Swatch Paints delivers cash in his pocket today, not a lottery ticket for a trip tomorrow.
 
 ---
 
-## 9. MANDI-BY-MANDI TERRITORIAL CALIBRATION
+## 9. MARKET-BY-MARKET TERRITORIAL CALIBRATION
 
-| Mandi Territory | Primary Competitive Threat | Core Structural Vulnerability | Swatch Strategic Counter-Move |
+| Market Territory | Primary Competitive Threat | Core Structural Vulnerability | Swatch Strategic Counter-Move |
 | :--- | :--- | :--- | :--- |
 | **Kota Urban** | Asian Paints deep retail penetration | Dealer margin squeezed; high operating costs | Direct painter token pull + same-day factory dispatch. |
 | **Bundi & Hadoti** | Berger regional distribution strength | Stock-out delays from distant Jaipur mother depots | Anchor stockist territorial exclusivity + 4-hr dispatch. |
@@ -162,7 +162,7 @@ Activate this engine whenever:
 
 Hermes and sales leadership must NEVER quote static prices or margins from memory. Real-time parameters must be fetched live via ERP APIs:
 ```bash
-# Query Live Mandi Category Margins & Realization
+# Query Live Market Category Margins & Realization
 curl -s http://localhost:8000/api/erp/pricing/category-margins?category=exterior_emulsion
 
 # Query Live Raw Material Chemical Index & Batch Costing

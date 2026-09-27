@@ -43,12 +43,12 @@ Hermes orchestrates 8 specialized departmental leads, each managing dedicated fu
     v               v               v           v           v               v               v
 [ 01_SALES ] [ 02_PROD ]   [ 03_FIN ]  [ 04_SCM ]  [ 05_MKTG ] [ 06_HR_LEG ] [ 07_VISION ] [ 08_SYSTEMS ]
  Commercial     Chemical      Financial   Logistics    Brand &      HR & Legal    Regional     Moats &
- Mandi Lead    Plant Lead    Controller   & Fleet      Community    Compliance    Expansion    Evolution
+ Market Lead    Plant Lead    Controller   & Fleet      Community    Compliance    Expansion    Evolution
 ```
 
 ---
 
-### Department 01: Commercial Sales & Mandi Operations (`01_sales`)
+### Department 01: Commercial Sales & Market Operations (`01_sales`)
 - **Department Lead Role:** Chief Commercial Officer (CCO) Agent.
 - **Mission:** Retail counter acquisition, contractor pull, beat plan enforcement, and revenue generation.
 - **Sub-Agent Pods:**

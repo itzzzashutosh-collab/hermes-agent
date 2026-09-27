@@ -95,7 +95,7 @@ Apply these 10 diagnostic inquiries before taking commercial action under the ch
 ## 7. CORE FRAMEWORKS
 
 ### 7.1 The Theoretical Foundation of Chris Voss (Former FBI Lead International Kidnapping Negotiator & Author of 'Never Split the Difference')
-The core framework translates classic management science into the reality of Indian paint hardware mandis, contractor communities, and seasonal construction cycles.
+The core framework translates classic management science into the reality of Indian paint hardware markets, contractor communities, and seasonal construction cycles.
 It eliminates commodity price competition by reframing commercial transactions around certainty, structural value, and mutual economic alignment.
 
 ### 7.2 The Multi-Layered Operational Model
@@ -174,7 +174,7 @@ Every strategic plan, commercial quotation, or field directive must follow this 
 # Swatch Paints Commercial Directive: Chris Voss Tactical Empathy & Dealer Negotiation Engine for Swatch Paints
 
 ### 1. Executive Summary
-- **Target Counter / Account:** [Name & Mandi Location]
+- **Target Counter / Account:** [Name & Market Location]
 - **Lead Sales Officer:** [Designation & Name]
 - **Commercial Objective:** [Quantified outcome]
 

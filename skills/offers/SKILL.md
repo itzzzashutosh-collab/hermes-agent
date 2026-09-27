@@ -63,13 +63,13 @@ To make an offer irresistible:
 
 ---
 
-## 5. THE SWATCH PAINTS "MANDI DOMINATOR" PILOT STACK
+## 5. THE SWATCH PAINTS "MARKET DOMINATOR" PILOT STACK
 
-When opening a new dealer counter, never sell loose buckets. Sell the complete **Mandi Dominator Pilot Ecosystem**:
+When opening a new dealer counter, never sell loose buckets. Sell the complete **Market Dominator Pilot Ecosystem**:
 
 ```
 ========================================================================================
-                  THE "MANDI DOMINATOR" B2B VALUE STACK
+                  THE "MARKET DOMINATOR" B2B VALUE STACK
 ========================================================================================
 [CORE COMPONENT]
   ├─ 500 Litres Premium Emulsion & Primer Assortment (Fast-moving shades & bases)
@@ -109,7 +109,7 @@ When opening a new dealer counter, never sell loose buckets. Sell the complete *
 
 | Anti-Pattern | Toxic Behavior | Root Cause | Mandated Counter-Measure |
 |---|---|---|---|
-| **The Naked Bucket Pitch** | Selling standalone pails of paint without bonuses or guarantees. | Transactional laziness. | Always wrap the physical paint inside the complete Mandi Dominator value stack. |
+| **The Naked Bucket Pitch** | Selling standalone pails of paint without bonuses or guarantees. | Transactional laziness. | Always wrap the physical paint inside the complete Market Dominator value stack. |
 | **Price Discount Cannibalization** | Offering 10% off the invoice price instead of adding valuable bonuses. | Lack of commercial creativity. | Add bonuses (Glow-sign boards, painter tokens, shade fans) instead of cutting base price. |
 | **Empty Urgency Claims** | Claiming "offer ends today" when the dealer knows it will be available tomorrow. | Fake scarcity; destroys trust. | Anchor urgency in real operational constraints (e.g. factory batch slots, seasonal logistics). |
 

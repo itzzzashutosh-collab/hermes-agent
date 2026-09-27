@@ -11,7 +11,7 @@ last_updated: 2026-09-26
 
 ## 1. TITLE
 
-**Frontline Paint Counter Sales Scripts, Pitch Blueprints & Mandi Objection Handlers**
+**Frontline Paint Counter Sales Scripts, Pitch Blueprints & Market Objection Handlers**
 
 *Legend: Jordan Belfort (Straight Line System) x Shawn Pang (High-Conversion Founder Sales Tracks) — Operationalized for Indian Hardware Counter Pitches.*
 
@@ -29,7 +29,7 @@ To eliminate stumbling, hesitation, and amateur improvisation during in-shop dea
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **Scripts are Frameworks for Freedom:** A script is not meant to be read like a robot; it is an internal roadmap that ensures reps hit every psychological milestone with natural, confident tonality.
-2. **Respect the Mandi Vocabulary:** Speak in the authentic language of Indian paint merchants: *gaddi, thekedar, margin spread, opacity, chalking, deewar finish*.
+2. **Respect the Market Vocabulary:** Speak in the authentic language of Indian paint merchants: *gaddi, thekedar, margin spread, opacity, chalking, deewar finish*.
 3. **Never Attack Competitors:** Praise Asian Paints and Berger for their advertising, then surgically contrast their 4% dealer margin with Swatch's 18% direct factory profitability.
 4. **Always Close on a Concrete Next Step:** Never leave a shop with a vague "Soch ke batana." Always close on a pilot order, a sample test, or a scheduled contractor demo.
 

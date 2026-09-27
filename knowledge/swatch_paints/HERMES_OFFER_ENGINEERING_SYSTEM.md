@@ -88,7 +88,7 @@ Dealers hesitate to buy new paint brands due to fear of dead inventory and capit
 > **Without urgency, decisions are delayed indefinitely. Without immediate decisions, sales volume dies.**
 
 - **Time-Bound Onboarding Slots:**  
-  *“Ashutosh Sir has approved only 3 SEGP trial packages for the Kota Mandi cluster this week.”*  
+  *“Ashutosh Sir has approved only 3 SEGP trial packages for the Kota Market cluster this week.”*  
 - **Price Protection Deadlines:**  
   *“This ₹260/bag factory trial price is locked strictly for orders booked before 06:00 PM today.”*
 

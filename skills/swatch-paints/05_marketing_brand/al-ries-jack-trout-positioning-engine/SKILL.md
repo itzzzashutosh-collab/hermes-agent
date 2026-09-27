@@ -108,7 +108,7 @@ The purpose of this engine is to:
 ├────────────────────────────────────────────────────────┤
 │ GUERRILLA WARFARE (Small Local Blenders):               │
 │ ──► Strategy: Low-price commodity distemper in local   │
-│     rural mandis. (NOT our game!)                      │
+│     rural markets. (NOT our game!)                      │
 └────────────────────────────────────────────────────────┘
 ```
 

@@ -182,7 +182,7 @@ Does the dealer remain defiant or refuse communication for >7 business days?
 # Swatch Paints Tactical Debt Recovery Agreement Dossier
 
 ### 1. Debtor Profile & Financial Snapshot
-- **Dealer / Counter Name:** [e.g., Mahaveer Paint Store - Kota Mandi]
+- **Dealer / Counter Name:** [e.g., Mahaveer Paint Store - Kota Market]
 - **Proprietor Name:** [Sethji Full Name]
 - **Total Ledger Outstanding:** [₹6,84,000]
 - **Overdue Ageing:** [₹4,20,000 > 60 Days / ₹2,64,000 > 30 Days]
@@ -191,7 +191,7 @@ Does the dealer remain defiant or refuse communication for >7 business days?
 ### 2. Diagnostic & Black Swan Findings
 - **Stated Objection:** ["Market is dull; builders are not buying paint."]
 - **Uncovered Black Swan:** [Dealer has ₹14 Lakhs locked in an unpaid government medical college contract]
-- **Psychological Posture:** [Defensive pride; fear of losing face in the local paint mandi]
+- **Psychological Posture:** [Defensive pride; fear of losing face in the local paint market]
 
 ### 3. Structured Recovery Agreement
 | Milestone Date | Payment Mode | Amount (₹) | Linked Action | ERP Status |
@@ -209,7 +209,7 @@ Does the dealer remain defiant or refuse communication for >7 business days?
 
 ## 12. REAL-WORLD INDIAN PAINT FIELD EXAMPLES
 
-### Example 1: Collecting ₹6.2 Lakhs Overdue in Alwar Mandi
+### Example 1: Collecting ₹6.2 Lakhs Overdue in Alwar Market
 **Situation:** A high-volume dealer owed ₹6.2 Lakhs past 75 days. When the sales rep visited, the dealer threw a tantrum, threw a teacup, and shouted: *"Mujhe payment ki baat mat karo, nahi toh sara maal bahar phek dunga aur Asian Paints ka board laga dunga."*
 **Voss Collection Strategy Applied:**
 - Credit manager visited. Did not argue. Spoke in a low, gentle Late-Night FM DJ voice.

@@ -30,7 +30,7 @@ To prevent the wasted dispersion of commercial resources by identifying the exac
 ### 2.3 Non-Negotiable Operating Principles
 1. **There is Always Exactly One Limiting Constraint:** At any moment in a sales territory, only ONE factor is holding back throughput. Optimizing non-constraints is pure operational waste.
 2. **Diagnose Before Prescribing:** Never blame the sales reps or cut prices until the empirical bottleneck data has been gathered from the field.
-3. **Mandi Data Over Intuition:** Pinpoint the bottleneck using objective metrics: counter visit rates, sample conversion rates, and repeat order cycles.
+3. **Market Data Over Intuition:** Pinpoint the bottleneck using objective metrics: counter visit rates, sample conversion rates, and repeat order cycles.
 4. **Ruthless Subordination:** Once the constraint is identified, subordinate all departmental resources (marketing collateral, chemist visits, credit terms) to breaking that specific bottleneck.
 
 ---
@@ -95,7 +95,7 @@ Invoke this skill whenever:
                 ▼
 Is territory new counter visit volume < 15 per rep/week?
    ├─► YES: CONSTRAINT = REACH. 
-   │        └─ Action: Enforce Mandi Beat Plan; assign geographic street clusters.
+   │        └─ Action: Enforce Market Beat Plan; assign geographic street clusters.
    └─► NO : Proceed to Step 2.
                 │
                 ▼
@@ -122,7 +122,7 @@ Is the repeat replenishment reorder cycle > 45 days?
 ## 7. STEP-BY-STEP REPAIR WORKFLOWS
 
 ### Workflow A: Fixing the REACH Constraint
-1. Deploy GPS-enabled Mandi Beat Plans: map every hardware and paint counter in the tehsil.
+1. Deploy GPS-enabled Market Beat Plans: map every hardware and paint counter in the tehsil.
 2. Mandate the 10-4 Rule: 10 dealer visits + 4 painter site inspections per rep per day.
 3. Track daily counter check-ins through ERP mobile sales telemetry.
 
@@ -151,7 +151,7 @@ Is the repeat replenishment reorder cycle > 45 days?
 |---|---|---|---|
 | **The Price Cut Reflex** | Dropping wholesale rates because sales reps complain that "Asian is cheaper." | Misdiagnosing Trust as Price. | Never cut base price; fix the real constraint (Painter Pull or Risk Reversal). |
 | **Blanket Ad Spending** | Buying highway billboards when the territory's real constraint is counter reach. | Vanity marketing. | Direct capital only to breaking the specific verified pipeline bottleneck. |
-| **Blaming the Mandi** | "Kota ke log naya brand nahi khareedte." | Excuses masking diagnostic laziness. | Follow the diagnostic tree; thousands of litres are sold daily by competitors. |
+| **Blaming the Market** | "Kota ke log naya brand nahi khareedte." | Excuses masking diagnostic laziness. | Follow the diagnostic tree; thousands of litres are sold daily by competitors. |
 
 ---
 

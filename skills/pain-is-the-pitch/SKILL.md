@@ -30,7 +30,7 @@ To transform every sales conversation, dealer email, WhatsApp outreach, and fiel
 ### 2.3 Non-Negotiable Operating Principles
 1. **Pain Before Product:** Never mention a product specification, chemical ingredient, or company credential until the prospect's acute commercial pain has been fully exposed and acknowledged.
 2. **Quantify the Rupee Hemorrhage:** Pain is an abstraction until it is converted into rupees lost, hours wasted, or reputation destroyed. Always attach a concrete financial figure to the prospect's suffering.
-3. **Use the Prospect's Exact Vernacular:** Speak the authentic language of the mandi (*gaddi, theka, seelan, udhedna, fasa hua paisa, katoti, badnami*).
+3. **Use the Prospect's Exact Vernacular:** Speak the authentic language of the market (*gaddi, theka, seelan, udhedna, fasa hua paisa, katoti, badnami*).
 4. **The Prescription Stance:** Act like a world-class surgeon, not a desperate peddler. A doctor does not beg a patient to take medicine; he diagnoses the ailment and prescribes the cure.
 
 ---
@@ -58,11 +58,11 @@ Activate this engine whenever:
 
 ---
 
-## 5. THE MANDI PAIN MATRIX: REAL-WORLD INDUSTRY AGONIES
+## 5. THE MARKET PAIN MATRIX: REAL-WORLD INDUSTRY AGONIES
 
 ```
 +-----------------------------------------------------------------------------------+
-|                           THE PAINT MANDI PAIN MATRIX                             |
+|                           THE PAINT MARKET PAIN MATRIX                             |
 +---------------------+-------------------------------+-----------------------------+
 | 1. THE PAINT DEALER | 2. THE PAINTING THEKEDAR      | 3. THE BUILDER / DEVELOPER  |
 | - Capital locked in | - Peeling call-backs after    | - Dampness & seepage on new |
@@ -111,7 +111,7 @@ Position Swatch Paints not as a generic paint alternative, but as the exact surg
   *"Namaste Seth ji. Hum Swatch Paints se hain. Hum Rajasthan ke leading manufacturer hain. Hamare paas interior, exterior, primer aur wall putty sabhi products hain. Quality international standard ki hai aur rate bahut competitive hai."*
 - **After (Pain-Is-The-Pitch Transformation):**
   *"Seth ji, namaste. Ek seedha sawal: Pichle saal aapne 40 lakh ka paint becha, par saal ke aakhir mein aapki jeb mein kya bacha? 5 ya 6 percent? Baki sara munafa company ke target schemes aur unke luxury tours mein chala gaya jahan aapko 2 bucket short hone par disqualify kar diya gaya.*
-  *Mandi mein sabhi dealers pareshan hain ki gaddi unki hai, dukan unki hai, grahak unka hai, par kamai MNC le ja rahi hai. Hum Kota mein Sharma Industries hain. Hum aapko seedha 18% saaf margin dete hain—bina kisi hidden target ke aur har hafte cash collection par instant cash discount. Kya hum 5 minute baithkar aapke counter ka real margin calculate kar sakte hain?"*
+  *Market mein sabhi dealers pareshan hain ki gaddi unki hai, dukan unki hai, grahak unka hai, par kamai MNC le ja rahi hai. Hum Kota mein Sharma Industries hain. Hum aapko seedha 18% saaf margin dete hain—bina kisi hidden target ke aur har hafte cash collection par instant cash discount. Kya hum 5 minute baithkar aapke counter ka real margin calculate kar sakte hain?"*
 
 ### Scenario 2: Painting Contractor (Thekedar) Pitch
 - **Before (Bland Feature Pitch):**
@@ -177,7 +177,7 @@ curl -s http://localhost:8000/api/erp/marketing/tokens/active-slabs
 
 ### 10.2 Failure Mode: Superficial Pain Identification
 - *The Trap:* Asking generic questions: *"Kya aapko koi problem hai?"* The dealer automatically says *"Nahi, sab theek hai."*
-- *Countermeasure:* Cite specific mandi data: *"Kota mandi ke 8 dealers ne bataya ki unka ₹50,000 pichle quarter mein scheme deduction mein chala gaya. Kya aapke sath bhi aisa hua?"*
+- *Countermeasure:* Cite specific market data: *"Kota market ke 8 dealers ne bataya ki unka ₹50,000 pichle quarter mein scheme deduction mein chala gaya. Kya aapke sath bhi aisa hua?"*
 
 ---
 

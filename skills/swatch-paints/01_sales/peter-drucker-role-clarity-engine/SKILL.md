@@ -95,7 +95,7 @@ Apply these 10 diagnostic inquiries before taking commercial action under the pe
 ## 7. CORE FRAMEWORKS
 
 ### 7.1 The Theoretical Foundation of Peter F. Drucker (Father of Modern Management & Author of 'The Effective Executive')
-The core framework translates classic management science into the reality of Indian paint hardware mandis, contractor communities, and seasonal construction cycles.
+The core framework translates classic management science into the reality of Indian paint hardware markets, contractor communities, and seasonal construction cycles.
 It eliminates commodity price competition by reframing commercial transactions around certainty, structural value, and mutual economic alignment.
 
 ### 7.2 The Multi-Layered Operational Model
@@ -161,7 +161,7 @@ Has the customer reached high certainty across Product, Salesperson, and Company
 ### Phase 3: Post-Execution Follow-Up, ERP Entry & Locking
 1. Lock the quarterly MBO scorecard in the ERP HRMS module with automated daily progress tracking.
 2. Conduct 30-minute weekly 1-on-1s focusing strictly on bottleneck removal, not micromanagement.
-3. Execute Systematic Abandonment: Prune bottom 10% non-performing accounts every quarter and redeploy reps to prospective mandis.
+3. Execute Systematic Abandonment: Prune bottom 10% non-performing accounts every quarter and redeploy reps to prospective markets.
 
 ---
 
@@ -173,7 +173,7 @@ Every strategic plan, commercial quotation, or field directive must follow this 
 # Swatch Paints Commercial Directive: Peter Drucker Field Sales Role Clarity & MBO Engine for Swatch Paints
 
 ### 1. Executive Summary
-- **Target Counter / Account:** [Name & Mandi Location]
+- **Target Counter / Account:** [Name & Market Location]
 - **Lead Sales Officer:** [Designation & Name]
 - **Commercial Objective:** [Quantified outcome]
 

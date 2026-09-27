@@ -79,7 +79,7 @@ Invoke this skill whenever:
 3. **What is the true Job-to-be-Done for a painting contractor on a hot summer afternoon in Kota?**
 4. **How does our product positioning defend against aggressive new corporate market entrants?**
 5. **What percentage of our annual revenue comes from high-margin specialty waterproof coatings?**
-6. **Is our packaging design instantly recognizable from 15 feet away inside a crowded mandi shop?**
+6. **Is our packaging design instantly recognizable from 15 feet away inside a crowded market shop?**
 7. **Are we pricing our products based on manufacturing cost or based on dealer value creation?**
 8. **What would happen if we eliminated our bottom 5 low-volume paint products tomorrow?**
 9. **How easily can a retail dealer explain our product tiers to a homeowner in under 30 seconds?**
@@ -101,7 +101,7 @@ Invoke this skill whenever:
 
 [2. THREAT OF NEW ENTRANTS: MODERATE]
   └─► High capital requirements for distribution and tinting machine networks.
-  └─► Swatch Strategy: Build deep dealer loyalty and exclusive counter contracts in target mandis.
+  └─► Swatch Strategy: Build deep dealer loyalty and exclusive counter contracts in target markets.
 
 [3. BARGAINING POWER OF SUPPLIERS: MODERATE-HIGH]
   └─► Global petrochemical and TiO2 suppliers dictate chemical raw material base prices.

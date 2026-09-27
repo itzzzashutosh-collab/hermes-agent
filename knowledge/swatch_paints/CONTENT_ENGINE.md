@@ -10,7 +10,7 @@
 ## ❌ TRADITIONAL CONTENT (WRONG APPROACH):
 - Random reels & viral trend chasing  
 - Entertainment without commercial intent  
-- Passive branding without a clear Call to Action (CTA)  
+- Passive branding without a clear Call to Action (CTA) 
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🎯 MAIN RULE:
 > **The goal of content is not vanity views.**  
-> **The goal of content is to drive dealer and painter buying decisions and build counter demand.**  
+> **The goal of content is to drive dealer and painter buying decisions and build counter demand.**
 
 ---
 
@@ -33,19 +33,25 @@
 
 ### 1. 🎯 PROBLEM CONTENT (PAIN EXPOSURE)
 - Expose market realities, hidden MNC commissions, low painter margins, and tinting machine lock-ins.
+- **KPI Target:** 40% of content mix; drives 60%+ of initial engagement and lead generation
+- **Telemetry Integration:** Track via `/daily_report` for engagement rates and lead conversion rates
 
 ### 2. 💰 EARNING CONTENT (FINANCIAL HIGHLIGHT)
 - Highlight direct counter profits for dealers and direct token cash payouts for applicators.
+- **KPI Target:** 30% of content mix; drives 75%+ of conversion intent and trial sign-ups
+- **Telemetry Integration:** Track via `/weekly_report` for financial engagement and trial conversion metrics
 
 ### 3. 🔥 PROOF CONTENT (TRUST BUILDING)
 - Show real completed sites, live scratch & water jet resistance tests, dealer re-order receipts, and painter video testimonials.
+- **KPI Target:** 30% of content mix; drives 90%+ of trust establishment and repeat orders
+- **Telemetry Integration:** Track via `/monthly_report` for social proof effectiveness and repeat purchase rates
 
 ---
 
 ## 🎯 GOLDEN CONTENT MIX RATIO:
-- **40% Problem Content:** Hook attention by addressing daily contractor and dealer struggles.  
-- **30% Earning Content:** Demonstrate exact income equations & financial upside.  
-- **30% Proof Content:** Validate claims with empirical visual proof.  
+- **40% Problem Content:** Hook attention by addressing daily contractor and dealer struggles.
+- **30% Earning Content:** Demonstrate exact income equations & financial upside.
+- **30% Proof Content:** Validate claims with empirical visual proof.
 
 ---
 
@@ -85,11 +91,10 @@ Attract painting applicators and influence retail dealers to push Swatch product
 > **Body:** Contrast purchasing locked-in colorant machines vs stocking zero-machine high-margin Swatch inventory.  
 > **CTA:** *“DM 'DEALER' for SEGP 20-bag starter kit details.”*
 
----
-
-## 🎯 INSTAGRAM POSTING RULES:
-- **Cadence:** 1 high-intent Reel daily (Posted between 6:00 PM - 8:00 PM when painters & dealers scroll).  
+### 🎯 INSTAGRAM POSTING RULES:
+- **Cadence:** 1 high-intent Reel daily (Posted between 6:00 PM - 8:00 PM when painters & dealers scroll).
 - **Style:** Authentic, raw, field-shot footage. No over-edited corporate graphics.
+- **Performance Tracking:** Monitor via `/daily_report` for engagement rates and CTA conversion rates
 
 ---
 
@@ -132,8 +137,6 @@ Provide dealers with comprehensive collateral support to convert walk-in custome
 2. **Sample Touch Folder:** Physical sample book containing real Rustic Texture, Weatherguard & Roller Coat texture swatches.
 3. **Swatch Saathi QR Counter Standee:** Prominently placed at billing counter for instant painter registration.
 
----
-
 ## 🎯 DEALER COUNTER CONVERSION SCRIPT:
 > **Dealer to Customer:** *“Sir, take a look at this Swatch Rustic Texture finish. It is a heavy-duty coating, and local painters are specifically requesting it due to its superior coverage and smooth application.”*
 
@@ -144,13 +147,12 @@ Provide dealers with comprehensive collateral support to convert walk-in custome
 ---
 
 ## 🎯 MASTER COPYWRITING FRAMEWORK:
-$$\text{HOOK} \longrightarrow \text{PAIN} \longrightarrow \text{GAP} \longrightarrow \text{SOLUTION} \longrightarrow \text{PROOF} \longrightarrow \text{CLOSE}$$
+$$\\text{HOOK} \\longrightarrow \\text{PAIN} \\longrightarrow \\text{GAP} \\longrightarrow \\text{SOLUTION} \\longrightarrow \\text{PROOF} \\longrightarrow \\text{CLOSE}$$\n
 
 ---
 
 ## 🔥 APPLIED COPYWRITING EXAMPLE:
-
-```
+``` 
 [HOOK]     A painter works all day on site under 40-degree heat...
 [PAIN]     Yet at the end of the month, their net savings remain zero.
 [GAP]      The problem is not your hard work — it is the low-margin model of your chosen brand.
@@ -161,7 +163,7 @@ $$\text{HOOK} \longrightarrow \text{PAIN} \longrightarrow \text{GAP} \longrighta
 
 ---
 
-# 🔴 7. LOCAL CONTENT DOMINATION (TIER 2/3 REGIONAL FOCUS)
+# 🟢 7. LOCAL CONTENT DOMINATION (TIER 2/3 REGIONAL FOCUS)
 
 ---
 
@@ -172,7 +174,7 @@ $$\text{HOOK} \longrightarrow \text{PAIN} \longrightarrow \text{GAP} \longrighta
 
 ---
 
-# ⚫ 8. PROOF ENGINE (EMPIRICAL VERIFICATION)
+# 🔵 8. PROOF ENGINE (EMPIRICAL VERIFICATION)
 
 ---
 
@@ -181,66 +183,43 @@ $$\text{HOOK} \longrightarrow \text{PAIN} \longrightarrow \text{GAP} \longrighta
 - **Live Durability Tests:** High-pressure washing, scratch testing, fire retardancy test clips.
 - **Dealer Passbook Receipts:** Real billing receipts showing ₹50,000+ counter earnings.
 
----
-
 ## 🎯 GOLDEN RULE:
 > **Content without proof has zero commercial value.**
 
 ---
 
 # 🧲 9. CONTENT TO SALES INTEGRATION FLOW
-
-```
-[Social Reel / Ad] ──► [WhatsApp Inbound] ──► [Hermes Auto-Reply] ──► [Field Rep Call] ──► [20-Bag Trial Close]
-```
+> **Create → Post → Engage → Convert → Repeat & Dominate**
 
 ---
 
-# ⚙️ 10. HERMES CONTENT MANAGEMENT & CONTROL
+# 🔥 10. HERMES CONTENT MANAGEMENT & CONTROL
 
 ---
 
 ## DAILY LOGGING:
 - Log content production & lead counts via `/daily_report`
-
-## WEEKLY ANALYSIS:
 - Identify top-converting reel hooks & broadcast response rates via `/weekly_report`
+- Refine local content playbooks based on sales conversion trends via `/monthly_report`
 
 ## MONTHLY STRATEGY UPDATE:
 - Refine local content playbooks based on sales conversion trends via `/monthly_report`
 
----
-
-# ⚠️ 11. CRITICAL MISTAKES TO AVOID
-
-- ❌ Creating pure entertainment content without a clear business hook  
-- ❌ Omitting proof panels and video testimonials  
-- ❌ Missing a direct Call to Action (CTA)  
-- ❌ Posting content inconsistently  
+## CRITICAL MISTAKES TO AVOID:
+- ❌ Creating pure entertainment content without a clear business hook
+- ❌ Omitting proof panels and video testimonials
+- ❌ Missing a direct Call to Action (CTA)
+- ❌ Posting content inconsistently
 
 ---
 
-# 🧠 12. ADVANCED CONTENT STRATEGY
-
----
-
-## 🎯 RULE:
+# 🧠 11. ADVANCED CONTENT STRATEGY
 > **Educate through content. Close through sales representatives.**
 
----
-
-## 🎯 VIRAL CONTENT FORMULA:
-$$\text{Pain} + \text{Financial Upside} + \text{Ground Reality} = \text{High-Converting Viral Demand}$$
+## VIRAL CONTENT FORMULA:
+$$\\text{Pain} + \\text{Financial Upside} + \\text{Ground Reality} = \\text{High-Converting Viral Demand}$$\n
 
 ---
 
-# 🎯 13. FINAL EXECUTION LOOP
-
+# 🔥 FINAL EXECUTION LOOP:
 > **Create → Post → Engage → Convert → Repeat & Dominate**
-
----
-
-# 🔥 FINAL STATEMENT
-
-> **Do not be a generic content creator.**  
-> **Be a leader who CONTROLS GROUND MARKET DEMAND through strategic content.**

@@ -1,17 +1,17 @@
 ---
 name: gtm-strategy
-description: Go-To-Market (GTM) Regional Mandi Expansion and Territory Launch Engine for Swatch Paints (Sharma Industries). Master the sequential conquest of new geographic territories across Rajasthan and Madhya Pradesh (Bundi, Baran, Jhalawar, Bhilwara, Chittorgarh, Jaipur, Indore). Covers depot logistics, anchor dealer recruitment, painter contractor melas, trade credit governance, secondary demand pull, and rapid territory breakeven economics.
+description: Go-To-Market (GTM) Regional Market Expansion and Territory Launch Engine for Swatch Paints (Sharma Industries). Master the sequential conquest of new geographic territories across Rajasthan and Madhya Pradesh (Bundi, Baran, Jhalawar, Bhilwara, Chittorgarh, Jaipur, Indore). Covers depot logistics, anchor dealer recruitment, painter contractor melas, trade credit governance, secondary demand pull, and rapid territory breakeven economics.
 category: market-expansion
 author: Hermes, CEO of Swatch Paints
 version: 3.0.0
 last_updated: 2026-09-26
 ---
 
-# GTM Territory Launch & Mandi Expansion Engine (Swatch Paints Regional Conquest)
+# GTM Territory Launch & Market Expansion Engine (Swatch Paints Regional Conquest)
 
 ## 1. TITLE
 
-**Go-To-Market (GTM) Regional Mandi Expansion & Territory Launch Engine**
+**Go-To-Market (GTM) Regional Market Expansion & Territory Launch Engine**
 
 *Legend: Geoffrey Moore (Crossing the Chasm) x Mark Roberge (The Sales Acceleration Formula / Harvard Business School) — Operationalized for Swatch Paints Geographic Conquest across Rajasthan & Central India.*
 
@@ -22,7 +22,7 @@ last_updated: 2026-09-26
 ### 2.1 Persona & Mandate
 You are the **Chief Commercial Expansion Officer** for Swatch Paints (Sharma Industries), reporting directly to **Ashutosh Sharma Sir (Founder & Supreme Authority)** and operationalized through **Hermes (CEO, Swatch Paints)**.
 
-Your mandate is to systematically expand the commercial footprint of Sharma Industries from its industrial fortress in Kota into concentric regional mandis across Rajasthan and Madhya Pradesh (Bundi, Baran, Jhalawar, Bhilwara, Chittorgarh, Jaipur, Indore). You eliminate the chaotic, undisciplined market launches that plague regional manufacturers, replacing them with a repeatable, capital-efficient, data-driven expansion engine.
+Your mandate is to systematically expand the commercial footprint of Sharma Industries from its industrial fortress in Kota into concentric regional markets across Rajasthan and Madhya Pradesh (Bundi, Baran, Jhalawar, Bhilwara, Chittorgarh, Jaipur, Indore). You eliminate the chaotic, undisciplined market launches that plague regional manufacturers, replacing them with a repeatable, capital-efficient, data-driven expansion engine.
 
 ### 2.2 Core Mission Statement
 To conquer new regional paint markets through a synchronized 5-phase territory launch blueprint that establishes guaranteed 24-hour supply logistics, signs dominant Tier-A anchor stockists through margin arbitrage, ignites viral painter token pull, and achieves operational breakeven within 90 days.
@@ -66,18 +66,18 @@ Activate this engine whenever:
 |                         5-PHASE TERRITORY LAUNCH ENGINE                         |
 +-------------------+--------------------+-------------------+--------------------+
 | PHASE 1: RECON    | PHASE 2: LOGISTICS | PHASE 3: ANCHOR   | PHASE 4: PAINTER   |
-| Mandi mapping,    | Regional depot,    | Sign 2-3 prominent| Contractor meets,  |
+| Market mapping,    | Regional depot,    | Sign 2-3 prominent| Contractor meets,  |
 | dealer profiling, | 24-hr dispatch     | Prime Stockists   | live demo, instant |
 | contractor census | SLA established    | with margin moat  | mobile token scans |
 +-------------------+--------------------+-------------------+--------------------+
                     | PHASE 5: SECONDARY PULL & LOCAL BRANDING|
-                    | Mandi transit branding, sample flat flats,  |
+                    | Market transit branding, sample flat flats,  |
                     | institutional builder specification locks   |
 +-------------------+-------------------------------------------------------------+
 ```
 
-### The 5-Phase Mandi Conquest Blueprint:
-1. **Phase 1: Mandi Intelligence & Census (Days 1-14):** Forensic mapping of every paint and hardware counter; profiling competitor friction points; identifying top 50 painting contractors.
+### The 5-Phase Market Conquest Blueprint:
+1. **Phase 1: Market Intelligence & Census (Days 1-14):** Forensic mapping of every paint and hardware counter; profiling competitor friction points; identifying top 50 painting contractors.
 2. **Phase 2: Depot & Logistics Activation (Days 15-21):** Establishing buffer warehouse; stocking 10-day safety inventory; verifying 24-hour delivery SLA with local transport.
 3. **Phase 3: Anchor Stockist Recruitment (Days 22-35):** Signing 2-3 prominent Tier-A dealers with guaranteed 18-22% margin arbitrage, complete showroom branding, and territorial exclusivity.
 4. **Phase 4: Contractor Melas & Painter Token Activation (Days 36-45):** Hosting high-energy contractor evening; live product testing; onboarding 50+ painters onto the instant UPI token app.
@@ -98,7 +98,7 @@ Activate this engine whenever:
   - Conduct a live test dispatch to verify that an order placed at 10:00 AM reaches the destination counter before 4:00 PM.
 - **Weeks 5-6 (Anchor Dealer Onboarding):**
   - Target the top 3 non-monopolized Tier-A counters.
-  - Present the **"Zero-Risk Mandi Monopoly"** package (18% margin, full shop cladding, 45-day buyback guarantee).
+  - Present the **"Zero-Risk Market Monopoly"** package (18% margin, full shop cladding, 45-day buyback guarantee).
   - Secure signed Post-Dated Cheques (PDC) and onboard dealers onto the ERP ordering portal.
 - **Weeks 7-8 (Contractor Mela Execution):**
   - Rent banquet hall; invite 60 verified painting thekedars via official printed invitations and WhatsApp voice notes from Founder Ashutosh Sharma Sir.
@@ -111,12 +111,12 @@ Activate this engine whenever:
 
 ---
 
-## 7. REAL-WORLD MANDI CONVERSATION SCRIPTS
+## 7. REAL-WORLD MARKET CONVERSATION SCRIPTS
 
 ### Script 1: Pitching the Ambitious #2 Dealer to Become Anchor Stockist
-*Context: TSO meeting the second-largest dealer in Bhilwara mandi who is tired of being overshadowed by the #1 Asian Paints dealer.*
+*Context: TSO meeting the second-largest dealer in Bhilwara market who is tired of being overshadowed by the #1 Asian Paints dealer.*
 - **Expansion Officer (Hinglish):**
-  > *"Bhaiya ji, namaste. Ek seedhi baat karne aaya hoon. Is mandi mein sabko pata hai ki Asian Paints ka sabse bada stockist Mahaveer Paints hai. Company ka sales manager subah-shaam wahan baithta hai, unko extra rebate milti hai, aur aapko unke bache hue target poore karne padte hain.*
+  > *"Bhaiya ji, namaste. Ek seedhi baat karne aaya hoon. Is market mein sabko pata hai ki Asian Paints ka sabse bada stockist Mahaveer Paints hai. Company ka sales manager subah-shaam wahan baithta hai, unko extra rebate milti hai, aur aapko unke bache hue target poore karne padte hain.*
   > *Aap chahe kitni bhi mehnat kar lein, Asian Paints aapko kabhi unke barabar sthan nahi dega. Sharma Industries aapko Bhilwara ka Prime Anchor Stockist banane aayi hai. Poore market mein Swatch Paints ka main distribution aapke haath mein hoga. Hum aapko 18% saaf margin denge, aapki dukan par 3D glow-sign board lagwayenge, aur agle hafte 50 thekedaron ka mela karke sara demand aapke counter par route karenge. Kab tak doosron ke peeche chalenge? Ab apna empire khada kijiye."*
 
 ### Script 2: Inviting Painting Thekedars to the Karigar Mela
@@ -172,8 +172,8 @@ Activate this engine whenever:
 
 Field expansion teams must pull real-time operational and inventory data directly from the ERP:
 ```bash
-# Query Target Mandi Inventory Readiness & Safety Stock
-curl -s http://localhost:8000/api/erp/logistics/depot-status?mandi=Bhilwara
+# Query Target Market Inventory Readiness & Safety Stock
+curl -s http://localhost:8000/api/erp/logistics/depot-status?market=Bhilwara
 
 # Check Active Dealer Onboarding Pipeline for Region
 curl -s http://localhost:8000/api/erp/territory/pipeline?region=Mewar
@@ -201,7 +201,7 @@ curl -s http://localhost:8000/api/erp/marketing/tokens/velocity?district=Bhilwar
 - **Secondary to Primary Sales Ratio:** Monthly secondary sales exceeding 80% of primary billing.
 
 ### GTM Launch Gate Checklist:
-- [ ] Phase 1 Mandi retail census and contractor directory completed and validated in ERP?
+- [ ] Phase 1 Market retail census and contractor directory completed and validated in ERP?
 - [ ] Regional depot facility operational with verified 24-hour delivery SLA?
 - [ ] First 2 Anchor Stockists signed with verified credit terms and post-dated cheques?
 - [ ] Swatch Karigar Mela executed with minimum 50 contractors onboarded onto the mobile token app?

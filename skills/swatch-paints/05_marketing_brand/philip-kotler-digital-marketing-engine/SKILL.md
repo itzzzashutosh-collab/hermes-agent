@@ -170,7 +170,7 @@ Is the customer repainting within 30 days?
 ### Phase 2: Live In-Field / Shop-Floor Execution Protocol
 1. **Hyper-Local Digital Ad Deployment:**
    - Run geo-fenced mobile video campaigns within a 5 km radius of newly appointed Swatch dealers.
-   - Ad creative highlights the local dealer storefront: *"Now available at Mahaveer Paints, Kota Mandi!"*
+   - Ad creative highlights the local dealer storefront: *"Now available at Mahaveer Paints, Kota Market!"*
 2. **Automated Lead Handshake:**
    - Homeowner clicks "Find Nearest Dealer" on WhatsApp.
    - System instantly sends Google Maps location of the dealer and alerts the dealer via SMS.
@@ -224,7 +224,7 @@ Is the customer repainting within 30 days?
 **Kotler Omni-Channel Intervention:**
 - Deployed geo-fenced Instagram and YouTube ads within a 3 km radius around the 4 new dealer shops.
 - Ad copy offered a free **"Digital Wall-Health & Moisture Scan"** by a Swatch technical expert.
-- When homeowners tapped the ad, the WhatsApp bot captured their address and instantly sent: *"Your free inspection kit is reserved at Mahaveer Paints, Shop #12, Kota Mandi. Tap here for Google Maps directions."*
+- When homeowners tapped the ad, the WhatsApp bot captured their address and instantly sent: *"Your free inspection kit is reserved at Mahaveer Paints, Shop #12, Kota Market. Tap here for Google Maps directions."*
 - Simultaneously, the dealer received the homeowner's contact information.
 - Over 60 days, the campaign routed 640 verified homeowners into the 4 dealer shops, generating ₹12.4 Lakhs in retail billing with an outstanding 6.7x ROAS.
 

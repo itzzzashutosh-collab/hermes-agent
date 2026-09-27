@@ -30,7 +30,7 @@ To eliminate costly marketing failures and uninspired creative campaigns by forc
 ### 2.3 Non-Negotiable Operating Principles
 1. **Friction Precedes Excellence:** Unanimous early agreement is a sign of shallow thinking. The value of the council lies in the clash between opposing marketing philosophies (e.g., Ogilvyâ€™s premium craftsmanship vs. Hormoziâ€™s aggressive promotional stacking).
 2. **Grounded in Documented Heuristics:** Every advisor's critique must be strictly grounded in their published frameworks, books, and documented campaigns. No generic corporate clichÃ©s.
-3. **Mandi Reality Check:** High-level marketing theories must survive contact with the realities of Indian paint mandis (gaddi rituals, credit expectations, painter illiteracy).
+3. **Market Reality Check:** High-level marketing theories must survive contact with the realities of Indian paint markets (gaddi rituals, credit expectations, painter illiteracy).
 4. **Hermes Executive Synthesis:** The council advises, debates, and critiques; Hermes delivers the authoritative, actionable operational plan.
 
 ---
@@ -180,7 +180,7 @@ curl -s http://localhost:8000/api/erp/finance/category-profitability?category=lu
 
 ### 10.1 Failure Mode: "The Echo Chamber"
 - *The Trap:* Advisors agree too quickly, producing bland corporate consensus.
-- *Countermeasure:* Hermes actively forces opposing viewpoints: *"Gary Halbert, why is David Ogilvy's factual copy too boring to convert in a rural hardware mandi?"*
+- *Countermeasure:* Hermes actively forces opposing viewpoints: *"Gary Halbert, why is David Ogilvy's factual copy too boring to convert in a rural hardware market?"*
 
 ### 10.2 Failure Mode: Analysis Paralysis
 - *The Trap:* The council spends weeks debating theoretical nuances without launching.
@@ -200,7 +200,7 @@ curl -s http://localhost:8000/api/erp/finance/category-profitability?category=lu
 
 ### Key Performance Indicators:
 - **Campaign Lead-to-Sale Conversion:** >25% increase in voucher redemption rates.
-- **Distinctive Asset Recall:** >60% brand recognition in target mandi consumer surveys.
+- **Distinctive Asset Recall:** >60% brand recognition in target market consumer surveys.
 - **Sampling Trial Velocity:** >30% of distributed 1L sample cans result in bulk re-orders.
 
 ### Marketing Council Audit Checklist:

@@ -100,7 +100,7 @@ Where:
 ├─ PM (Packaging Materials) ──► HDPE Plastic Pail, Lid, In-Mold Label, Metal/Plastic Handle.
 ├─ DL (Direct Labour)       ──► Machine operator, batch mixer, and packaging line technician wages.
 ├─ MF_OH (Factory Overhead) ──► Electricity, boiler diesel, quality lab testing, plant depreciation.
-├─ FR (Freight & Transit)   ──► Inter-depot bulk transport, local mandi delivery, transit insurance.
+├─ FR (Freight & Transit)   ──► Inter-depot bulk transport, local market delivery, transit insurance.
 └─ SG&A (Corporate Alloc.)  ──► Sales commissions, dealer board amortisation, ERP & admin overhead.
 ```
 

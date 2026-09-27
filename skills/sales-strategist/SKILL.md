@@ -52,7 +52,7 @@ This engine equips Hermes and Swatch Paints leadership to:
 
 Activate this engine whenever:
 - Designing or recalibrating annual and quarterly sales compensation plans for field representatives.
-- Setting monthly territory sales quotas and product category targets across Rajasthan mandis.
+- Setting monthly territory sales quotas and product category targets across Rajasthan markets.
 - Diagnosing a sudden decline in regional win rates, deal velocity, or cash collection ratios.
 - Mapping new retail beat plans (Permanent Journey Plans) for expanding field teams.
 - Evaluating, bidding, and negotiating large real estate builder contracts or hospital tenders exceeding 5,000 Liters.
@@ -118,7 +118,7 @@ $$	ext{Monthly Rep Payout} = 	ext{Base Salary} + \sum (	ext{Collected Cash} 	ime
 ## 7. PERMANENT JOURNEY PLAN (PJP) STANDARDS & BEAT EXECUTION
 
 ### The Standard 6-Day Weekly Beat Architecture:
-- **Monday: Core Mandi High-Volume Counters (Counters 1-8)** â€” Central hardware market; stock auditing; weekend order reconciliation.
+- **Monday: Core Market High-Volume Counters (Counters 1-8)** â€” Central hardware market; stock auditing; weekend order reconciliation.
 - **Tuesday: Industrial & Sub-Dealer Belt (Counters 9-16)** â€” Semi-urban counters; contractor delivery coordination.
 - **Wednesday: Outer Tehsil Radial Hub A (Counters 17-24)** â€” Outstation retail network; rural hardware counters.
 - **Thursday: Institutional Builder Sites with IPM** â€” Joint site visits; architect mockups; project specification meetings.

@@ -30,7 +30,7 @@ To convert the world's most widely used messaging app into a self-sustaining rev
 ### 2.3 Non-Negotiable Operating Principles
 1. **Zero Spamming Mandate:** Every WhatsApp message must deliver direct, undeniable utility (order tracking, bonus tokens, margin calculation), never annoying broadcast noise.
 2. **Instant Response SLA:** Incoming dealer inquiries and order requests must receive an automated confirmation within 15 seconds and human/Hermes resolution within 5 minutes.
-3. **Mandi-Fluent Communication:** Use clear, respectful Hinglish with appropriate professional trade vocabulary (*Namaste, Ram Ram sa, Bill copy, Dispatch alert*).
+3. **Market-Fluent Communication:** Use clear, respectful Hinglish with appropriate professional trade vocabulary (*Namaste, Ram Ram sa, Bill copy, Dispatch alert*).
 4. **Strict Opt-In & Privacy Compliance:** Only message verified registered trade partners who have opted in through onboarding or QR token scanning.
 
 ---

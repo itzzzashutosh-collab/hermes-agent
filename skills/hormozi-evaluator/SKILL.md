@@ -65,7 +65,7 @@ $$	ext{Value Score (0-100)} = rac{	ext{Dream Outcome (0-10)} 	imes 	ext{Perceiv
 ### The 4 Variables Deconstructed for Swatch Paints:
 
 #### 1. Dream Outcome (Scale 0-10)
-- **What the Paint Dealer Actually Dreams Of:** Doubling net counter profit without taking on more bank overdraft debt, gaining prestige in the mandi, and having contractors queue up outside his shop.
+- **What the Paint Dealer Actually Dreams Of:** Doubling net counter profit without taking on more bank overdraft debt, gaining prestige in the market, and having contractors queue up outside his shop.
 - **What the Painting Contractor Dreams Of:** Finishing jobs in half the time with zero customer call-backs, getting instant cash rewards, and being viewed as the master craftsman in his neighborhood.
 - **What the Homeowner Dreams Of:** A magnificent, mirror-smooth luxury home finish that stays pristine for 7+ years with zero maintenance.
 
@@ -107,7 +107,7 @@ When evaluating any Swatch Paints commercial proposal, score each element from 0
   - *Critique:* "This is pathetic. A 5% discount on an unknown challenger brand is an insult. A wall clock? Is this 1985? The dealer has to risk 1.5 lakhs of working capital for a 7,500 rupee discount and a piece of plastic. He will say 'No thanks, I'll stick with Asian Paints'."
 
 ### The Hormozi "Grand Slam" Re-Architecture:
-- **Offer Title:** **The "Zero-Risk Mandi Monopoly" Starter Package**
+- **Offer Title:** **The "Zero-Risk Market Monopoly" Starter Package**
 - **The Stack:**
   1. **Core Product:** 25 fast-moving buckets of Swatch WeatherShield & Royal Luxury Emulsion.
   2. **Margin Arbitrage:** Immediate 18% gross counter margin (vs. 6% industry standard) = Dealer clears 3x net cash.
@@ -136,7 +136,7 @@ When evaluating any Swatch Paints commercial proposal, score each element from 0
 
 ---
 
-### 3. The Retailer "Diwali Mandi Dhamaka" Pre-Booking Bundle
+### 3. The Retailer "Diwali Market Dhamaka" Pre-Booking Bundle
 - **Avatar:** Medium and large retail paint counters preparing for peak festive Diwali whitewashing demand.
 - **The Core Offer:** Pre-book 100 buckets of Swatch Interior & Exterior Emulsions 45 days before Navratri.
 - **The Stack:** Guaranteed 22% festive margin + Free motorized colorant dispenser machine + 50 painter festive gift packs (branded wristwatches and sweets) for his contractor network + Direct factory truck priority dispatch.

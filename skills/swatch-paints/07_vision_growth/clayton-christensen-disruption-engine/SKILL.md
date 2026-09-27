@@ -55,7 +55,7 @@ The purpose of this engine is to:
 ## 4. WHEN TO USE
 
 - Formulating and launching entry-level or mass-market paint product lines (e.g. Swatch Smart Coat, All-in-One Primer-Emulsion).
-- Expanding into rural mandis, peri-urban housing developments, and tier-4 agricultural towns.
+- Expanding into rural markets, peri-urban housing developments, and tier-4 agricultural towns.
 - Evaluating whether to enter a new product category or competitor segment.
 - Designing marketing campaigns centered around real customer life events (weddings, festivals, post-harvest construction).
 - Analyzing competitor pricing moves and defensive vulnerability.
@@ -154,7 +154,7 @@ while sustaining >= 30% Gross Contribution Margin?
 ## 10. STEP-BY-STEP TACTICAL EXECUTION PLAYBOOK
 
 ### Phase 1: Pre-Flight JTBD Field Immersion
-1. Spend 3 full days in rural mandis and Tier 3 housing colonies interviewing homeowners and local thekedars.
+1. Spend 3 full days in rural markets and Tier 3 housing colonies interviewing homeowners and local thekedars.
 2. Uncover the precise Job-to-be-Done: What frustrates them about existing paints? How much do they budget for labor vs material?
 3. Identify the "Over-Served Compromise": What expensive features are they paying for that they don't actually need?
 
@@ -178,7 +178,7 @@ while sustaining >= 30% Gross Contribution Margin?
 # Swatch Paints Disruptive Innovation & JTBD Dossier
 
 ### 1. Market Opportunity Profile
-- **Target Category:** Mass-Market Exterior Protection (Tier 3/4 Mandis)
+- **Target Category:** Mass-Market Exterior Protection (Tier 3/4 Markets)
 - **Primary Incumbent Over-Serving:** Multinationals selling ₹240/L paints requiring separate ₹120/L primer
 - **The Core Job-to-be-Done:** Cover fresh cement walls with a durable, rain-proof white coating without buying multiple buckets
 
@@ -191,7 +191,7 @@ while sustaining >= 30% Gross Contribution Margin?
 ### 3. Asymmetric Competitive Positioning
 | Dimension | Incumbent Sustaining Approach | Swatch Paints Disruptive Approach |
 |---|---|---|
-| Target Customer | High-income urban villas | Tier 3/4 independent home builders & rural mandis |
+| Target Customer | High-income urban villas | Tier 3/4 independent home builders & rural markets |
 | Distribution Channel | High-end boutique color lounges | Mass-market hardware and building material counters |
 | Formulation Focus | Multi-coat glossy lifestyle finishes | 2-in-1 single-pack durable matte weather shield |
 | Incumbent Response | "Low-margin segment, let them have it" | Asymmetric Foothold Established! |

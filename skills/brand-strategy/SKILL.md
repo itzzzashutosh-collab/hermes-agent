@@ -50,7 +50,7 @@ Technical Support       Remote call centers              24-Hour Factory Chemist
 ## 4. BRAND VOICE GUIDELINES
 
 1. **Grounded & Industrial:** We speak like master chemical formulators with 30 years of plant floor experience, never like detached corporate advertising executives.
-2. **Mandi-Fluent & Respectful:** Effortlessly blending technical architectural standards (ASTM, IS) with authentic Indian merchant vernacular (*vyapar, munafa, gaddi, thekedar*).
+2. **Market-Fluent & Respectful:** Effortlessly blending technical architectural standards (ASTM, IS) with authentic Indian merchant vernacular (*vyapar, munafa, gaddi, thekedar*).
 3. **Radical Quality Honesty:** We tell dealers exactly what is inside the bucket: solid binder percentages, pigment volume concentration (PVC), and wet scrub resistance.
 
 ---

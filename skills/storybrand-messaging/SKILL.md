@@ -82,7 +82,7 @@ To stop treating Swatch Paints as the hero of the story, and instead position th
 
 ### Part 7: The Transformation (Success)
 - **From:** An overworked merchant trapped in low-margin corporate servitude.
-- **To:** A thriving, independent mandi authority enjoying 18% gross margins and deep contractor loyalty.
+- **To:** A thriving, independent market authority enjoying 18% gross margins and deep contractor loyalty.
 
 ---
 

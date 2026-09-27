@@ -45,7 +45,7 @@ In traditional Indian paint distribution, logistics is plagued by amateurism:
 - Freight contracts are awarded based on lowest per-km rate, resulting in chronic transport delays, missed delivery promises to dealers, and high customer defection to multinational competitors.
 
 The purpose of this engine is to:
-- Model the **Multi-Echelon Hub-and-Spoke Network (Central Plant Hub -> Regional Cross-Docks -> Local Dealer Mandis)**.
+- Model the **Multi-Echelon Hub-and-Spoke Network (Central Plant Hub -> Regional Cross-Docks -> Local Dealer Markets)**.
 - Apply **Total Cost Analysis** balancing inventory carrying costs against transport consolidation economics.
 - Enforce strict **Carrier Service Level Agreements (SLAs)** with penalty-bonus clauses.
 - Optimize vehicle routing and multi-stop milk runs using digital route sequencing.

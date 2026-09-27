@@ -30,11 +30,11 @@ Ashutosh Sharma Sir can send any of the following slash commands in the Telegram
   - Active accounts receivable health and 21-day credit lockouts.
   - Immediate operational alerts requiring executive attention.
 
-### 2. `/sales` — Commercial Sales & Mandi Telemetry
+### 2. `/sales` — Commercial Sales & Market Telemetry
 - **What it does:** Detailed commercial performance breakdown.
 - **Output Provided:**
   - Primary billing vs. monthly quota attainment.
-  - Secondary liquidation velocity across key mandis (Kota, Bundi, Baran, Jhalawar, Bhilwara).
+  - Secondary liquidation velocity across key markets (Kota, Bundi, Baran, Jhalawar, Bhilwara).
   - TSO beat plan compliance and counter visit rates.
   - Top 5 performing dealers and bottom 5 stagnant counters.
 
@@ -80,9 +80,9 @@ Ashutosh Sharma Sir can send any of the following slash commands in the Telegram
   - Preferred product lines (WeatherShield vs. Royal Luxury vs. Putty).
   - Loyalty tier status and VIP event eligibility.
 
-### 8. `/mandi <city>` — Territorial Market Share & Reconnaissance
+### 8. `/market <city>` — Territorial Market Share & Reconnaissance
 - **What it does:** Summarizes competitive dynamics in a specific district or city.
-- **Example:** `/mandi Bhilwara` or `/mandi Kota`
+- **Example:** `/market Bhilwara` or `/market Kota`
 - **Output Provided:**
   - Total retail counters mapped vs. active Swatch billing stockists.
   - Incumbent competitive moves (Asian Paints/Berger schemes, Birla Opus sign-ups).
@@ -93,7 +93,7 @@ Ashutosh Sharma Sir can send any of the following slash commands in the Telegram
 - **What it does:** Tracks vehicle delivery routes and customer fulfillment.
 - **Output Provided:**
   - Dispatches completed today from Kota mother factory.
-  - Vehicles currently en route to regional mandis with GPS ETA.
+  - Vehicles currently en route to regional markets with GPS ETA.
   - Delivery SLA compliance percentage (<24 hours).
   - Reported transit damage or leakage claims.
 
@@ -153,7 +153,7 @@ When configuring the bot in Telegram via **[@BotFather](https://t.me/BotFather)*
 
 ```text
 status - Real-time enterprise health & plant dashboard
-sales - Daily sales, primary billing & mandi metrics
+sales - Daily sales, primary billing & market metrics
 production - Kota plant reactor batch status & QA reports
 inventory - Finished goods stock & raw chemical reserves
 finance - Cash collections, AR aging & 21-day credit locks
@@ -161,7 +161,7 @@ sop - Daily SOP checklists & execution telemetry by department
 compliance - Enterprise SOP scorecard & operational exceptions
 dealer - Search dealer dossier, credit terms & order history
 contractor - Painter thekedar token scans & loyalty profile
-mandi - District market share, depot SLA & competitor intel
+market - District market share, depot SLA & competitor intel
 dispatch - Outbound logistics & fleet delivery status
 scrapling - Scrape competitor paint prices or chemical rates
 evolve - Trigger self-evolution skill optimization cycle

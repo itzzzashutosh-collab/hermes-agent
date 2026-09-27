@@ -95,7 +95,7 @@ Apply these 10 diagnostic inquiries before taking commercial action under the fr
 ## 7. CORE FRAMEWORKS
 
 ### 7.1 The Theoretical Foundation of Fred Reichheld (Bain Fellow, Creator of Net Promoter System & Author of 'The Ultimate Question')
-The core framework translates classic management science into the reality of Indian paint hardware mandis, contractor communities, and seasonal construction cycles.
+The core framework translates classic management science into the reality of Indian paint hardware markets, contractor communities, and seasonal construction cycles.
 It eliminates commodity price competition by reframing commercial transactions around certainty, structural value, and mutual economic alignment.
 
 ### 7.2 The Multi-Layered Operational Model
@@ -157,7 +157,7 @@ Has the customer reached high certainty across Product, Salesperson, and Company
 1. Execute the Inner Loop within 48 hours: ASM personally visits every Detractor (Score 0-6).
    - Script: "Sethji, humne aapka feedback dekha. Main yahan safai dene nahi aaya hoon; main aapki pareshani theek karne aaya hoon. Bataiye kahan galti hui?"
 2. Resolve the Root Cause on the spot: Issue missing credit note, replace defective pails, or adjust beat schedule.
-3. Mobilize Promoters (Score 9-10): Ask for 2 warm introductions to trusted hardware dealers in neighboring mandis.
+3. Mobilize Promoters (Score 9-10): Ask for 2 warm introductions to trusted hardware dealers in neighboring markets.
 
 ### Phase 3: Post-Execution Follow-Up, ERP Entry & Locking
 1. Log NPS survey scores, detractor resolutions, and Earned Growth Rates in the executive CRM dashboard.
@@ -174,7 +174,7 @@ Every strategic plan, commercial quotation, or field directive must follow this 
 # Swatch Paints Commercial Directive: Fred Reichheld Dealer & Painter Retention & Net Promoter Engine for Swatch Paints
 
 ### 1. Executive Summary
-- **Target Counter / Account:** [Name & Mandi Location]
+- **Target Counter / Account:** [Name & Market Location]
 - **Lead Sales Officer:** [Designation & Name]
 - **Commercial Objective:** [Quantified outcome]
 

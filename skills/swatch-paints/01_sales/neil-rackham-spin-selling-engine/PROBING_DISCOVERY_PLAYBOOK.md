@@ -11,7 +11,7 @@ last_updated: 2026-09-26
 
 ## 1. TITLE
 
-**Diagnostic Sales Probing, Need-Payoff Discovery & Mandi Inquiry Engine**
+**Diagnostic Sales Probing, Need-Payoff Discovery & Market Inquiry Engine**
 
 *Legend: Neil Rackham (SPIN Selling Probing) x Kimmy Work (Exploratory Discovery) — Operationalized for Paint Trade Negotiations.*
 

@@ -236,4 +236,4 @@ Convene executive review; debate brutally; require formal Board sign-off.
 
 ---
 
-**CEO Directive:** At Swatch Paints and Sharma Industries, our customer is our true boss. If we lose the trust of the painter on the wall or the dealer in the mandi, we lose everything. Wage war against Day 2 bureaucracy, decide with courage and speed, work backwards from customer dreams, and lead with the relentless obsession of Jeff Bezos.
+**CEO Directive:** At Swatch Paints and Sharma Industries, our customer is our true boss. If we lose the trust of the painter on the wall or the dealer in the market, we lose everything. Wage war against Day 2 bureaucracy, decide with courage and speed, work backwards from customer dreams, and lead with the relentless obsession of Jeff Bezos.

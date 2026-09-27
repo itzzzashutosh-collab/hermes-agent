@@ -54,7 +54,7 @@ To build an unstoppable marketing flywheel across Rajasthan and North India by d
   └─ Build loyalty by putting cash directly into their pockets via instant UPI tokens.
 
 [MODEL 4: ASYMMETRIC LOCAL WARFARE]
-  └─ Never fight legacy monopolies on national TV; concentrate 100% of force on single mandis.
+  └─ Never fight legacy monopolies on national TV; concentrate 100% of force on single markets.
   └─ Own 40% of the dealer counters in Kota before spending a single rupee in Jaipur.
 ========================================================================================
 ```
@@ -72,7 +72,7 @@ To build an unstoppable marketing flywheel across Rajasthan and North India by d
 ### Phase 2: Counter Point-of-Sale Domination
 1. Replace generic competitor promotional posters with high-impact, rigid acrylic Swatch Counter Displays.
 2. Provide dealers with branded architectural shade fan decks with thick, textured paint swatches.
-3. Install high-visibility exterior Glow-Sign Boards that illuminate the mandi street at night.
+3. Install high-visibility exterior Glow-Sign Boards that illuminate the market street at night.
 
 ### Phase 3: The Contractor Loyalty Flywheel
 1. Host monthly evening *Ustaad Chai Sammelans* at local community halls.
@@ -95,7 +95,7 @@ To build an unstoppable marketing flywheel across Rajasthan and North India by d
 
 - [ ] All marketing initiatives evaluated against direct commercial ROI (dispatch velocity).
 - [ ] Visual demonstration videos created for core architectural formulations.
-- [ ] Point-of-sale dealer counter branding secured in target mandis.
+- [ ] Point-of-sale dealer counter branding secured in target markets.
 - [ ] Contractor loyalty QR token engine integrated with live UPI payout.
 - [ ] Zero un-tracked advertising spend permitted without explicit lead capture.
 - [ ] Monthly marketing ROI report submitted to Ashutosh Sharma Sir and Hermes.

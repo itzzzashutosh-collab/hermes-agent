@@ -29,7 +29,7 @@ To systematically solve the Cold Start Problem in every new target market, conqu
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **Density Over Breadth (The Atomic Network Principle):** Having 20 active dealers and 100 master painters in a single city (Kota) creates an unbreakable growth flywheel; having 20 scattered dealers across 5 states is a guaranteed financial disaster.
-2. **Win the Hard Side First:** Dealers do not create demand; master contractors (Thekedars) do. If you win the loyalty of the top 15 master contractors in a town, every paint hardware dealer in that mandi is forced to stock Swatch Paints.
+2. **Win the Hard Side First:** Dealers do not create demand; master contractors (Thekedars) do. If you win the loyalty of the top 15 master contractors in a town, every paint hardware dealer in that market is forced to stock Swatch Paints.
 3. **The Anti-Network Trap:** Opening a dealer who cannot sell Swatch paint because local painters haven't been trained creates negative word-of-mouth; never open supply without activating demand simultaneously.
 4. **Ruthless Geographic Clustering:** Expand outward strictly in contiguous, adjacent circles; conquer Kota, then expand to Bundi and Baran, leveraging existing brand buzz and supply chain proximity.
 
@@ -45,7 +45,7 @@ In typical paint business expansions, companies fail due to the "Cold Start Trap
 - After 60 days, the dealer refuses to pay, complains that "the paint doesn't move," returns the stock, and tells neighboring dealers that Swatch is a flop.
 
 The purpose of this engine is to:
-- Identify and build the **Minimum Viable Atomic Network** in each target mandi (1 Hub Depot + 8 to 12 Active Retailers + 40 Master Thekedars).
+- Identify and build the **Minimum Viable Atomic Network** in each target market (1 Hub Depot + 8 to 12 Active Retailers + 40 Master Thekedars).
 - Focus 100% of initial customer acquisition effort on the **Hard Side of the Network (Contractors)**.
 - Achieve the **Tipping Point**: The moment when contractor word-of-mouth drives organic dealer demand without company pushing.
 - Scale outward using **The Escape Velocity Playbook**.
@@ -54,7 +54,7 @@ The purpose of this engine is to:
 
 ## 4. WHEN TO USE
 
-- Entering new regional cities, districts, or industrial paint mandis.
+- Entering new regional cities, districts, or industrial paint markets.
 - Reviving a stagnant or stalled sales territory where dealers are passive and stock is frozen.
 - Designing master contractor (Thekedar) recruitment, training, and loyalty incentive programs.
 - Allocating geographic expansion marketing budgets and field demonstration resources.
@@ -153,7 +153,7 @@ Can we recruit and train at least 15 Master Thekedars in Week 1?
    └─► YES: Proceed to Step 2.
                    │
                    ▼
-Select 6 to 8 Non-Competing Hardware Retailers in core mandis:
+Select 6 to 8 Non-Competing Hardware Retailers in core markets:
 Have the recruited thekedars committed their upcoming project volumes to these counters?
    ├─► NO : Continue demand-seeding until contractor pull is verified.
    └─► YES: LAUNCH ATOMIC NETWORK.
@@ -165,7 +165,7 @@ Have the recruited thekedars committed their upcoming project volumes to these c
 ## 10. STEP-BY-STEP TACTICAL EXECUTION PLAYBOOK
 
 ### Phase 1: Pre-Flight Market Scouting & Hard Side Recruitment (Days 1–14)
-1. Map the target city: Identify the central paint mandi and top 30 active commercial/residential construction sites.
+1. Map the target city: Identify the central paint market and top 30 active commercial/residential construction sites.
 2. Approach the top 20 master thekedars at their job sites with physical sample boards of Swatch Rustic.
 3. Host the **"Master Applicators Dinner"**: Provide high-end food, demonstrate application techniques, and enroll them in the **Swatch Champions Club** with instant digital reward perks.
 
@@ -188,7 +188,7 @@ Have the recruited thekedars committed their upcoming project volumes to these c
 # Swatch Paints Cold Start Atomic Network Dossier
 
 ### 1. Target Geography Profile
-- **Target City / Mandi:** Alwar City & Industrial Hub
+- **Target City / Market:** Alwar City & Industrial Hub
 - **Estimated Paint Market Size:** ₹4.5 Crore / Month
 - **Assigned Territory Lead:** [TSI Name]
 - **Target Atomic Network Size:** 8 Retailers + 30 Master Contractors
@@ -222,7 +222,7 @@ Have the recruited thekedars committed their upcoming project volumes to these c
 - Targeted the 12 most influential thekedars working on heritage hotel restorations and luxury bungalows in Bundi.
 - Provided free Swatch Rustic sample kits and gave each thekedar a dedicated technical applicator on-site for 2 days.
 - The thekedars fell in love with the high-build stone texture and weather-shield durability.
-- Together, the 12 thekedars walked into the top 3 paint shops in Bundi Mandi demanding Swatch Rustic for 6 ongoing hotel projects.
+- Together, the 12 thekedars walked into the top 3 paint shops in Bundi Market demanding Swatch Rustic for 6 ongoing hotel projects.
 - Result: All 3 dealers called head office the same afternoon begging for urgent dealership dispatches. Bundi reached full liquidity in 45 days, generating ₹28 Lakhs/month.
 
 ---

@@ -29,7 +29,7 @@ To guarantee operational excellence, eliminate systemic waste (Muda), prevent qu
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **Without Standards, There Can Be No Improvement:** (Taiichi Ohno). Standard Operating Procedures are not suggestions; they are the baseline foundation of all corporate capability.
-2. **Real-Time Telemetry Beats Post-Mortem Blame:** Track operational compliance while work is happening on the plant floor and in the mandis, catching deviations before they become commercial catastrophes.
+2. **Real-Time Telemetry Beats Post-Mortem Blame:** Track operational compliance while work is happening on the plant floor and in the markets, catching deviations before they become commercial catastrophes.
 3. **Zero Tolerance for Critical Exceptions:** Never look away from a quality test failure, an unauthorized credit extension, or a factory safety violation. Escalate immediately.
 4. **Radical Truth in Reporting:** The daily evening report to Ashutosh Sharma Sir must reflect ground reality with mathematical precision, completely free of corporate spin or superficial flattery.
 
@@ -113,7 +113,7 @@ Every morning, Department 08 provisions the following specific standard operatin
 ### Department 05: Brand & Community (`05_marketing_brand`)
 - **Daily SOPs Provided:**
   1. *Karigar Mela Schedule:* Confirm venue, catering, sample boards, and invitation rosters for upcoming contractor meets.
-  2. *Token Scan Telemetry Audit:* Monitor live painter QR code scan velocity across Rajasthan mandis.
+  2. *Token Scan Telemetry Audit:* Monitor live painter QR code scan velocity across Rajasthan markets.
   3. *Retail Branding Verification:* Track installation and lighting of 3D showroom boards at new Prime Stockist counters.
   4. *Direct Broadcast Cadence:* Dispatch approved educational WhatsApp voice notes and application tips to registered painters.
 - **Tracking Mechanism:** Painter Mobile App Dashboard + WhatsApp Business API delivery logs.
@@ -127,7 +127,7 @@ Every morning, Department 08 provisions the following specific standard operatin
 
 ### Department 07: Regional Expansion (`07_vision_growth`)
 - **Daily SOPs Provided:**
-  1. *Mandi Surveyor Briefing:* Review daily retail counter census targets for expansion districts (e.g., Bhilwara, Bundi).
+  1. *Market Surveyor Briefing:* Review daily retail counter census targets for expansion districts (e.g., Bhilwara, Bundi).
   2. *Scrapling Market Reconnaissance:* Run automated Scrapling jobs to track competitor paint price changes and PWD tenders.
   3. *Anchor Stockist Pipeline Audit:* Review progress of prospective #2 dealer conversions in target tehsils.
 - **Tracking Mechanism:** Scrapling Daily Output Logs + Territory Onboarding Pipeline in ERP.
@@ -154,7 +154,8 @@ Every morning, Department 08 provisions the following specific standard operatin
 
 Every evening at 18:30 PM, Department 08 calculates the **Enterprise SOP Compliance Index (ESCI)**:
 
-$$	ext{Departmental Score} = \left( rac{	ext{Completed SOP Checklist Items}}{	ext{Total Assigned SOP Items}} ight) 	imes 100$$
+$$	ext{Departmental Score} = \left( rac{	ext{Completed SOP Checklist Items}}{	ext{Total Assigned SOP Items}} 
+ight) 	imes 100$$
 
 ### Exception Tiers:
 | Tier Status | Score Range | Operational Meaning | Action Required |

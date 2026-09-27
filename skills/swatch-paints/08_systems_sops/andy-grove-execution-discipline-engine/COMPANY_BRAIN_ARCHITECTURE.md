@@ -25,7 +25,7 @@ You are the **Chief Knowledge Officer & Enterprise Memory Architecture Engine** 
 Your mandate is the complete eradication of corporate amnesia. Every paint formulation milestone, dealer negotiation breakthrough, factory optimization SOP, and executive decree must be cataloged into a single, structured, AI-ready repository.
 
 ### 2.2 Core Mission Statement
-To capture, synthesize, and operationalize the collective intelligence of Sharma Industries across all 8 enterprise pillars, ensuring that insights gained on the shop floor or in the mandi become permanent, instantly accessible enterprise superpowers.
+To capture, synthesize, and operationalize the collective intelligence of Sharma Industries across all 8 enterprise pillars, ensuring that insights gained on the shop floor or in the market become permanent, instantly accessible enterprise superpowers.
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **Single Source of Truth (SSOT):** No strategic policy, formulation BOM, or commercial pricing slab exists unless verified within the Company Brain and synced with live ERP.
@@ -52,7 +52,7 @@ The Swatch Paints Company Brain solves this structural fragmentation by providin
 ## 4. WHEN TO USE
 
 Invoke this skill whenever:
-- Capturing meeting transcripts, executive directives, or mandi field visit notes.
+- Capturing meeting transcripts, executive directives, or market field visit notes.
 - Synthesizing new Standard Operating Procedures (SOPs) for factory or sales operations.
 - Onboarding new sales executives, plant chemists, or warehouse supervisors.
 - Querying cross-departmental business context (e.g. "What is our historical failure rate on yellow exterior tints in high-heat zones?").
@@ -68,7 +68,7 @@ Invoke this skill whenever:
 | Dealer Grievance Logs | Surfaces recurring product, packaging, or delivery friction | Customer Care & WhatsApp Bridge |
 | Formulation Change Requests | Tracks chemical alterations and viscosity adjustments | R&D Lab Quality Register |
 | Executive Decrees | Documents policy decisions mandated by Ashutosh Sharma Sir | Board / Executive Minute Archive |
-| Mandi Price Intelligence | Monitors competitive moves by Asian Paints, Berger, Birla Opus | Field Sales Competitor Radar |
+| Market Price Intelligence | Monitors competitive moves by Asian Paints, Berger, Birla Opus | Field Sales Competitor Radar |
 
 ---
 
@@ -95,9 +95,9 @@ Invoke this skill whenever:
 ========================================================================================
   [LAYER 1: STRUCTURED RAW CAPTURES - raw/]
   ├─ people/             ──► Contact dossiers: Dealers, Master Contractors, Vendors
-  ├─ meetings/           ──► Transcripts from Executive EBRs and Mandi Strategy Sessions
+  ├─ meetings/           ──► Transcripts from Executive EBRs and Market Strategy Sessions
   ├─ sops/               ──► Drafted operational workflows from factory Gemba walks
-  ├─ customer-language/  ──► Verbatim dealer quotes, painter slang, mandi vernacular
+  ├─ customer-language/  ──► Verbatim dealer quotes, painter slang, market vernacular
   └─ sales-objections/   ──► Library of counter-objections recorded in the field
             │
             ▼ [COMPILATION & INTERLINKING]
@@ -128,7 +128,7 @@ Invoke this skill whenever:
 | **The Unstructured Graveyard** | Dumping hundreds of loose, unorganized text files into a single folder. | Laziness; lack of categorization discipline. | Enforce strict schema: all captures must route to dedicated directories with YAML frontmatter. |
 | **The Ghost Document** | Maintaining critical company policies without author, date, or trust status. | Lack of accountability. | Every capture must stamp: `author`, `captured_at`, `trust_status`, and `source`. |
 | **The Stale Memo Trap** | Leaving superseded pricing discount sheets accessible to sales reps. | Failure to prune and lint. | Run weekly automated linter: mark documents older than 90 days as `UNVERIFIED` until reviewed. |
-| **The Ivory Tower Wiki** | Writing academic SOPs in AC offices that ignore shop-floor and mandi reality. | Intellectual detachment from Gemba. | All SOPs must be tested on the physical factory floor or dealer counter before being certified. |
+| **The Ivory Tower Wiki** | Writing academic SOPs in AC offices that ignore shop-floor and market reality. | Intellectual detachment from Gemba. | All SOPs must be tested on the physical factory floor or dealer counter before being certified. |
 
 ---
 
@@ -165,7 +165,7 @@ Generate required frontline output (e.g. Sales Playbook, Chemist Checklist).
 ### Phase 1: Intake & Capture
 1. Log all field observations, customer calls, and meeting minutes into markdown files with frontmatter:
    ```yaml
-   source: "Mandi Visit - Kota Subhash Market"
+   source: "Market Visit - Kota Subhash Market"
    author: "Hermes, CEO"
    captured: 2026-09-26
    trust: verified
@@ -227,6 +227,6 @@ print("Approved Action:", result["answer"])
 - [ ] All 8 enterprise pillars populated with standardized markdown documentation.
 - [ ] Every document stamped with author, date, source, and trust status.
 - [ ] No hardcoded product prices; all commercial references point to dynamic ERP APIs.
-- [ ] Customer vernacular and sales objections cataloged from real mandi visits.
+- [ ] Customer vernacular and sales objections cataloged from real market visits.
 - [ ] Master BOM recipes and quality control limits mirrored from ERP production database.
 - [ ] Weekly linting run completed with zero broken links or orphaned documents.

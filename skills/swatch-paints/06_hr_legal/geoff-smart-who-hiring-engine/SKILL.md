@@ -41,7 +41,7 @@ This skill equips Swatch Paints Human Resources Heads, Department Leaders, and E
 
 In traditional Indian enterprises, hiring is plagued by "Voodoo Hiring":
 - Managers hire candidates based on superficial charm, smooth English speaking, or an impressive resume showing big corporate brand names (Asian Paints, Berger).
-- Once hired, the candidate turns out to be a "Bureaucratic B-Player" who cannot execute in field mandis, complains about lack of administrative support, alienates dealers, and resigns within 6 months.
+- Once hired, the candidate turns out to be a "Bureaucratic B-Player" who cannot execute in field markets, complains about lack of administrative support, alienates dealers, and resigns within 6 months.
 - The company wastes lakhs in salary, recruitment fees, and lost market opportunities.
 
 The purpose of this engine is to:
@@ -222,7 +222,7 @@ Do the past supervisors rate the candidate an 8, 9, or 10 on a 1-10 scale?
 **Smart 'Who' Topgrading Applied:**
 - Instead of being dazzled by the multinational brand name, the hiring panel conducted a 90-minute chronological Topgrading interview.
 - Discovered that the candidate was a "Maintenance Manager"—the territory had already been doing ₹18 Crore before he arrived; his organic growth was flat.
-- When asked the TORC question (*"What will your past regional manager say?"*), the candidate hesitated and admitted: *"He felt I was too desk-bound and didn't visit rural mandis."*
+- When asked the TORC question (*"What will your past regional manager say?"*), the candidate hesitated and admitted: *"He felt I was too desk-bound and didn't visit rural markets."*
 - Rejected the candidate. Hired an energetic candidate from a smaller regional challenger who had built a territory from scratch.
 - The hired ASM exceeded his 12-month scorecard by 28%, opening 34 new dealer counters across Kota, Bundi, and Baran in his first 6 months.
 

@@ -29,7 +29,7 @@ To build an elite, disciplined, mission-aligned workforce across factory and fie
 
 ### 2.3 Non-Negotiable Operating Principles
 1. **The Scorecard Precedes the Candidate:** Never interview a candidate without a written, outcome-based scorecard approved by executive leadership.
-2. **Hire for Cultural Fit & Mandi Grit:** A sales rep with high academic pedigree who refuses to sit at a dusty hardware counter drinking chai is useless. Value grit, commercial drive, and ethical character over smooth talk.
+2. **Hire for Cultural Fit & Market Grit:** A sales rep with high academic pedigree who refuses to sit at a dusty hardware counter drinking chai is useless. Value grit, commercial drive, and ethical character over smooth talk.
 3. **No Compromise on Integrity:** Commercial honesty is non-negotiable. Any candidate with a history of unauthorized discounting or credit manipulation is permanently disqualified.
 4. **Structured 30-60-90 Day Accountability:** Every new hire must progress through clear, measurable milestones before being granted autonomous territory or machine ownership.
 
@@ -77,7 +77,7 @@ Invoke this skill whenever:
 
 1. **What are the top 3 measurable outcomes this role must achieve in the first 90 days?**
 2. **What would a former manager say was this candidate's biggest operational weakness?**
-3. **Can this sales candidate comfortably spend 8 hours a day visiting dusty hardware mandis?**
+3. **Can this sales candidate comfortably spend 8 hours a day visiting dusty hardware markets?**
 4. **How do we evaluate a chemist's willingness to work night shifts during festive peak blending?**
 5. **Does the candidate demonstrate alignment with Ashutosh Sharma Sir's enterprise values?**
 6. **What specific evidence proves this candidate has achieved high sales growth in past roles?**
@@ -105,7 +105,7 @@ Invoke this skill whenever:
   â””â”€ Outcome 3: Maintain 100% on-time payment collection with DSO < 25 days.
 
 [3. CORE COMPETENCIES]
-  â”œâ”€ Mandi Cultural Fluency: Natural comfort in traditional Indian hardware trade.
+  â”œâ”€ Market Cultural Fluency: Natural comfort in traditional Indian hardware trade.
   â”œâ”€ Aggressive Follow-Through: Disciplined daily execution of 10 dealer/painter visits.
   â”œâ”€ Commercial Integrity: Absolute adherence to ERP pricing floors and credit rules.
   â””â”€ Technical Curiosity: Eager to understand TiO2 opacity, viscosity, and application.
@@ -178,7 +178,7 @@ hr = HRCoordinator()
 # 1. Generate scorecard for new requisition
 scorecard = hr.create_role_scorecard(
     role="TERRITORY_SALES_OFFICER",
-    territory="BHILWARA_MANDI",
+    territory="BHILWARA_MARKET",
     outcomes={
         "new_dealers_opened_90d": 18,
         "monthly_volume_liters_90d": 25000,
