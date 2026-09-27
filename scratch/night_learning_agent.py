@@ -24,7 +24,6 @@ load_env()
 
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8605561762:AAGLzdOrbMa-Adv0l9I6HVbsFM-MmQLOcHE")
 CHAT_ID = os.getenv("TELEGRAM_ALLOWED_USERS", "1661525228")
-FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY", "fc-5e66ba70399a463dad9ed6f6bd0b1b5b")
 KNOWLEDGE_DIR = ROOT_DIR / "knowledge" / "swatch_paints"
 COMPETITOR_DIR = KNOWLEDGE_DIR / "competitor_analysis"
 
@@ -74,7 +73,7 @@ COMPETITOR RESEARCH FOCUS & SCOPE:
 2. **Asian Paints (WATERBASED ONLY)** — Research Wall Putty, Tractor Emulsion, Apcolite, Apex, and TruCare Primers. EXCLUDE enamels, wood polishes, and metal paints. Analyze MRPs, dealer counter margins (<10%), points schemes, and applicator complaints.
 
 RESEARCH & MARKDOWN UPDATE INSTRUCTIONS:
-- You have scraping / browser tools and Firecrawl API Key (`{FIRECRAWL_API_KEY}`). Use credits conservatively (Budget: 1800 credits max, resets Oct 23).
+- Use your Firecrawl MCP hosted tools and browser/web search capabilities.
 - Update the Markdown research documents under `knowledge/swatch_paints/competitor_analysis/`:
   - `ASIAN_PAINTS_WATERBASED_RECON.md`
   - `NCL_ALLTEK_TEXTURE_RECON.md`
@@ -103,7 +102,7 @@ Generate a comprehensive Telegram Intelligence Report in Markdown format followi
 
 📁 *Markdown Knowledge Directory Synced:* `knowledge/swatch_paints/competitor_analysis/`
 
-👑 Hermes Status: Autonomous Learning, Live Research & Markdown Sync Active.
+👑 Hermes Status: Autonomous Learning, Live Research & Firecrawl MCP Sync Active.
 
 FILE CONTENT SNIPPET:
 {content_snippet}
@@ -163,11 +162,11 @@ FILE CONTENT SNIPPET:
         f"🚀 *EXPECTED BUSINESS & MARGIN IMPACT:*\n"
         f"Accelerates dealer SEGP starter pack onboarding and locks 100% credit compliance across regional markets.\n\n"
         f"📁 *Markdown Knowledge Directory Synced:* `knowledge/swatch_paints/competitor_analysis/`\n\n"
-        f"👑 Hermes Status: Autonomous Learning, Live Research & Markdown Sync Active."
+        f"👑 Hermes Status: Autonomous Learning, Live Research & Firecrawl MCP Sync Active."
     )
 
 def main():
-    print(f"[{datetime.datetime.now().isoformat()}] Starting Markdown-Focused Hermes Daily Recurring Autonomous Learning Daemon...")
+    print(f"[{datetime.datetime.now().isoformat()}] Starting Firecrawl MCP Enabled Hermes Daily Recurring Autonomous Learning Daemon...")
     verify_markdown_templates()
     
     while True:
@@ -190,11 +189,11 @@ def main():
         print(f"[{now.isoformat()}] Active Overnight Window Started. Target End: {target_end.isoformat()}")
 
         startup_msg = (
-            "🔥 *HERMES MARKDOWN COMPETITOR RECON ENGINE ACTIVE*\n\n"
+            "🔥 *HERMES FIRECRAWL MCP COMPETITOR RECON ENGINE ACTIVE*\n\n"
             "🎯 *Primary Rivals:* NCL Buildtek (Alltek Texture) & Asian Paints (Waterbased Only — No Enamels)\n"
-            "🔥 *Firecrawl API Integration:* Active (`FIRECRAWL_API_KEY` - 1800 Credits Cap)\n"
+            "🔥 *Firecrawl Integration:* Hosted Firecrawl MCP Server (`✓ enabled`)\n"
             "📚 *Scope:* 36 Knowledge Modules + 59 Skills + 8 Departments + Markdown Recon Docs\n\n"
-            "👑 Hermes AI Agent is conducting real-time competitor research, updating Markdown battlecards, and sending live intelligence reports..."
+            "👑 Hermes AI Agent is conducting real-time competitor research via Firecrawl MCP, updating Markdown battlecards, and sending live intelligence reports..."
         )
         send_telegram(startup_msg)
 
@@ -215,7 +214,7 @@ def main():
             time.sleep(min(3600, remaining))
 
         final_msg = (
-            "🌅 *HERMES MARKDOWN COMPETITOR RECON — CYCLE COMPLETE*\n\n"
+            "🌅 *HERMES FIRECRAWL MCP COMPETITOR RECON — CYCLE COMPLETE*\n\n"
             f"📅 *Completion Time:* 10:00 AM ({datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')})\n"
             f"📊 *Total Audits Executed:* {iteration} Native LLM Research Audits\n"
             f"📁 *Markdown Recon Directory Synced:* `knowledge/swatch_paints/competitor_analysis/`\n\n"
