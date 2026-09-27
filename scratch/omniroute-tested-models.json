@@ -1,0 +1,107 @@
+[
+  {
+    "model": "baseten/deepseek-ai/DeepSeek-V4-Pro",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 3.39,
+    "error": ""
+  },
+  {
+    "model": "huggingchat/deepseek-ai/DeepSeek-V4-Pro",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "model": "ollamacloud/deepseek-v4-pro",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "nvidia/qwen/qwen3.5-397b-a17b",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "nvidia/qwen/qwen3.5-122b-a10b",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "huggingchat/Qwen/Qwen3.5-397B-A17B",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "model": "nvidia/mistralai/mistral-large-3-675b-instruct-2512",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "baseten/openai/gpt-oss-120b",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 4.56,
+    "error": ""
+  },
+  {
+    "model": "nvidia/openai/gpt-oss-120b",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "ollamacloud/gpt-oss:120b",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "baseten/moonshotai/Kimi-K2.7-Code",
+    "chat_ok": true,
+    "tool_ok": true,
+    "latency": 20.9,
+    "error": ""
+  },
+  {
+    "model": "huggingchat/moonshotai/Kimi-K2.6",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "model": "nvidia/meta/llama-3.1-8b-instruct",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "model": "ofa/DeepSeek-V4-Pro-0813",
+    "chat_ok": false,
+    "tool_ok": false,
+    "latency": 0,
+    "error": "timed out"
+  },
+  {
+    "model": "typhoon/typhoon-v2.5-30b-a3b-instruct",
+    "chat_ok": true,
+    "tool_ok": true,
+    "latency": 2.47,
+    "error": ""
+  }
+]

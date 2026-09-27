@@ -1,0 +1,16 @@
+# FORMULATION INSIGHTS
+- Interior Emulsion: Uses 1 binder(s) with 25–30% concentration
+- Interior Emulsion: Relies on 1 filler(s) with 20–25% extender ratio
+- Interior Emulsion: Enhanced with 1 special additives like Coalescing Agent
+- Exterior Emulsion: Uses 1 binder(s) with 28–32% concentration
+- Exterior Emulsion: Relies on 1 filler(s) with 15–20% extender ratio
+- Exterior Emulsion: Enhanced with 2 special additives like Silicone Additive, Coalescing Agent
+- Primer: Uses 1 binder(s) with 30–35% concentration
+- Primer: Relies on 1 filler(s) with 35–40% extender ratio
+- Primer: Enhanced with 1 special additives like Biocide (In-can)
+- Distemper: Uses 1 binder(s) with 15–20% concentration
+- Distemper: Relies on 1 filler(s) with 60–70% extender ratio
+- Distemper: Enhanced with 1 special additives like Biocide (In-can)
+- Swatch Rustic: Uses 1 binder(s) with 22–26% concentration
+- Swatch Rustic: Relies on 1 filler(s) with 25–30% extender ratio
+- Swatch Rustic: Enhanced with 3 special additives like Silica Sand, Coalescing Agent, Defoamer
