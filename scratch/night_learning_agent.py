@@ -140,42 +140,59 @@ FILE CONTENT SNIPPET:
     )
 
 def main():
-    print(f"[{datetime.datetime.now().isoformat()}] Starting Hermes Native Autonomous Learning Engine...")
+    print(f"[{datetime.datetime.now().isoformat()}] Starting Hermes Daily Recurring Autonomous Learning Daemon...")
     
-    now = datetime.datetime.now()
-    target_end = now + datetime.timedelta(days=1)
-    target_end = target_end.replace(hour=10, minute=0, second=0, microsecond=0)
-
-    startup_msg = (
-        "🔥 *HERMES NATIVE AUTONOMOUS AI ENGINE ACTIVE*\n\n"
-        "📚 *Scope:* 36 Knowledge Base Modules + 59 Skills + 8 Departments + Competitor Battlecards\n\n"
-        "👑 Hermes AI Agent is performing real-time LLM analysis, upgrading skills/SOPs, auditing competitor battlecards, and sending live intelligence reports..."
-    )
-    send_telegram(startup_msg)
-
-    knowledge_files = sorted(list(KNOWLEDGE_DIR.glob("*.md")))
-    total_files = len(knowledge_files) if knowledge_files else 36
-    iteration = 0
-
-    while datetime.datetime.now() < target_end:
-        iteration += 1
-        target_file = knowledge_files[(iteration - 1) % len(knowledge_files)] if knowledge_files else Path(f"module_{iteration}.md")
+    while True:
+        now = datetime.datetime.now()
         
-        report = run_hermes_llm_audit(target_file, iteration, total_files)
-        send_telegram(report)
-        
-        # Sleep for 1 hour between detailed audits
-        time.sleep(3600)
+        # Daytime Standby Mode: 10:00 AM to 06:00 PM (18:00)
+        if 10 <= now.hour < 18:
+            next_start = now.replace(hour=18, minute=0, second=0, microsecond=0)
+            sleep_seconds = (next_start - now).total_seconds()
+            print(f"[{now.isoformat()}] Daytime Standby Mode. Next cycle starts today at 06:00 PM (in {sleep_seconds/3600:.2f} hours)...")
+            time.sleep(min(sleep_seconds, 300))
+            continue
 
-    final_msg = (
-        "🌅 *HERMES NATIVE AUTONOMOUS LEARNING — COMPLETE*\n\n"
-        f"📅 *Completion Time:* {datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')}\n"
-        f"📊 *Total Audits Executed:* {iteration} Native LLM Audits\n"
-        f"📚 *All Knowledge Base Modules, Skills, Departments & Competitor Battlecards Audited & Synced.* \n\n"
-        "👑 Hermes Autonomous Engine has completed its overnight run and shut down cleanly."
-    )
-    send_telegram(final_msg)
-    print("Hermes Native Learning Agent completed and auto-terminated cleanly at 10:00 AM.")
+        # Active Overnight Window (06:00 PM today -> 10:00 AM tomorrow morning)
+        if now.hour >= 18:
+            target_end = (now + datetime.timedelta(days=1)).replace(hour=10, minute=0, second=0, microsecond=0)
+        else:
+            target_end = now.replace(hour=10, minute=0, second=0, microsecond=0)
+
+        print(f"[{now.isoformat()}] Active Overnight Window Started. Target End: {target_end.isoformat()}")
+
+        startup_msg = (
+            "🔥 *HERMES DAILY AUTONOMOUS AI ENGINE — EVENING CYCLE STARTED*\n\n"
+            "📚 *Scope:* 36 Knowledge Base Modules + 59 Skills + 8 Departments + Competitor Battlecards\n\n"
+            "👑 Hermes AI Agent is performing real-time LLM audits, upgrading skills/SOPs, and sending live intelligence reports..."
+        )
+        send_telegram(startup_msg)
+
+        knowledge_files = sorted(list(KNOWLEDGE_DIR.glob("*.md")))
+        total_files = len(knowledge_files) if knowledge_files else 36
+        iteration = 0
+
+        while datetime.datetime.now() < target_end:
+            iteration += 1
+            target_file = knowledge_files[(iteration - 1) % len(knowledge_files)] if knowledge_files else Path(f"module_{iteration}.md")
+            
+            report = run_hermes_llm_audit(target_file, iteration, total_files)
+            send_telegram(report)
+            
+            remaining = (target_end - datetime.datetime.now()).total_seconds()
+            if remaining <= 0:
+                break
+            time.sleep(min(3600, remaining))
+
+        final_msg = (
+            "🌅 *HERMES DAILY AUTONOMOUS LEARNING — CYCLE COMPLETE*\n\n"
+            f"📅 *Completion Time:* 10:00 AM ({datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')})\n"
+            f"📊 *Total Audits Executed:* {iteration} Native LLM Audits\n"
+            "👑 Daily night run complete. Entering daytime standby mode until 06:00 PM."
+        )
+        send_telegram(final_msg)
+        print(f"[{datetime.datetime.now().isoformat()}] Overnight cycle completed cleanly. Entering daytime standby mode until 06:00 PM...")
+        time.sleep(60)
 
 if __name__ == "__main__":
     main()
