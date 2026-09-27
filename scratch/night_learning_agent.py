@@ -26,6 +26,7 @@ load_env()
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8605561762:AAGLzdOrbMa-Adv0l9I6HVbsFM-MmQLOcHE")
 CHAT_ID = os.getenv("TELEGRAM_ALLOWED_USERS", "1661525228")
 KNOWLEDGE_DIR = ROOT_DIR / "knowledge" / "swatch_paints"
+COMPETITOR_DIR = KNOWLEDGE_DIR / "competitor_analysis"
 
 def send_telegram(text: str):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -40,10 +41,11 @@ def send_telegram(text: str):
         return None
 
 def verify_and_update_competitor_csvs():
-    """Ensure NCL Buildtek & Asian Paints CSV datasets are updated and synced."""
-    ncl_csv = KNOWLEDGE_DIR / "competitor_recon_ncl_alltek.csv"
-    asian_csv = KNOWLEDGE_DIR / "competitor_recon_asian_paints.csv"
-    matrix_csv = KNOWLEDGE_DIR / "competitor_battlecard_matrix.csv"
+    """Ensure NCL Buildtek & Asian Paints CSV datasets are updated in competitor_analysis folder."""
+    COMPETITOR_DIR.mkdir(parents=True, exist_ok=True)
+    ncl_csv = COMPETITOR_DIR / "competitor_recon_ncl_alltek.csv"
+    asian_csv = COMPETITOR_DIR / "competitor_recon_asian_paints.csv"
+    matrix_csv = COMPETITOR_DIR / "competitor_battlecard_matrix.csv"
 
     if not ncl_csv.exists():
         with open(ncl_csv, "w", newline="", encoding="utf-8") as f:
@@ -112,7 +114,7 @@ Generate a detailed Telegram Intelligence Report in Markdown format exactly foll
 🚀 *EXPECTED BUSINESS & MARGIN IMPACT:*
 <Quantified impact on revenue, dealer counter margins (₹300+/bag Putty, ₹400+/bucket Texture), or operational float>
 
-📁 *CSV Datasets Synced:* `competitor_recon_ncl_alltek.csv`, `competitor_recon_asian_paints.csv`, `competitor_battlecard_matrix.csv`
+📁 *CSV Datasets Synced:* `knowledge/swatch_paints/competitor_analysis/`
 
 👑 Hermes Status: Autonomous Learning, Department Evolution & Competitor Audit Active.
 
@@ -173,7 +175,7 @@ FILE CONTENT SNIPPET:
         f"• *Waterbased vs Asian Paints:* Countered <10% dealer margins with ₹300+/bag counter margin, NABL 110-120 KU viscosity guarantee & ₹50 instant UPI cash token.\n\n"
         f"🚀 *EXPECTED BUSINESS & MARGIN IMPACT:*\n"
         f"Accelerates dealer SEGP starter pack onboarding and locks 100% credit compliance across regional markets.\n\n"
-        f"📁 *CSV Datasets Synced:* `competitor_recon_ncl_alltek.csv`, `competitor_recon_asian_paints.csv`, `competitor_battlecard_matrix.csv`\n\n"
+        f"📁 *CSV Datasets Synced:* `knowledge/swatch_paints/competitor_analysis/`\n\n"
         f"👑 Hermes Status: Autonomous Learning, Department Evolution & Competitor Audit Active."
     )
 
@@ -203,7 +205,7 @@ def main():
         startup_msg = (
             "🔥 *HERMES FOCUSED AUTONOMOUS AI ENGINE — EVENING CYCLE STARTED*\n\n"
             "🎯 *Primary Rivals:* NCL Buildtek (NCL Alltek Texture) & Asian Paints (Waterbased)\n"
-            "📚 *Scope:* 36 Knowledge Base Modules + 59 Skills + 8 Departments + 3 CSV Datasets\n\n"
+            "📚 *Scope:* 36 Knowledge Base Modules + 59 Skills + 8 Departments + Competitor CSV Directory\n\n"
             "👑 Hermes AI Agent is conducting deep competitor research, updating CSV battlecards, and sending live intelligence reports..."
         )
         send_telegram(startup_msg)
@@ -228,7 +230,7 @@ def main():
             "🌅 *HERMES FOCUSED AUTONOMOUS LEARNING — CYCLE COMPLETE*\n\n"
             f"📅 *Completion Time:* 10:00 AM ({datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p')})\n"
             f"📊 *Total Audits Executed:* {iteration} Native LLM Audits\n"
-            f"📁 *Competitor CSVs Updated:* `competitor_recon_ncl_alltek.csv`, `competitor_recon_asian_paints.csv`, `competitor_battlecard_matrix.csv`\n\n"
+            f"📁 *Competitor CSV Directory Synced:* `knowledge/swatch_paints/competitor_analysis/`\n\n"
             "👑 Daily night run complete. Entering daytime standby mode until 06:00 PM."
         )
         send_telegram(final_msg)

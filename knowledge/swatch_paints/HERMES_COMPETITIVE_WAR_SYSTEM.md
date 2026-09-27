@@ -47,9 +47,9 @@ $$\text{Deep Research (MRPs, Margins, Schemes, Reviews)} \longrightarrow \text{A
 
 Hermes AI Agent continuously researches, compiles, and updates structured CSV battlecards in the knowledge base:
 
-1. `knowledge/swatch_paints/competitor_recon_ncl_alltek.csv` — Full product breakdown, MRPs, landed costs, dealer margins, painter feedback, and counter-strategies for NCL Alltek Granitex, Fine Flex, Decor, and Primers.
-2. `knowledge/swatch_paints/competitor_recon_asian_paints.csv` — Product catalog, price lists, dealer margins, painter reviews, and counter-strategies for Asian Paints Wall Putty, Tractor Emulsion, Apex, and TruCare Primers.
-3. `knowledge/swatch_paints/competitor_battlecard_matrix.csv` — Unified economic comparison matrix for instant field sales pitches.
+1. `knowledge/swatch_paints/competitor_analysis/competitor_recon_ncl_alltek.csv` — Full product breakdown, MRPs, landed costs, dealer margins, painter feedback, and counter-strategies for NCL Alltek Granitex, Fine Flex, Decor, and Primers.
+2. `knowledge/swatch_paints/competitor_analysis/competitor_recon_asian_paints.csv` — Product catalog, price lists, dealer margins, painter reviews, and counter-strategies for Asian Paints Wall Putty, Tractor Emulsion, Apex, and TruCare Primers.
+3. `knowledge/swatch_paints/competitor_analysis/competitor_battlecard_matrix.csv` — Unified economic comparison matrix for instant field sales pitches.
 
 ---
 
